@@ -1,0 +1,50 @@
+.map-panel {
+	padding: 70px;
+	padding-top: 20px;
+}
+
+.map-panel .map .label {
+	padding-top: 20px;
+	font-size: 15px;
+	color: #999;
+}
+
+.map-panel .map .value {
+	font-size: 26px;
+}
+
+.map-panel .map .copyright {
+	padding-top: 50px;
+	color: #666;
+	font-style: italic;
+}
+
+.back-button {
+display: block;
+position: absolute;
+top: 0px;
+right: 0px;
+z-index: 30000;
+padding: 9.5px;
+border-left: 1px solid #ddd;
+border-bottom: 1px solid #ddd;
+color: black;
+font-size: 13px;
+}
+
+.map-button {
+  display: block;
+  position:absolute;
+  top:0px;
+  right: 238px;
+  z-index: 30000;
+  padding: 9.5px;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  color: black;
+  font-size: 13px;
+}
+
+.back-button:hover, .map-button:hover{
+   background-color: rgba(0, 0, 0, 0.05);
+}

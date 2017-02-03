@@ -37,8 +37,13 @@ gulp.task('browserify', function () {
             console.log(error.stack);
             this.emit('end');
         })
+        // this will output the non-minified version
+        .pipe(rename({basename: "lens", extname: ".js"}))
+        .pipe(gulp.dest('./dist'))
+        // this will output the minified version
         .pipe(uglify())
-        .pipe(rename('lens.js'))
+        //.pipe(rename('lens.js'))
+        .pipe(rename({basename:"lens", extname:".min.js"}))
         .pipe(gulp.dest('./dist'));
 });
 
