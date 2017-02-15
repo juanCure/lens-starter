@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">terraDigitalis</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>Terra Digitalis</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.7554/eLife.21900</article-id>
+      <article-categories>
+        <subj-group subj-group-type="display-channel">
+          <subject>Articulo de investigación</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Geografía</subject>
+        </subj-group>
+        <!--<subj-group subj-group-type="heading">
+          <subject>Genes and Chromosomes</subject>
+        </subj-group>-->
+      </article-categories>
+      <title-group>
+        <article-title>La regionalización físico-geográfica (RFG) del estado de Michoacán de Ocampo, México</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Espinoza Maya</surname>
+            <given-names>Alejandra</given-names>
+          </name>
+          <xref ref-type="aff" rid="espinoza"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bollo Manent</surname>
+            <given-names>Manuel</given-names>
+          </name>
+          <xref ref-type="aff" rid="bollo"/>
+        </contrib>
+        <aff id="espinoza">
+          <institution>Centro de Investigaciones en Geografía Ambiental</institution>
+        </aff>
+        <aff id="bollo">
+          <institution>Centro de Investigaciones en Geografía Ambiental</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2017</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2017, Alejandra Espinoza Maya, Manuel Bollo Manent</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>http://132.248.14.208/html/ojs/index.php/terra_digitalis/</self-uri>
+      <abstract>
+        <title>Abstract</title>
+        <p>El presente trabajo propone la Regionalización físico-geográfica (RFG) para Michoacán. Se basa en el método de distinción de unidades de la regionalización, a partir del mapa de la tipología regional de los paisajes, por medio de la asociación de paisajes de esta tipología en cada nivel taxonómico de la RFG. Se parte de la diferenciación de las Provincias físico-geográficas del territorio como unidad taxonómica superior que es posible representar a la escala de estudio y posteriormente se establecen las unidades inferiores de la taxonomía a su interior. Para Michoacán se distinguieron: 2 Provincias, 7 Subprovincias, 17 Distritos y 36 Regiones físico-geográficas en una superficie de 58,296.11 km2, a escala 1:500,000. La delimitación de estas unidades espaciales, resulta útil en diversos ámbitos, particularmente en la gestión, manejo y planeamiento del territorio, ya que están constituidas por niveles jerárquicos de unidades anidadas por medio de una taxonomía que permite abarcar diferentes escalas.. </p>
+      </abstract>
+      <kwd-group kwd-group-type="author-created">
+    <title>Palabras clave</title>
+    <kwd>Regionalización</kwd>
+    <kwd>paisaje físico-geográfico</kwd>
+    <kwd>taxonomía</kwd>
+     </kwd-group>
+   </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introducción</title>
+      <p>La Regionalizaci&#243;n se basa en un sistema de divisi&#243;n territorial de unidades espaciales de diferentes tipos (administrativas, econ&#243;micas o naturales). La RFG (de paisajes) permite entender la composici&#243;n, estructura, relaciones, diferenciaci&#243;n y desarrollo de los paisajes f&#237;sico-geogr&#225;ficos (f-g) individuales (geosistemas, complejos f-g) naturales y antroponaturales. El paisaje natural es el resultado de la interacci&#243;n de los componentes naturales (suelos, relieve, roca, agua clima y organismos vivos) en un espacio dado de la superficie terrestre. El paisaje antroponatural es el resultado de la modificaci&#243;n del paisaje natural por la actividad del hombre. </p>
+      <p>La RFG requiere entonces un procedimiento de an&#225;lisis, clasificaci&#243;n y cartograf&#237;a de estos paisajes, vistos como unidades gen&#233;ticas relativas y con integridad territorial; en ellos se desarrollan interacciones entre los componentes naturales que los constituyen y de estas interacciones depende su homogeneidad relativa (<xref rid="ID0b98e64f-8298-4292-826b-2607019ab5d5" ref-type="bibr" id="IDe667f1c3-20cd-4381-ab6c-b95b39c83ace">Mateo, 2002</xref>). </p>
+      <p>En M&#233;xico se han realizado regionalizaciones naturales con enfoques diferentes a la RFG, por ejemplo las Regionalizaciones fisiogr&#225;ficas de M&#233;xico, de Ord&#243;&#241;ez (<xref rid="IDbb7e327d-ad2e-4f47-9dfb-1fbd117e57ae" ref-type="bibr" id="IDf235f055-ddaa-4427-b387-857a8489d84e">1936, 1946</xref>), (<xref rid="ID692a2985-3ad4-45b0-bdf9-1e13f65e47e1" ref-type="bibr" id="IDdb0189d2-9553-473d-9906-cffb60bf0982">&#193;lvarez, 1961</xref>) y (<xref rid="IDcef849d3-58bc-41e0-aa3c-8ae99c006239" ref-type="bibr" id="ID783d042a-101c-4661-913d-31dc8b3a68d7">Alcorta, 1964</xref>), que tienen un enfoque de tipo geol&#243;gico-geomorfol&#243;gico y la regionalizaci&#243;n geomorfol&#243;gica de Michoac&#225;n de Ocampo (<xref rid="ID7ad65866-be36-4d55-b4f2-fb0258961f1f" ref-type="bibr" id="ID9218289b-ad67-44aa-8c37-9c39d8fe6825">Bocco et al., 1999</xref>). (<xref rid="IDe275898c-6e2b-4606-aaf0-40d64b983875" ref-type="bibr" id="ID180cca90-7be3-4553-8e7a-ae3e8975ecf1">SEDUE, 1988</xref>) elabora una regionalizaci&#243;n ecol&#243;gica de M&#233;xico con enfoque tipol&#243;gico. Las regionalizaciones posteriores tienen mayor complejidad en el proceso de sistematizaci&#243;n (<xref rid="ID6ce41c38-8645-42c8-b435-7ac6682fb13b" ref-type="bibr" id="ID80143d81-08a9-4a46-9a63-8189bcae1928">Cuanalo 1989</xref>; <xref rid="ID778824e7-2f3b-4d91-a2c1-6647d5ef17e6" ref-type="bibr" id="ID197bf80b-1f8f-4bbe-881f-fa524519c934">Qui&#241;ones, 1987</xref>; <xref rid="ID78355fc9-23a5-4ac9-a56c-afffe088465c" ref-type="bibr" id="IDa04e1930-1799-404e-bf4e-5ba74c458be4">Barajas et al., 1986</xref>).</p>
+      <p>Bajo el enfoque de la diferenciaci&#243;n f-g de los componentes naturales se tiene como antecedente &#8220;Una propuesta de Regionalizaci&#243;n f&#237;sico-geogr&#225;fica de M&#233;xico&#8221; (<xref rid="ID0709851a-76b2-4954-b3c8-207f8a4ae1ff" ref-type="bibr" id="IDbae5b569-f718-413a-94e8-91a8b52c5f94">Bollo et al., 2015</xref>), donde se distinguen tres niveles taxon&#243;micos para las unidades superiores de la RFG de M&#233;xico; Subcontinente (1), Pa&#237;ses (5), Territorios (10) y Provincias f&#237;sico-geogr&#225;ficas (15) como el nivel intermedio entre las unidades superiores y las inferiores. Tres niveles taxon&#243;micos para las unidades inferiores, Subprovincias, Distritos y Regiones f&#237;sico-geogr&#225;ficas; as&#237; como los &#237;ndices diagn&#243;sticos de dichas unidades.</p>
+      <p>Por lo cual, se realiza la RFG de Michoac&#225;n como parte de la tesis de doctorado: &#8220;La RFG como base para el estudio en el aumento y distribuci&#243;n geogr&#225;fica de la prevalencia de asma en Michoac&#225;n&#8221;. Su objetivo, en la primera etapa, fue distinguir las unidades inferiores de la RFG para el territorio mencionado. De tal manera, la RFG de Michoac&#225;n, presenta un sistema de subdivisi&#243;n del territorio en unidades de paisaje f-g, integradas en niveles jer&#225;rquicos, anidadas por medio de una taxonom&#237;a en el espacio. Esta clasificaci&#243;n permite distinguir unidades espaciales, definidas por &#237;ndices diagn&#243;sticos, con car&#225;cter individual e irrepetible. La delimitaci&#243;n de las unidades se realiza con el apoyo de herramientas (SIG) y m&#233;todos cient&#237;ficos del an&#225;lisis espacial.</p>
+    </sec>
+    <sec>
+      <title>Métodos</title>
+      <p>La Regionalizaci&#243;n y la Tipolog&#237;a f-g son dos formas de clasificaci&#243;n de los paisajes del nivel regional, &#237;ntimamente relacionadas, cuyo resultado es la diferenciaci&#243;n en unidades espaciales de un territorio a escala regional seg&#250;n criterios particulares de cada clasificaci&#243;n y la representaci&#243;n de dichas unidades por medio de la cartograf&#237;a, con el uso de sistemas de unidades taxon&#243;micas espec&#237;ficas para cada una de ellas. El proceso de clasificaci&#243;n del espacio, en ambas, es el resultado de la integraci&#243;n entre los componentes naturales, pero seg&#250;n criterios diferentes.</p>
+      <p>La Tipolog&#237;a f-g distingue los paisajes cuando integra los componentes naturales y antropog&#233;nicos, identifica los espacios con rasgos comunes que son an&#225;logos. Los paisajes f-g tipol&#243;gicos son por tanto repetibles en el espacio y en el tiempo, su clasificaci&#243;n se realiza por analog&#237;a en funci&#243;n de determinados rasgos comunes de los componentes que conforman su estructura (<xref rid="ID0b98e64f-8298-4292-826b-2607019ab5d5" ref-type="bibr" id="IDc587abd3-eeb3-4d5b-9dfd-0ce9035e6533">Mateo, 2002</xref>). </p>
+      <p>La RFG es un sistema de subdivisi&#243;n del espacio en el cual se clasifican y delimitan los paisajes f-g por rasgos caracter&#237;sticos, propios, &#250;nicos de cada porci&#243;n del espacio. Los paisajes f-g individuales se determinan a partir de los principios de objetividad, integridad territorial, complejidad, homogeneidad, unidad gen&#233;tica y combinaci&#243;n de factores zonales y azonales de la diferenciaci&#243;n geogr&#225;fica. Estos son el soporte para el diagn&#243;stico de las unidades de la RFG (<xref rid="IDacd0c4da-de61-4203-ae52-22e322ed871c" ref-type="bibr" id="IDdd6eedca-2747-474a-8a47-f57916039cb3">Isachenko, 1991:222</xref>), las que se representan cartogr&#225;ficamente en un s&#243;lo areal, con nombres propios; es un proceso de &#8220;personalizaci&#243;n&#8221; del espacio, lo que hace que cada paisaje f-g de la regionalizaci&#243;n sea &#250;nico en la naturaleza (<xref rid="ID0709851a-76b2-4954-b3c8-207f8a4ae1ff" ref-type="bibr" id="ID081cbcec-1227-44b8-bf09-6fee2f48bf8e">Bollo et al., 2015</xref>).</p>
+      <p>En la (<xref ref-type="table" rid="tbl1">Tabla 1</xref>) se presentan los sistemas de unidades taxon&#243;micas de RFG y de la Tipolog&#237;a f-g en el nivel regional y su escala de representaci&#243;n. Tambi&#233;n se muestran las unidades de la taxonom&#237;a de los paisajes del nivel local. La escala 1:250 000 la transici&#243;n entre ambos niveles. Por la homogeneidad de los paisajes no es posible realizar regionalizaci&#243;n a nivel local, donde s&#243;lo se puede realizar la clasificaci&#243;n tipol&#243;gica del paisaje (<xref rid="ID0709851a-76b2-4954-b3c8-207f8a4ae1ff" ref-type="bibr" id="ID559db76a-eb02-48be-aa81-f8cd4ca78d2a">Bollo et al., 2015</xref>). Para cada nivel taxon&#243;mico se definen &#237;ndices que permiten realizar la clasificaci&#243;n de la superficie terrestre, tanto en la tipolog&#237;a como en la regionalizaci&#243;n f-g.</p>
+
+      <table-wrap id="tbl1" position="float">
+      <label>Tabla 1.</label>
+      <caption>
+      <title> Unidades taxonómicas más comunes de la cartografía regional en el enfoque físico-geográfico.
+      </title>
+      </caption>
+      <table frame="box" rules="all" border="1">
+        <thead>
+          <tr><th rowspan="1" colspan="4" align="center">Nivel (Escala)</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="3" align="center" rowspan="1">Nivel Regional (≤1:250 000 hasta ≤ 1:1 000 000)</td>
+            <td colspan="1" align="center" rowspan="1">Nivel local (≥1: 250 000)</td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="9">Nomenclatura de las unidades</td>
+            <td colspan="1" rowspan="1">Unidades Individuales (RFG)</td>
+            <td colspan="1" rowspan="1">Unidades Tipológicas (Tipología Regional)</td>
+            <td colspan="1" rowspan="1">Tipología Local</td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="1" align="center">Continente</td>
+            <td colspan="1" rowspan="1" align="center">Clase</td>
+            <td colspan="1" rowspan="1" align="center">Localidad</td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="1" align="center">Subcontinente</td>
+            <td colspan="1" rowspan="1" align="center">Tipo</td>
+            <td colspan="1" rowspan="1" align="center">Comarca</td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="1" align="center">País</td>
+            <td colspan="1" rowspan="1" align="center">Grupo</td>
+            <td colspan="1" rowspan="1" align="center">Subcomarca</td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="1" align="center">Territorio</td>
+            <td colspan="1" rowspan="1" align="center">Especie</td>
+            <td colspan="1" rowspan="1" align="center">Facie</td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="1" align="center">Provincia</td>
+            <td colspan="1" rowspan="1" align="center"></td>
+            <td colspan="1" rowspan="1" align="center"></td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="1" align="center">Subprovincia</td>
+            <td colspan="1" rowspan="1" align="center"></td>
+            <td colspan="1" rowspan="1" align="center"></td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="1" align="center">Distrito</td>
+            <td colspan="1" rowspan="1" align="center"></td>
+            <td colspan="1" rowspan="1" align="center"></td>
+          </tr>
+          <tr>
+            <td colspan="1" rowspan="1" align="center">Región</td>
+            <td colspan="1" rowspan="1" align="center"></td>
+            <td colspan="1" rowspan="1" align="center"></td>
+          </tr>
+        </tbody>
+      </table>
+      </table-wrap> 
+
+      <p>La RFG, surge en Rusia a partir de los trabajos de V.V. Dokuchaev a finales del siglo XIX; en los inicios del siglo XX se realizaron distintas regionalizaciones aplicando sus principales conceptos y enfoques (<xref rid="IDf88fbbfe-c628-4c8b-ac45-729505941839" ref-type="bibr" id="IDc7644e21-9d35-4823-a2f5-f64bbdeca880">Berg, 1913</xref>; <xref rid="ID96ecfbc2-f58f-477e-a90f-3dbc444a0905" ref-type="bibr" id="IDaaae1a22-2443-4f43-b16f-40cb08563c8c">Suslov, 1947</xref>). Estas investigaciones sentaron las bases de las RFGs actuales; entre 1960 y 1987 quedan establecidos los principios b&#225;sicos y m&#233;todos de la RFG (<xref rid="ID0709851a-76b2-4954-b3c8-207f8a4ae1ff" ref-type="bibr" id="ID11a2c1ed-ec5d-47f4-8747-1ee225a6dd1d">Bollo et al., 2015</xref>). </p>
+      <p>A partir de 1978 se realizan las primeras RFGs en Am&#233;rica Latina. La RFG de Am&#233;rica Central y del Caribe (<xref rid="ID63d0fe67-901d-4ab4-9739-185aa7ffd65c" ref-type="bibr" id="ID50548b04-c0a0-4301-ac68-5f25e5a45e3b">Mateo, 1989</xref>), la RFG de Cuba (<xref rid="ID63d0fe67-901d-4ab4-9739-185aa7ffd65c" ref-type="bibr" id="ID5b79bb8e-2471-4c23-906e-e28a9f4620b3">Mateo y Acevedo, 1989</xref>); en Brasil actualmente se realiza la RFG con el uso de una metodolog&#237;a similar (<xref rid="IDb35c706d-5a35-4d65-9125-3b83d5ddd192" ref-type="bibr" id="IDd2dd19a7-8a3a-4219-8481-5b849ffbbdae">Mateo et al., 2004</xref>). </p>
+      <p>En 2015, se realiz&#243; la propuesta de RFG de M&#233;xico por Bollo y otros, a partir de la cual se inician los trabajos de distinci&#243;n de las unidades taxon&#243;micas inferiores de la RFG en el territorio mexicano, misma que es base del presente trabajo. </p>
+      <p>De manera que, se clasificaron las unidades inferiores de la Provincia f-g Pen&#237;nsula de Baja California (<xref rid="IDa1c6e32e-94a7-4d0e-803c-3f1c3eaab909" ref-type="bibr" id="ID4ca23678-0216-46e1-82f3-93410bd16cdf">Zaragoza, 2010</xref>) y de cuatro Subprovincias de la Provincia f-g Sierra Madre del Sur, en las que se ubica el estado de Guerrero (<xref rid="ID6b03c6ca-9fee-474d-bcf4-0f7002c0041c" ref-type="bibr" id="IDd398ab97-b1d0-4763-ba79-c4a1751dcec3">Ort&#237;z, 2014</xref>). Se trabaja en la propuesta de la RFG en el estado de Jalisco, la cual abarca parte de las Provincias f-g Eje Neovolc&#225;nico Transmexicano y Sierra Madre Occidental. </p>
+      <p>En consecuencia, surge la propuesta de realizar la RFG en sus unidades inferiores para Michoac&#225;n, la cual abarca parte de las Provincias f-g Eje Neovolc&#225;nico Transmexicano (ENT) y Sierra Madre del Sur (SMS). Para la delimitaci&#243;n de estas unidades inferiores, se toma como base la tipolog&#237;a de los paisajes de Michoac&#225;n realizada por (<xref rid="IDa8c7ee43-3237-4170-b74f-13631f74630b" ref-type="bibr" id="IDf3e3e642-c380-432a-8635-bf71af6bcc56">Ram&#237;rez et al., 2012</xref>).</p>
+    </sec>
+    <sec>
+      <title>Proceso metodol&#243;gico</title>
+      <p>El m&#233;todo inductivo aplicado para realizar la RFG se conoce como el &#8230;<italic>m&#233;todo de distinci&#243;n de los paisajes regionales de la RFG sobre la base del an&#225;lisis del mapa tipol&#243;gico regional de los paisajes, el cual parte de dos principios: primero, que la clasificaci&#243;n tipol&#243;gica regional de los paisajes caracteriza la estructura de la envoltura geogr&#225;fica a ese nivel por lo que constituye una buena base para la RFG y segundo, que a escala regional, una unidad f&#237;sico &#8211; geogr&#225;fica individual es el resultado de la asociaci&#243;n definida de paisajes (de car&#225;cter tipol&#243;gico) en cada nivel taxon&#243;mico de la RFG</italic>&#8230; (<xref rid="ID0709851a-76b2-4954-b3c8-207f8a4ae1ff" ref-type="bibr" id="ID24f93564-1223-410f-80b9-bf6d76660454">Bollo et al., 2015:22</xref>). </p>
+      <p>Las unidades superiores de la RFG de M&#233;xico que se reconocen para el territorio nacional, tienen correspondencia para Michoac&#225;n con las unidades que se muestra en la (<xref ref-type="fig" rid="fig1">Figura 1</xref>).</p>
+      <p>El proceso metodol&#243;gico parte de la unidad intermedia de clasificaci&#243;n, la Provincia f&#237;sico-geogr&#225;fica, por medio de la aplicaci&#243;n de &#237;ndices diagn&#243;stico y de la asociaci&#243;n de las unidades de la tipolog&#237;a (seg&#250;n el nivel taxon&#243;mico de la clasificaci&#243;n); subsecuentemente se distinguen las unidades inferiores: Subprovincias, Distritos y Regiones f-g (<xref rid="fig2" ref-type="fig">Figura 2</xref>). </p>
+      <p>Fue necesaria una revisi&#243;n de los l&#237;mites de los paisajes del &#8220;Mapa de Paisajes f&#237;sico-geogr&#225;ficos del Estado de Michoac&#225;n&#8221; (<xref rid="ID0b98e64f-8298-4292-826b-2607019ab5d5" ref-type="bibr" id="ID31281a11-06a6-4f08-aed3-92fe8d75e3e8">Ram&#237;rez et al., 2012</xref>) con base en la visualizaci&#243;n de los componentes naturales del Estado (con apoyo del MDT, r&#237;os, cuerpos de agua, vegetaci&#243;n, morfolog&#237;a del relieve y modelo altitudinal). La <xref rid="fig3" ref-type="fig">Figura 3</xref>, muestra las etapas del proceso metodol&#243;gico.</p>
+      <p>Actualizadas las unidades inferiores de la tipolog&#237;a (Clases, Subclases, Tipos y Grupos de paisajes f-g) se inicia la distinci&#243;n de las unidades inferiores de la RFG; se establece el nivel de Subprovincias al interior de las Provincias; para distinguirlas se tomaron en cuenta los &#237;ndices diagnostico que les definen: Asociaci&#243;n de clases y subclases de Paisaje f-g de la Tipolog&#237;a, predominio de megaformas de relieve y comunidad espacial. El an&#225;lisis de dichos &#237;ndices permiti&#243; observar una correspondencia con las Subprovincias de la clasificaci&#243;n fisiogr&#225;fica elaborada por INEGI (<xref rid="ID778824e7-2f3b-4d91-a2c1-6647d5ef17e6" ref-type="bibr" id="ID80197983-5700-41b9-a7d3-1c140db6cdea">Qui&#241;ones, 1987</xref>), sin embargo se establecen las mismas seg&#250;n los l&#237;mites de las subclases de paisaje en el mapa tipol&#243;gico.</p>
+      <p>Posteriormente se establecieron los Distritos f-g al interior de las Subprovincias f-g, &#233;stos se delimitaron a partir de los &#237;ndices diagn&#243;stico que les identifican: Asociaci&#243;n de tipos de Paisaje (Tipolog&#237;a), asociaci&#243;n de tipos de clima, de macroformas del relieve y comunidad espacial.</p>
+      <p>Finalmente se delimitaron las Regiones f-g, representan el nivel inferior de la taxonom&#237;a de la RFG, &#233;stas se definen por medio de los &#237;ndices diagn&#243;stico que les identifican: Asociaci&#243;n de Grupos de paisaje (Tipolog&#237;a), de mesoformas del relieve, de subtipos de clima y comunidad espacial.         </p>
+      <p>Del proceso anterior se obtuvieron las Subprovincias, los Distritos y las Regiones f&#237;sico-geogr&#225;ficas sobre las cuales se estableci&#243; el territorio de Michoac&#225;n. Sin embargo, es necesario aclarar que la descripci&#243;n que se realiza de las unidades de la RFG se hace solamente al interior del l&#237;mite pol&#237;tico-administrativo del Estado. </p>
+      <p>Dada la coincidencia espacial (no con limites similares) de las Subprovincias f-g, con las Subprovincias fisiogr&#225;ficas de la clasificaci&#243;n de INEGI (<xref rid="ID778824e7-2f3b-4d91-a2c1-6647d5ef17e6" ref-type="bibr" id="ID0a714c5a-1cbd-471a-a682-32dba8b5b45a">Qui&#241;ones, 1987</xref>), se decidi&#243; mantener la nomenclatura y n&#250;meros de identificaci&#243;n de estas &#250;ltimas. Con base en lo anterior, la (<xref ref-type="table" rid="tbl2">Tabla 2</xref>) muestra el n&#250;mero de la clasificaci&#243;n que le corresponde a cada Provincia y Subprovincia f-g.</p>
+      
+      <table-wrap id="tbl2" position="float">
+      <label>Table 2.</label>
+      <caption>
+      <title>Nomenclatura para las Provincias y Subprovincias f-g de Michoacán</title>
+      </caption>
+      <table frame="box" rules="groups" border="1">
+        <thead>
+        <tr>
+        <th rowspan="1" colspan="1">Provincias</th>
+        <th rowspan="1" colspan="1">Subprovincias</th>
+        <th rowspan="1" colspan="1">Clasificación</th>
+        </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="4" colspan="1" align="center">ENT (X)</td>
+            <td rowspan="1" colspan="1" align="center">Depresión de Chapala (53)</td>
+            <td rowspan="1" colspan="1" align="center">(X.53)</td>  
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" align="center">Mil Cumbres  (55)</td>
+            <td rowspan="1" colspan="1" align="center">(X.55)</td>  
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" align="center">Neovolcánica Tarasca (58)</td>
+            <td rowspan="1" colspan="1" align="center">(X.58)</td>  
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" align="center">Sierras y Bajíos Michoacanos (54)</td>
+            <td rowspan="1" colspan="1" align="center">(X.54)</td>  
+          </tr>
+          <tr>
+            <td rowspan="3" colspan="1" align="center">SMS (XII)</td>
+            <td rowspan="1" colspan="1" align="center">Cordillera costera del Sur (66)</td>
+            <td rowspan="1" colspan="1" align="center">(XII.66)</td>  
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" align="center">Costas del Sur (73)</td>
+            <td rowspan="1" colspan="1" align="center">(XII.73)</td>  
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" align="center">Depresión del Balsas (67)</td>
+            <td rowspan="1" colspan="1" align="center">(XII.67)</td>  
+          </tr>
+        </tbody>
+      </table>
+      </table-wrap>
+
+      <p>Para identificar los Distritos f-g se consideran letras may&#250;sculas, para las Regiones f-g se asignan letras min&#250;sculas. La nomenclatura en la clasificaci&#243;n queda como se muestra en el siguiente ejemplo:</p>
+      <p>
+        <italic>Provincia Subprovincia</italic>
+      </p>
+      <sec>
+        <title><bold>(X. 58. A. a)</bold> Tomend&#225;n - Cerro Jalpa - Presa Cerrito Colorado</title>
+        <p>Los nombres de cada unidad f-g se determinan a partir de:</p>
+        <p>&#61607;	Localidad administrativa de mayor superficie </p>
+        <p>&#61607;	Localidad administrativa con el mayor n&#250;mero de habitantes </p>
+        <p>&#61607;	Rasgo orogr&#225;fico de mayor altitud </p>
+        <p>&#61607;	Otros rasgos geogr&#225;ficos, hidrol&#243;gicos y culturales de importancia </p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Unidades de la RFG para el estado de Michoac&#225;n</title>
+      <p>Para la RFG de Michoac&#225;n se integraron, revisaron, organizaron, corrigieron y homologaron diferentes bases de datos, obteniendo como resultado: 2 Provincias, 7 Subprovincias, 17 Distritos y 36 Regiones f-g (<xref rid="tbl3" ref-type="table">Tabla 3</xref>; <xref rid="fig4" ref-type="fig">Figura 4</xref>).</p>
+      <p>Cabe mencionar que al norte de la Provincia f-g ENT existen superficies que aunque son parte de Michoac&#225;n, paisaj&#237;sticamente pertenecen a otras Subprovincias (Baj&#237;o Guanajuatense, Llanuras y Sierras de Quer&#233;taro e Hidalgo y Lagos y Volcanes del An&#225;huac) que no han sido estudiadas a&#250;n, por lo que no se tomaron en cuenta en la RFG; abarcan 709.21 km2 del Estado y forman parte de los municipios de Angamacutiro, Contepec, Epitacio Huerta, Jos&#233; Sixto Verduzco, Maravat&#237;o y Puru&#225;ndiro.</p>
+
+      <table-wrap id="tbl3" position="float">
+      <label>Tabla 3.</label>
+      <caption>
+      <title>Subprovincias, Distritos y Regiones f-g de la Provincia ENT en Michoacán</title>
+      </caption>
+      <table frame="box" rules="groups">
+        <thead>
+          <tr>
+            <th></th>
+            <th>Subprovincia</th>
+            <th>Distritos</th>
+            <th>Regiones</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="16">ENT(X)</td>
+            <td rowspan="2">Depresión de Chapala (X.53)3450.08 km2</td>
+            <td rowspan="1">La Ciénega de Chapala - Lago de Chapala (X.53.B) 1746.04 km2</td>
+            <td rowspan="1">Ocotlán - Zamora de Hidalgo  Cerro el Encinal – Valle de Zamora (X.53.B.d) 1746.04 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="1">Sierra El Tigre - Barranca Verde -  Sierra de Pajacuarán (X.53.D) 1704.04 km2</td>
+            <td rowspan="1">Cotija de la Paz - Cerro la Caja - Presa San Juanico (X.53.D)  1704.04 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="5">Sierras y Bajíos Michoacanos (X.54)5963.39 km2</td>
+            <td rowspan="2">La Piedad.- Cerro la Joya - Río Lerma (X.54.A) 1417.55 km2</td>
+            <td rowspan="1">La Piedad -  Numarán – La Mesa de Acuitzio (X.54.A.a) 437.65 km2 </td>
+          </tr>
+          <tr>
+            <td rowspan="1">Puruándiro – Villachuato  - Cerro la Joya (X.54.A.b) 979.9 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="3">Morelia - Cerro la Leonera - Lago de Cuitzeo (X.54.B) 4545.84 km2</td>
+            <td rowspan="1">Purépero – Tangancícuaro – Cerro la Beata (X.54.B.a) 1603.45 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="1">Zacapu – Cerro la Leonera – Ciénega de Zacapu (X.54.B.b) 1694.71 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="1">Morelia – Queréndaro – Lago de Cuitzeo (X.54.B.c) 1247.68 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="6">Mil Cumbres (X.55)6283.56 km2</td>
+            <td rowspan="2">Zinapécuaro – Cuitareo – Cerro de en medio – Sierra de Mil Cumbres (X.55.A) 3746.87  km2</td>
+            <td rowspan="1">Zinapécuaro – San Nicolás Obispo – Cerro de Enmedio (X.55.A.a) 2822.37 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="1">Villa Madero – San Antonio Villalongín – Cerro el Guanil (X.55.A.b) 924.5 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="4">Zitácuaro - Cerro Prieto - Santuario de la Mariposa Monarca (X.55.B)2536.69  km2</td>
+            <td rowspan="1">Ciudad Hidalgo – Maravatío – Presa Tepuxtepec (X.55.B.a) 989.79 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="1">Tlalpujahua – Cerro el Gallo – Parque Nacional Rayón (X.55.B.b) 253.44 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="1">Tuxpan – San Felipe – Cerro Zirahuato (X.55.B.c) 639.54 253.44 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="1">Zitácuaro – Angangueo – Cerro Prieto – Santuario de la Mariposa Monarca  (X.55.B.d) 653.92 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="3">Neovolcánica Tarasca (X.58)</td>
+            <td rowspan="2">Los Reyes - Cerro San Miguel -  Escarpe limítrofe (X.58.A) 3540.2 km2</td>
+            <td rowspan="1">Tomendán - Cerro Jalpa - Presa Cerrito Colorado (X.58.A.a) 1425.73 km2</td>
+          </tr>
+          <tr>
+            <td rowspan="1">Tacámbaro – Tecario - Río Cupatitzio (X.58.A.b) 2114.47 km2 </td>
+          </tr>
+          <tr>
+            <td rowspan="1">Uruapan -  Cerro Tancítaro - Lago de Pátzcuaro (X.58.B) 7070.82 km2</td>
+            <td rowspan="1">Uruapan – Pátzcuaro -Meseta Purépecha (X.58.B.a) 7070.82 km2</td>
+          </tr>
+          <!-- Aqui empieza la continuación de la tabla-->	
+          <tr>
+          	<td rowspan="20"> Sierra Madre del Sur(XII)</td>
+          	<td rowspan="11">Cordillera Costera del Sur (XII.66) 20682.4 km2</td>
+          	<td rowspan="2">Aguililla - Cerro Vaca Pinta - Puerto el  Zorrillo (XII.66.A) 5439.86 km2</td>
+          	<td rowspan="1">Ixtlahuacán - Cerro Las Morenas (XII.66.A.a) 978.61 km2 </td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Aguililla - Cerro Vaca Pinta (XII.66.A.b) 4461.25 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="2">Arteaga - Cerro La Magueyera  (XII.66.B) 5606.61 km2</td>
+          	<td rowspan="1">Arteaga - Cerro El Capulín (XII.66.B.a) 5130.39 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">El Fresnal - Cerro La Magueyera (XII.66.B.b) 476.22 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="2">La Huacana - Sierra El Coco - Presa Infiernillo  (XII.66.C) 6490.61 km2</td>
+          	<td rowspan="1">La Huacana - Presa Infiernillo (XII.66.C.a) 4534.49 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Poturo - Cerro Pino Alto (XII.66.C.b) 1956.12 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="3">Tamazula de Gordiano - Sierra Lalo - Presa Chilatán  (XII.66.H) 434.98 km2</td>
+          	<td rowspan="1">Tamazula de Gordiano - Sierra Lalo (XII.66.H.b) 197.34 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Jilotlán de Dolores - Cerro Las Ollas (XII.66.H.c) 202.91 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">El Terrero - Presa Chilatán (XII.66.H.d) 34.73 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="2">Apatzingán - Cerro Buenavista Tomatlán - Depresión del Tepalcatepec  (XII.66.I) 2710.34 km2</td>
+          	<td rowspan="1">Tepalcatepec - Cenobio Moreno - Río Grande (XII.66.I.a) 1752.6 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Nueva Italia - El Ceñidor (x|XII.66.I.b) 957.74 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="5">Depresión del Balsas (XII.67) 6415.47 km2</td>
+          	<td rowspan="2">Cuitareo - Cerros Grande - Azul (XII.67.A) 2631.52 km2</td>
+          	<td rowspan="1">Nocupétaro - Cerro de Mariana (XII.67.A.a) 1420.79 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Cuitareo - Cerro Grande (XII.67.A.b) 1210.73 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="2">Ciudad Altamirano - Cerro Terreros Blancos (XII.67.B) 3381.63 km2</td>
+          	<td rowspan="1">Ciudad Altamirano - Cerro El Alacrán (XII.67.B.a) 686.02 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Bejucos - Cerro Terreros Blancos - Presa El Gallo (XII.67.B.b) 2695.61 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Taxco de Alarcón - Volcán El Molcajete (XII.67.C) 402.32 km2</td>
+          	<td rowspan="1">Luvianos - Sierra Nanchititla (XII.67.C.a) 402.32 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="4">Costas del Sur (XII.73) 4180.99 km2</td>
+          	<td rowspan="4">Tecomán - Lázaro Cárdenas - Cerro La Mancira (XII.73.A)4180.99 km2</td>
+          	<td rowspan="1">Tecomán - Cerro De Ortega (XII.73.A.a) 147.77 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Aquila - Cerro La Mancira (XII.73.A.b) 2478.5 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Caleta de Campos - Cerro Razo (XII.73.A.c) 849.53 km2</td>
+          </tr>
+          <tr>
+          	<td rowspan="1">Lázaro Cárdenas - Cerro Las Ollas (XII.73.A.d) 705.19 km2 </td>
+          </tr>
+        </tbody>
+      </table>
+      </table-wrap>
+
+      <p>La SMS es la Provincia f-g de mayor superficie en Michoac&#225;n, donde abarca el 35.5% (<xref rid="tbl3" ref-type="table">Tabla 3</xref>; <xref rid="fig4" ref-type="fig">Figura 4</xref>). Aqu&#237; la Subprovincia f-g de mayor extensi&#243;n territorial es la Cordillera Costera del Sur, que cuenta con 20682.4 km2 (66.1% de la unidad) (<xref rid="fig7" ref-type="fig">Figura 7</xref>). <xref rid="fig5" ref-type="fig">Figura 5</xref>). Se integra por 3 Subprovincias, 9 Distritos y 20 Regiones (</p>
+      <p>El Distrito f-g de mayor tama&#241;o al interior de Michoac&#225;n es Uruapan &#8211; Cerro Tanc&#237;taro &#8211; Lago de P&#225;tzcuaro (X.58.B) con 7070,82 km2 lo que representa el 12.1% del Estado; forma parte del ENT y de la Subprovincia f-g Neovolc&#225;nica Tarasca (X.58). Debido a la homogeneidad de las caracter&#237;sticas naturales de este Distrito f-g no fue posible su delimitaci&#243;n en dos taxones con caracter&#237;sticas diferentes entre s&#237;, por lo que representa a su vez una Regi&#243;n f-g con las mismas caracter&#237;sticas que dicho Distrito.</p>
+      <p>La segunda Regi&#243;n f-g, con caracter&#237;sticas propias, que abarca mayor &#225;rea en Michoac&#225;n es Arteaga &#8211; Cerro El Capul&#237;n (XII.66.B.a), con 5130.39 km2, el 8.8% del Estado. </p>
+      <p>Las unidades de la RFG integran elementos naturales que componen cada uno de los paisajes; se diferencian elementos como geolog&#237;a, relieve, clima, cobertura de vegetaci&#243;n, edafolog&#237;a e hidrograf&#237;a.</p>
+      <p>Con la descripci&#243;n en extenso de las unidades de la RFG para Michoac&#225;n, se prepara un libro que caracteriza cada uno de los paisajes con los elementos naturales que los constituyen. Este libro estar&#225; bajo la Direcci&#243;n General de Publicaciones y Fomento Editorial del Centro de Investigaciones en Geograf&#237;a Ambiental de la UNAM. Ser&#225; una herramienta &#250;til en el conocimiento geogr&#225;fico de la Entidad y puede ser la base para otros trabajos de investigaci&#243;n enfocados en la gesti&#243;n y planeamiento del territorio, as&#237; como en investigaciones geogr&#225;ficas b&#225;sicas de caracterizaci&#243;n y descripci&#243;n del Estado o porciones m&#225;s detalladas del mismo.</p>
+    </sec>
+    <sec>
+      <title>Conclusiones</title>
+      <p>Esta clasificaci&#243;n es un procedimiento de diferenciaci&#243;n y cartograf&#237;a de unidades de paisaje que sigue un enfoque l&#243;gico, sist&#233;mico e integrador.</p>
+      <p>La RFG de Michoac&#225;n puede y debe continuar para el resto del territorio de M&#233;xico, ya que la base de su delimitaci&#243;n (Tipolog&#237;a de los paisajes f-g) est&#225; lista para todo el Pa&#237;s y los insumos para su actualizaci&#243;n se encuentran en la base de la cartograf&#237;a digital de INEGI. </p>
+      <p>El enfoque t&#233;cnico-anal&#237;tico de las unidades espaciales permite estudiar el territorio a trav&#233;s de las regularidades de diferenciaci&#243;n espacial, propiedades y din&#225;mica de los paisajes y procesos de transformaci&#243;n que se vinculan directamente con las actividades humanas.</p>
+      <p>Una de las posibles desventajas en su elaboraci&#243;n es el manejo de los SIG, herramienta b&#225;sica para la distinci&#243;n de las unidades f-g, as&#237; como la supervisi&#243;n del experto. Sin embargo, la distinci&#243;n de las unidades de la RFG permite la evaluaci&#243;n mediante el an&#225;lisis espacial de estos individuos f-g a diferentes niveles en la escala Regional, por lo que su utilidad y su aporte puede estar en diferentes &#225;mbitos de la evaluaci&#243;n del territorio, del estado del medio ambiente, en el an&#225;lisis del potencial natural y/o tur&#237;stico, en el manejo de unidades ambientales en los ordenamientos ecol&#243;gicos y territoriales, entre otros.</p>
+      <p>Con la integraci&#243;n de informaci&#243;n socioecon&#243;mica o sociocultural a las unidades de la RFG, se llega a la Regionalizaci&#243;n Geoecol&#243;gica del territorio, donde el an&#225;lisis se centra adem&#225;s en los usos y apropiaciones, as&#237; como en el grado de modificaci&#243;n del paisaje.</p>
+      <p>
+        <bold>Software</bold>
+      </p>
+      <p>El software utilizado es ArcGis 10.1. </p>
+    </sec>
+    <sec>
+      <title>Agradecimientos</title>
+      <p>Se agradece el apoyo de CONACYT, como la instituci&#243;n que brinda la beca de posgrado; a la UNAM, particularmente al CIGA, como el centro donde se realiza la tesis de Doctorado; la colaboraci&#243;n del Dr. Alberto Ort&#237;z Rivera y el Mtro. Rodolfo Ru&#237;z L&#243;pez en la elaboraci&#243;n de la RFG para Guerrero y Jalisco, respectivamente, como precedente para la RFG de Michoac&#225;n; el apoyo en campo de la Dra. Sara Barrasa, del Dr. Iv&#225;n Franch Pardo, de la Mtra. Ayesa Mart&#237;nez Serano, del Dr. J.M Mateo Rodr&#237;guez y de la Lic. Diana Ch&#225;vez. Muy particularmente al Dr. Manuel Bollo por guiar este proyecto y prestarle toda la atenci&#243;n y el apoyo necesarios. </p>
+    </sec>
+    <sec>
+      <title>Diseño del mapa</title>
+      <p>Todas las capas de informaci&#243;n se trabajaron con las siguientes el siguiente sistema de referencia:</p>
+      <p>Proyecci&#243;n: C&#243;nica Conforme de Lambert</p>
+      <p>Datum: North American 1927</p>
+      <p>Unidades: Metros</p>
+      <p>Las capas de curvas de nivel, r&#237;os, localidades y cuerpos de agua, se obtuvieron del conjunto de informaci&#243;n topogr&#225;fica digital por entidad Federativa de INEGI, 2016, a escala 1:250 000, serie IV, para los estados de Michoac&#225;n de Ocampo, Jalisco, Guerrero, Colima, Guanajuato y Estado de M&#233;xico.</p>
+      <p>La capa de vegetaci&#243;n y uso de suelo, se tom&#243; de la serie V de INEGI a escala 1:250 000. </p>
+      <p>Las capas de l&#237;mites estatales se tomaron del Marco Geoestad&#237;stico Nacional de INEGI.</p>
+      <p>Se tom&#243; como base el &#8220;Mapa de Paisajes f&#237;sico-geogr&#225;ficos del Estado de Michoac&#225;n&#8221; a escala 1:250 000 (<xref rid="IDa8c7ee43-3237-4170-b74f-13631f74630b" ref-type="bibr" id="ID37259f01-a453-4805-b1ca-8cd0223ca809">Ram&#237;rez et al., 2012</xref>). </p>
+      <p>El mapa original tiene una escala de 1:500 000, sin embargo, para una mejor visualizaci&#243;n de las unidades de la RFG, se elabor&#243; el mapa a escala 1:750 000, con base en las dimensiones que establece la revista, en este caso se estableci&#243; como medida de salida, la hoja A0 (84.1 x 118.9 cm). </p>
+      <p>Las caracter&#237;sticas f&#237;sico-naturales de cada unidad se encuentran vinculadas en un campo de la base de datos, a trav&#233;s de la nomenclatura de las unidades, es decir por medio del c&#243;digo de identificaci&#243;n de cada unidad.</p>
+      <p>En la vista del mapa &#250;nicamente aparecen las localidades y la toponimia que aparece en la leyenda, esto para no saturar de informaci&#243;n el mapa. Se distinguen tambi&#233;n los r&#237;os, presas y cuerpos de agua que aparecen en la leyenda y algunos otros de importancia en el territorio.</p>
+      <p>Existen superficies al norte del Michoac&#225;n, que se encuentran vac&#237;as de informaci&#243;n ya que no corresponden morfol&#243;gicamente a las unidades al interior del Estado.</p>
+      <p>Aunque en el mapa se encuentren representadas las unidades de la RFG al 100% de su superficie, las caracter&#237;sticas vinculadas a cada una de ellas, corresponden &#250;nicamente a los limites pol&#237;tico administrativos de Michoac&#225;n, se tom&#243; esa decisi&#243;n con base en la posible utilizaci&#243;n de la RFG en la gesti&#243;n y planeamiento del territorio, que se fundamenta siempre en l&#237;mites territoriales de cada Entidad o municipio. </p>
+    </sec>
+    <sec>
+      <title>Figuras</title>
+      <fig id="fig1" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/espinoza/image01.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 1</label>
+          <caption>
+            <p>Unidades superiores de la RFG a las que pertenece el estado de Michoac&#225;n Fuente: Elaboraci&#243;n propia con base en Bollo et al (2015)</p>
+          </caption>
+        </graphic>
+      </fig>
+      <fig id="fig2" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/espinoza/image02.jpg" id="IDa25d6734-b8cd-4e5b-8a2b-a1c8eb85fe00" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 2</label>
+          <caption>
+            <p>Unidades Taxon&#243;micas de los paisajes f-g del nivel Regional</p>
+          </caption>
+        </graphic>
+      </fig>
+      <p>Fuente: Elaboraci&#243;n propia</p>
+      <fig id="fig3" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/espinoza/image03.jpg" id="ID64d4e929-0170-47ad-a785-97d9e713532c" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 3</label>
+          <caption>
+            <p>Proceso metodol&#243;gico de la RFG para Michoac&#225;n</p>
+          </caption>
+        </graphic>
+      </fig>
+      <fig id="fig4" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/espinoza/image04.png" id="ID8f045401-d3ce-4241-b5fa-0fd2eb269444" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 4</label>
+          <caption>
+            <p>Mapa de la RFG Michoac&#225;n de Ocampo</p>
+          </caption>
+        </graphic>
+      </fig>
+      <!-- Intento por ver que hace con un PDF.
+        <fig id="fig4_2" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.88/images_articles/article01/mapa.pdf" id="ID8f045401-d3ce-4241-b5fa-0fd2eb269444" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 4</label>
+          <caption>
+            <p>Mapa de la RFG Michoac&#225;n de Ocampo en pdf.</p>
+          </caption>
+        </graphic>
+      </fig>-->
+      <fig id="fig5" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/espinoza/image05.jpg" id="ID8f045401-d3ce-4241-b5fa-0fd2eb269444" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 5</label>
+          <caption>
+            <p>Porcentaje de Superficie, Subprovincias f&#237;sico-geogr&#225;ficas</p>
+          </caption>
+        </graphic>
+      </fig>
+      <fig id="fig6" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/espinoza/image06.jpg" id="ID385a1acc-c87d-43fd-962a-29ec84fbac3f" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 6</label>
+          <caption>
+            <p>Subprovincias f&#237;sico-geogr&#225;ficas del Eje Neovolc&#225;nico Transmexicano</p>
+          </caption>
+        </graphic>
+      </fig>
+      <fig id="fig7" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/espinoza/image07.jpg" position="float" orientation="portrait" xlink:type="simple"/>
+        <label>Figura 7</label>
+        <caption><p>Subprovincias físico-geográficas de La Sierra Madre del Sur</p></caption>
+      </fig>
+      <!-- This tags is not part of NLM/JATS, but I defined to have a place where store the href to the interactive maps or dinamic map whichever be the case 
+      <map>http://132.248.14.208/html/visualizador_mapas/terra_digitalis/regionalizacion-michoacan.php</map>-->
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Visualizador</title>
+      <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:title="local_file" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/regionalizacion-michoacan.php"
+        mimetype="application/php">
+      <!--<object-id pub-id-type="doi">10.7554/eLife.21900.021</object-id>-->
+        <label>Mapa Interactivo</label>
+        <caption>
+          <title>La regionalización</title>
+          <p>
+            <bold>DOI:</bold>
+            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">http://dx.doi.org/10.7554/eLife.21900.021</ext-link>
+          </p>
+        </caption>
+      <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/regionalizacion-michoacan.php"/>
+    </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="IDcef849d3-58bc-41e0-aa3c-8ae99c006239">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alcorta</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <source>Esquema geogr&#225;fico de M&#233;xico, en Caminos de M&#233;xico. Atlas Goodrich, Euzkadi</source>
+          <date>
+            <year>1964</year>
+          </date>
+          <publisher-loc>None</publisher-loc>
+          <publisher-name>S. A., Compa&#241;&#237;a Hulera Euzkadi</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Alcorta, R., 1964, Esquema geogr&#225;fico de M&#233;xico, en Caminos de M&#233;xico. Atlas Goodrich, Euzkadi: M&#233;xico Distrito Federal: S. A., Compa&#241;&#237;a Hulera Euzkadi. 1-2-->
+      <ref id="ID692a2985-3ad4-45b0-bdf9-1e13f65e47e1">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#193;lvarez</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Provincias fisiogr&#225;ficas de la Rep&#250;blica Mexicana</article-title>
+          <source>Boletín de la Sociedad Geológica de México</source>
+          <date>
+            <year>1961</year>
+          </date>
+          <volume>24</volume>
+          <issue>2</issue>
+          <fpage>5</fpage>
+          <lpage>20</lpage>
+        </element-citation>
+      </ref>
+      <!--&#193;lvarez, M., 1961, Provincias fisiogr&#225;ficas de la Rep&#250;blica Mexicana, Bolet&#237;n de la Sociedad Geol&#243;gica de M&#233;xico, 24 (2): 5-20-->
+      <ref id="ID78355fc9-23a5-4ac9-a56c-afffe088465c">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barajas</surname>
+              <given-names>L.V</given-names>
+            </name>
+            <name>
+              <surname>Carrillo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ch&#225;vez</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Espinoza</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kushida</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lacy</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lara</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>M&#233;ndez</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Miranda</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Regionalizaci&#243;n Ecol&#243;gica del Territorio, en Serie Cuadernos B&#225;sicos de Ordenamiento Ambiental</article-title>
+          <source>Secretar&#237;a de Desarrollo Urbano y Ecolog&#237;a (SEDUE)</source>
+          <date>
+            <year>1986</year>
+          </date>
+          <fpage>1</fpage>
+          <lpage>21</lpage>
+        </element-citation>
+      </ref>
+      <!--Barajas de L.V., Carrillo, H., Ch&#225;vez, O., Espinoza, J., Kushida, M., Lacy, R., Lara, A., M&#233;ndez, N. y Miranda, E., 1986, Regionalizaci&#243;n Ecol&#243;gica del Territorio, en Serie Cuadernos B&#225;sicos de Ordenamiento Ambiental. M&#233;xico: Secretar&#237;a de Desarrollo Urbano y Ecolog&#237;a (SEDUE), M&#233;xico, (4)1-21.-->
+      <ref id="IDf88fbbfe-c628-4c8b-ac45-729505941839">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berg</surname>
+              <given-names>L.S</given-names>
+            </name>
+          </person-group>
+          <source>Ensayo de la divisi&#243;n de Siberia y Turkest&#225;n en regiones paisaj&#237;sticas y morfol&#243;gicas, en D. N</source>
+          <date>
+            <year>1913</year>
+          </date>
+          <publisher-loc>Moscú</publisher-loc>
+          <publisher-name>Sbornik v chest´</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Berg, L. S., 1913, Ensayo de la divisi&#243;n de Siberia y Turkest&#225;n en regiones paisaj&#237;sticas y morfol&#243;gicas, en D. N. Anuchina (Ed): Sbornik v chest&#180;. 70 &#8211; letia, Sasnae, Mosc&#250;, 167 -180 (en ruso).-->
+      <ref id="ID7ad65866-be36-4d55-b4f2-fb0258961f1f">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bocco</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Mendoza</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vel&#225;zquez</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Torres</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>La regionalizaci&#243;n geomorfol&#243;gica como una alternativa de regionalizaci&#243;n ecol&#243;gica en M&#233;xico</article-title>
+          <source>El caso de Michoacán de Ocampo Investigaciones Geográficas, Investigaciones Geográficas </source>
+          <date>
+            <year>1999</year>
+          </date>
+          <volume>40</volume>
+          <issue>None</issue>
+          <fpage>7</fpage>
+          <lpage>22</lpage>
+        </element-citation>
+      </ref>
+      <!--Bocco, G., Mendoza, M., Vel&#225;zquez, A. y Torres, A., 1999, La regionalizaci&#243;n geomorfol&#243;gica como una alternativa de regionalizaci&#243;n ecol&#243;gica en M&#233;xico. El caso de Michoac&#225;n de Ocampo Investigaciones Geogr&#225;ficas, Investigaciones Geogr&#225;ficas (Mx), 40, 7-22. -->
+      <ref id="ID0709851a-76b2-4954-b3c8-207f8a4ae1ff">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bollo-Manent</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hernández-Santana</surname>
+              <given-names>J. R.</given-names>
+            </name>
+            <name>
+              <surname>Priego-Santander</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Zaragoza-Álvarez</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Ortíz-Rivera</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Espinoza-Maya</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ruíz-López</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <source>Una propuesta de Regionalización físico-geográfica de México</source>
+          <date>
+            <year>2015</year>
+          </date>
+          <publisher-loc>Morelia, México</publisher-loc>
+          <publisher-name>Centro de Investigaciones en Geografía Ambiental (CIGA)</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ID6ce41c38-8645-42c8-b435-7ac6682fb13b">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cuanalo</surname>
+              <given-names>C.H.E</given-names>
+            </name>
+          </person-group>
+          <source>Provincias, regiones y subregiones terrestres de M&#233;xico</source>
+          <date>
+            <year>1989</year>
+          </date>
+          <publisher-loc>México</publisher-loc>
+          <publisher-name>Colegio de Posgraduados, Chapingo</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Cuanalo, de la C.H.E., 1989, Provincias, regiones y subregiones terrestres de M&#233;xico. M&#233;xico: Colegio de Posgraduados, Chapingo, M&#233;xico, 624 pp.-->
+      <ref id="IDacd0c4da-de61-4203-ae52-22e322ed871c">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Isachenko</surname>
+              <given-names>A.G</given-names>
+            </name>
+          </person-group>
+          <source>La Geograf&#237;a del Paisaje y la regionalizaci&#243;n f&#237;sico-geogr&#225;fica</source>
+          <date>
+            <year>1991</year>
+          </date>
+          <publisher-loc>Moscú</publisher-loc>
+          <publisher-name>Educación Superior, Moscú</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Isachenko, A. G., 1991, La Geograf&#237;a del Paisaje y la regionalizaci&#243;n f&#237;sico-geogr&#225;fica, Educaci&#243;n Superior, Mosc&#250;, 370 pp. (En ruso).-->
+      <ref id="ID438e9540-d73e-4364-9853-2d9b1543db78">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mateo</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <source>Apuntes de Geograf&#237;a de los Paisajes</source>
+          <date>
+            <year>1984</year>
+          </date>
+          <publisher-name>Imprenta Voisin</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Mateo, J., 1984, Apuntes de Geograf&#237;a de los Paisajes, Imprenta Voisin, 470 pp.-->
+      <ref id="ID63d0fe67-901d-4ab4-9739-185aa7ffd65c">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mateo</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <source>Regionalizaci&#243;n F&#237;sico Geogr&#225;fica de Am&#233;rica Central y el Caribe, en Nuevo Atlas Nacional de Cuba</source>
+          <date>
+            <year>1989</year>
+          </date>
+          <publisher-loc>Cuba - España</publisher-loc>
+          <publisher-name>RHEA Consultores - Instituto de Geografía</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Mateo, J., 1989, Regionalizaci&#243;n F&#237;sico Geogr&#225;fica de Am&#233;rica Central y el Caribe, en Nuevo Atlas Nacional de Cuba, Cuba - Espa&#241;a: RHEA Consultores - Instituto de Geograf&#237;a.-->
+      <ref id="ID0b98e64f-8298-4292-826b-2607019ab5d5">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mateo</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <source>Geoecolog&#237;a de los Paisajes: Bases para la Planificaci&#243;n y Gesti&#243;n Ambiental. Universidad de la Habana</source>
+          <date>
+            <year>2002</year>
+          </date>
+          <publisher-loc>Cuba</publisher-loc>
+          <publisher-name>Universidad de la Habana, Ministerio de Educación Superior (MES)</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Mateo, J., 2002, Geoecolog&#237;a de los Paisajes: Bases para la Planificaci&#243;n y Gesti&#243;n Ambiental. Universidad de la Habana, Ministerio de Educaci&#243;n Superior (MES), Cuba, 205 pp.-->
+      <ref id="IDb35c706d-5a35-4d65-9125-3b83d5ddd192">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mateo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Da Silva</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Cavalcanti</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>Geoecolog&#237;a de los Paisajes</source>
+          <date>
+            <year>2004</year>
+          </date>
+          <publisher-loc>Brasil, Fortaleza</publisher-loc>
+          <publisher-name>Universidad Federal do Ceará (UFC)</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ID772dead1-e9c4-411c-842a-702d49ba3f49">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mateo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Da Silva</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>La Geoecología del Paisaje, como fundamento para el análisis ambiental</article-title>
+          <source>Revista Electrónica do Prodema (REDE)</source>
+          <date>
+            <year>2008</year>
+          </date>
+          <volume>1</volume>
+          <issue>1</issue>
+          <fpage>77</fpage>
+          <lpage>98</lpage>
+        </element-citation>
+      </ref>
+      <!--Mateo, J. y Da Silva, E., 2008, La Geoecolog&#237;a del Paisaje, como fundamento para el an&#225;lisis ambiental. Revista Electr&#243;nica do Prodema (REDE), Fortaleza. 1(1): 77-98, <http://www.revistarede.ufc.br/revista/index.php/rede/article/view/5/5>, Consulta: 28 de septiembre de 2016.-->
+      <ref id="ID21ffa3d4-d12d-4642-b60e-10466d347a5a">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Milkov</surname>
+              <given-names>F. N.</given-names>
+            </name>
+          </person-group>
+          <source>El hombre y el Paisaje. Sobre la Geografía de los paisajes antropogénicos</source>
+          <date>
+            <year>1973</year>
+          </date>
+          <publisher-name>Ed. Muiscl</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="IDbb7e327d-ad2e-4f47-9dfb-1fbd117e57ae">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ordoñez</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Physiographic provinces of Mexico</article-title>
+          <source>American Association of Petroleum Geologist</source>
+          <date>
+            <year>1936</year>
+          </date>
+          <volume>20</volume>
+          <fpage>1277</fpage>
+          <lpage>1307</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ID08fa45aa-2887-4327-8ca0-a179d43db8ef">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ord&#243;&#241;ez</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Principales Provincias geogr&#225;ficas y geol&#243;gicas de la Rep&#250;blica Mexicana</article-title>
+          <source>Guía del explorador minero</source>
+          <date>
+            <year>1946</year>
+          </date>
+          <volume>3</volume>
+          <fpage>103</fpage>
+          <lpage>142</lpage>
+        </element-citation>
+      </ref>
+      <!--Ord&#243;&#241;ez, E., 1946, Principales Provincias geogr&#225;ficas y geol&#243;gicas de la Rep&#250;blica Mexicana, Gu&#237;a del explorador minero, 3,103-142.-->
+      <ref id="ID6b03c6ca-9fee-474d-bcf4-0f7002c0041c">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bollo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hern&#225;ndez</surname>
+              <given-names>J.R</given-names>
+            </name>
+            <name>
+              <surname>Priego</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Zaragoza</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Ort&#237;z</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Espinoza</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ru&#237;z</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <source>Una propuesta de Regionalizaci&#243;n f&#237;sico-geogr&#225;fica de M&#233;xico</source>
+          <date>
+            <year>2015</year>
+          </date>
+          <publisher-loc>Morelia, México</publisher-loc>
+          <publisher-name>Centro de Investigaciones en Geografía Ambiental (CIGA) y Universidad Nacional Autónoma de México (UNAM)</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Ort&#237;z, R.A., Bollo, M.M., Hern&#225;ndez, S.J.R., Priego, S.A., 2015, La Regionalizaci&#243;n f&#237;sico-geogr&#225;fica del estado de Guerrero, M&#233;xico, Centro de Investigaciones en Geograf&#237;a Ambiental (CIGA) y Universidad Nacional Aut&#243;noma de M&#233;xico (UNAM), Morelia, 157 pp. -->
+      <ref id="ID778824e7-2f3b-4d91-a2c1-6647d5ef17e6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quiñones</surname>
+              <given-names>G. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>El sistema fisiográfico de la Dirección General de Geografía</article-title>
+          <source>Revista de Geografía</source>
+          <date>
+            <year>1987</year>
+          </date>
+          <volume>1</volume>
+          <issue>2</issue>
+          <fpage>13</fpage>
+          <lpage>20</lpage>
+        </element-citation>
+
+      </ref>
+      <ref id="IDa8c7ee43-3237-4170-b74f-13631f74630b">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramírez-Sánchez</surname>
+              <given-names>L. G.</given-names>
+            </name>
+            <name>
+              <surname>Priego-Santander</surname>
+              <given-names>A. G.</given-names>
+            </name>
+            <name>
+              <surname>Bollo-Manent</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>Paisajes Físico-Geográficos del estado de Michoacán</source>
+          <date>
+            <year>2012</year>
+          </date>
+          <publisher-loc>Morelia, México</publisher-loc>
+          <publisher-name>Centro de Investigaciones en Geografía Ambiental (CIGA) y Universidad Nacional Autónoma de México (UNAM)</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="IDe275898c-6e2b-4606-aaf0-40d64b983875">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barajas</surname>
+              <given-names>L.V</given-names>
+            </name>
+            <name>
+              <surname>Carrillo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ch&#225;vez</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Espinoza</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kushida</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lacy</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lara</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>M&#233;ndez</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Miranda</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Regionalizaci&#243;n Ecol&#243;gica del Territorio, en Serie Cuadernos B&#225;sicos de Ordenamiento Ambiental</article-title>
+          <source>Secretar&#237;a de Desarrollo Urbano y Ecolog&#237;a (SEDUE)</source>
+          <date>
+            <year>1986</year>
+          </date>
+          <fpage>1</fpage>
+          <lpage>21</lpage>
+        </element-citation>
+      </ref>
+      <!--Secretar&#237;a de Desarrollo Urbano y Ecolog&#237;a (SEDUE), 1988, Manual de Ordenamiento Ecol&#243;gico del Territorio. Subsecretar&#237;a de Ecolog&#237;a, Direcci&#243;n General de Normatividad y Regulaci&#243;n Ecol&#243;gica, M&#233;xico, Distrito Federal, 356 pp.-->
+      <ref id="ID96ecfbc2-f58f-477e-a90f-3dbc444a0905">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suslov-Serguei</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <source>Geografía Física de la URSS</source>
+          <date>
+            <year>1947</year>
+          </date>
+          <publisher-loc>Moscú</publisher-loc>
+          <publisher-name>Siglo XX</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="IDa1c6e32e-94a7-4d0e-803c-3f1c3eaab909">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zaragoza</surname>
+              <given-names>A.R.A</given-names>
+            </name>
+          </person-group>
+          <source>Tipolog&#237;a y regionalizaci&#243;n f&#237;sico-geogr&#225;fica de la pen&#237;nsula de Baja California, M&#233;xico</source>
+          <date>
+            <year>2010</year>
+          </date>
+          <publisher-loc>None</publisher-loc>
+          <publisher-name>None</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Zaragoza, A.R.A., 2010, Tipolog&#237;a y regionalizaci&#243;n f&#237;sico-geogr&#225;fica de la pen&#237;nsula de Baja California, M&#233;xico, Tesis profesional de Maestr&#237;a, Centro de Investigaciones en Geograf&#237;a Ambiental (CIGA) y Universidad Nacional Aut&#243;noma de M&#233;xico (UNAM).-->
+    </ref-list>
+  </back>
+</article>

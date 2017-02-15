@@ -10,7 +10,8 @@ var panel = new Panel({
   icon: '',
 });
 
-panel.createController = function(doc) {
+panel.createController = function(doc, documentUrl) {
+	//console.log(doc);
   return new MapController(doc, this.config);
 };
 

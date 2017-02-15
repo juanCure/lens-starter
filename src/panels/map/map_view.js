@@ -17,11 +17,12 @@ MapView.Prototype = function() {
     var self = this;
     this.el.innerHTML = '';
 
-    this.controller.getMapVisualizerReference();
+    var href = this.controller.getMapVisualizerReference();
+
 
     var $map_div = $('<div class="map"></div>');
     $map_div.append($('<div class="label">Presiona el siguiente botón para ver el mapa</div>'));
-    $map_div.append($('<div class="value"><a class="map-button" href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/regionalizacion-michoacan.php" target="_blank">Mapa</a></div>'));
+    $map_div.append($('<div class="value"><a class="map-button" href="'+ href +'" target="_blank">Mapa</a></div>'));
 
     this.$el.append($map_div);
 

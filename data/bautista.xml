@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="JATS-journalpublishing0.xsd">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+            <issn pub-type="epub">0000-000X</issn>
+            <publisher>
+                <publisher-name>Terra Digitalis</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.1000/123456</article-id>
+            <article-categories>
+                <subj-group subj-group-type="display-channel">
+                    <subject>Articulo de investigación</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                    <subject>Geografía</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Conservación e intensidad de uso de la tierra en la reserva de la biósfera Zicuirán-Infiernillo, Michoacán</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Ihl</surname>
+                        <given-names>Thomas</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="thomas"/>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Bautista</surname>
+                        <given-names>Francisco</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="bautista"/>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Mendoza</surname>
+                        <given-names>Manuel</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="mendoza"/>
+                </contrib>
+                <aff id="thomas">
+                    <institution>Universidad Marrin Lutero Halle-Wittenberg, Departamento de Ciencias de la Tierra y Geogrofia, Alemania</institution>
+                </aff>
+                <aff id="bautista">
+                    <institution>Centro de Jnvestigaciones  en Geografia Ambiental,  Universidad Nacional Autonoma de Mexico, México</institution>
+                </aff>
+                <aff id="mendoza">
+                    <institution>Centro de Jnvestigaciones  en Geografia Ambiental,  Universidad Nacional Autonoma de Mexico, México</institution>
+                </aff>
+            </contrib-group>
+            <pub-date pub-type="epub">
+                <year>2013</year>
+            </pub-date>
+            <volume>1</volume>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <lpage>2</lpage>
+            <permissions>
+                <copyright-statement>Copyright &#169; 2017, Bautista et al.</copyright-statement>
+                <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+                    <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The
+                        citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+                </license>
+            </permissions>
+            <self-uri>http://132.248.14.208/html/ojs/index.php/terra_digitalis/</self-uri>
+            <abstract>
+                <title>Abstract</title>
+                <p>La reserva de la bi&#243;sfera Zicuir&#225;n-Infiernillo se estableci&#243; debido a su extraordinaria riqueza en bio- y geodiversidad; sin embargo, la regi&#243;n se caracteriza por un alto grado de marginaci&#243;n de la poblaci&#243;n. Este
+                mapa tiene como objetivo mostrar la conservaci&#243;n e intensidad de uso de la tierra, considerando la afectaci&#243;n a la vegetaci&#243;n natural. Utilizando im&#225;genes de sat&#233;lite y cartograf&#237;a existente sobre el medio f&#237;sico se
+                clasificaron cuatro momentos de diferentes uso de la tierra (a&#241;os 1980, 1990, 2000 y 2008) en una escala 1: 100,000. La combinaci&#243;n de estos momentos permiti&#243; la identificaci&#243;n de tres clases: uso permanente, uso intermitente y
+                conservaci&#243;n permanente. El mapa muestra actividades agropecuarias en la zona n&#250;cleo en el pasado. La zona de amortiguamiento ha sido degradada en un quinto de su superficie. Una opci&#243;n de uso de la tierra que genera un producto y que
+                no degrada de manera intensa el ambiente es la operaci&#243;n de sistemas silvopastoriles.</p>
+                <p>
+                <bold>Palabras clave:
+                </bold>im&#225;genes de sat&#233;lite multitemporales; conservaci&#243;n biol&#243;gica; cambio de uso de suelo; densidad de poblaci&#243;n</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <sec>
+            <title>INTRODUCCI&#211;N</title>
+            <p>La Reserva de la Biosfera Zicuiran-Infiernillo (RBZI) cuenta con 265 117 ha, es una de las &#225;reas naturales protegidas m&#225;s grandes de M&#233;xico. La RBZI est&#225; ubicada en la depresi&#243;n del r&#237;o Balsas-Tepalcatepec al sur del
+                estado de Michoac&#225;n (<xref rid="ID44b64c5f-1373-430a-814e-a3dff0b900b6" ref-type="bibr" id="IDd605f2c0-0aa3-4b9e-93a3-0036f382c157">CONANP, 2006</xref>)</p>
+            <p>La RBZI fue creada por decreto el 30 de noviembre de 2007 y se compone de una zona n&#250;cleo de 22,700 ha, dividida en cuatro sectores separados, una zona de amortiguamiento con 242 408 ha y una zona de influencia no oficial alrededor de la
+                reserva de 196,788 ha.</p>
+            <p>El objetivo de esta categor&#237;a &#8220;reserva de la biosfera&#8221; es conciliar el manejo (desarrollo social y econ&#243;mico) y la conservaci&#243;n de los recursos naturales.</p>
+            <p>A un lado la RBZI es un punto focal de bio- y geodiversidad, expresada en una diversidad de geoformas; tipos y subtipos clim&#225;ticos; y diversidad de grupos de suelo que, en conjunto, ocasionan una gran diversidad biol&#243;gica. Por ejemplo,
+                la RBZI contiene ecosistemas de pino-encino, selva caducidofia, selva espinosa y matorral xerofilo y es rica en especies, al menos 539 especies de plantas vasculares algunas de las cuales est&#225;n consideradas bajo alguna categor&#237;a de
+                protecci&#243;n, 19 especies de plantas vasculares son end&#233;micas, 253 especies de aves de las cuales 14 son end&#233;micas; entre otros (<xref rid="ID44b64c5f-1373-430a-814e-a3dff0b900b6" ref-type="bibr" id="ID643422de-5604-4b50-82bf-d6779b205676">CONANP, 2006</xref>;
+                <xref rid="ID608865d3-7074-40db-b240-6d5b78c7a305" ref-type="bibr" id="ID69250309-1631-4731-bf5f-4d185c645cf2">Rzedowsky, 1998</xref>)</p>
+            <p>Por lo contrario, dentro de la RBZI en cuatro municipios (Arteaga, Churumuco, La Huacana y Tumbiscat&#237;o) una alta proporci&#243;n de la poblaci&#243;n vive en condiciones de pobreza extrema, dichos municipios son catalogado scon alto o muy
+                alto grado de marginaci&#243;n, por lo que se han incluido en un programa del gobierno federal denominado &#8220;cruzada contra el hambre&#8221;
+            </p>
+            <p>La marginaci&#243;n es un fen&#243;meno estructural que se origina en &#8220;la modalidad, estilo o patr&#243;n hist&#243;rico de desarrollo; esta se expresa, por un lado, en la dificultad para propagar el progreso t&#233;cnico en el conjunto de
+                la estructura productiva y en las regiones del pa&#237;s, y por el otro, en la exclusi&#243;n de grupos sociales del proceso de desarrollo y del disfrute de sus beneficios&#8221; (<xref rid="IDf8822143-7300-4977-8973-e744fd5365e8" ref-type="bibr" id="ID2bc9454e-0c9e-4d6a-8680-c3a0acb15c87">CONAPO, 2001</xref>). Por ese motivo, la poblaci&#243;n rural se dedica a la agricultura itinerante de roza, tumba y quema.</p>
+            <p>En resumen, alta geodiversidad y biodiversidad en la RBZI pero con una poblaci&#243;n con alta marginaci&#243;n social. Con esta combinaci&#243;n de procesos naturales y sociales la RBZI &#191;cumple con su objetivo de conservaci&#243;n de la
+                biodiversidad? Para responder la pregunta no es suficiente con el estudio de la situaci&#243;n actual mediante im&#225;genes de sat&#233;lite ya que los estadios de sucesi&#243;n de las selvas caducifolias son indistinguibles espectralmente, por lo
+                que se requiere un estudio multitemporal. Por lo contrario, los cultivos anuales, semi-permanentes o permanentes se pueden identificar a trav&#233;s de la interpretaci&#243;n visual de im&#225;genes de sat&#233;lites y si se tiene una secuencia de
+                a&#241;os es posible identificar las zonas de agricultura itinerante, tambi&#233;n llamada de roza, tumba y quema.</p>
+            <p>El objetivo de este estudio fue evaluar la intensidad de uso de la tierra con base en un estudio multitemporal de la cobertura vegetal y de los usos del suelo.</p>
+        </sec>
+        <sec>
+            <title>M&#201;TODOS</title>
+            <p>La evaluaci&#243;n de los cambios de uso del suelo en la RBZI se realiz&#243; mediante un proceso de monitoreo retrospectivo.</p>
+        </sec>
+        <sec>
+            <title>Datos y software:</title>
+            <p>En el presente an&#225;lisis, se incluyeron los datos siguientes:</p>
+            <list list-type="simple">
+                <list-item>
+                    <p>
+                        <underline>1980</underline>: Cartograf&#237;a existente de la cobertura de la tierra y su uso de suelo, a una escala 1:250 000 de INEGI (<xref rid="IDad874394-1473-4ca7-bbf3-3a003114e94a" ref-type="bibr" id="ID58a7f3d1-bf1e-496d-bfdf-2fa74433c176">INEGI, 2006</xref>)</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <underline>1990</underline>: La interpretaci&#243;n visual se realiz&#243; sobre una imagen Landsat TM del a&#241;o 1990, desplegada en monitor de computadora a escala 1:110,000 (<xref rid="TO_LINK" ref-type="bibr" id="IDac4b1ff1-fb97-4d4a-8894-6ca7fa57e27b">Burgos et all, 2010</xref>).</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <underline>2000</underline>: Cartograf&#237;a existente de la cobertura vegetal del proyecto Inventario Forestal Nacional (IFN), a una escala 1:250 000, encarg&#243; al Instituto de Geograf&#237;a de la UNAM (<xref rid="ID8d8215f6-844c-4269-b998-413a6d3d8698" ref-type="bibr" id="ID29917f93-39b2-4ab7-af87-492d08154d52">Palacio-Prieto et&#160;al., 2001</xref>).</p>
+                </list-item>
+                <list-item>
+                    <p>
+                        <underline>2008</underline>: Se interpret&#243; de manera similar, como lo del a&#241;o 1990 pero con una imagen SPOT desplegada en pantalla de monitor de computadora a una escala 1:80,000.</p>
+                </list-item>
+                <list-item>
+                    <p>Por otra parte fueron utilizado: los nombres geogr&#225;ficos del INEGI y un modelo digital de elevaci&#243;n (MDE) para representar el relieve sombrado de la regi&#243;n (<xref rid="ID9cf16e1b-0dd4-498a-bdbc-ac0959cd78e9" ref-type="bibr" id="ID487dab89-a234-4194-ba9f-b496a48d4097">&#8220;CGIAR-CSI SRTM 90m DEM Digital Elevation Database&#8221;, 2008</xref>) .</p>
+                </list-item>
+                <list-item>
+                    <p>Dise&#241;o del mapa:</p>
+                </list-item>
+            </list>
+            <p>El dise&#241;o del mapa se basa en las normas generales para mapas topogr&#225;ficos y tem&#225;ticos, tal como se aplica en las oficinas de INEGI y de los reglamentos espec&#237;ficos del editor.</p>
+            <p>El mapa principal muestra la reserva de la biosfera y su zona de influencia al borde de la</p>
+            <p>UTM zona 14 Norte con el datum horizontal de WGS 84.</p>
+            <p>El mapa principal compuesta de cinco capas, dos para las relaciones topol&#243;gicas y tres para el an&#225;lisis de usos en las diferentes zonas de protecci&#243;n:</p>
+            <list list-type="order">
+                <list-item>
+                    <p>Encima se puede ubicar los asentamientos para la orientaci&#243;n espacial del lector.</p>
+                </list-item>
+                <list-item>
+                    <p>En el noroeste se puede ver al borde, la ciudad m&#225;s grande de la zona, ya fuera del &#225;rea de estudio: Apatzing&#225;n de la Constituci&#243;n. Adem&#225;s, se puede ver a tres de las cuatro cabeceras municipales en cuyo territorio se
+                        encuentra la reserva. La RBZI pertenece en su totalidad a Michoac&#225;n de Ocampo. El limit&#233; estatal sigue le r&#237;o Balsas y la presa Infiernillo.</p>
+                </list-item>
+                <list-item>
+                    <p>La siguiente capa ilustra las diferentes zonas de protecci&#243;n: zona n&#250;cleo, zona de amortiguamiento y &#225;rea de influencia. Sobre la base de este ajuste, se analiza la intensidad del uso y la presi&#243;n humana, que act&#250;a sobre
+                        la RBZI.</p>
+                </list-item>
+                <list-item>
+                    <p>Esta informaci&#243;n es el resultado de la intersecci&#243;n de los cuatro momentos. Este espacio puede ser reconocido sin uso humano, con uso temporal (intermitente) o con uso permanente.</p>
+                </list-item>
+                <list-item>
+                    <p>La &#250;ltima capa contiene el tama&#241;o de las parcelas en cambio. En principio, la recuperaci&#243;n de la vegetaci&#243;n original es m&#225;s complicado, si sube el tama&#241;o del terreno.</p>
+                </list-item>
+                <list-item>
+                    <p>La combinaci&#243;n de estas bases de datos permitieron reconocer tres clases de uso: permanente, intermitente y conservaci&#243;n permanente de las zonas de influencia (I), de amortiguamiento (A) y n&#250;cleo (N).</p>
+                </list-item>
+                <list-item>
+                    <p>El procesamiento de los datos se realiz&#243; a trav&#233;s de ArcGIS. La intensidad del uso de suelo se digitaliz&#243; directamente en la pantalla de las im&#225;genes de sat&#233;lite y finalmente deducidos con operaciones l&#243;gicas.
+                        Tambi&#233;n el dise&#241;o del mapa se maquetaron con ArcGIS.</p>
+                </list-item>
+                <list-item>
+                    <p>CONCLUSIONES</p>
+                </list-item>
+            </list>
+            <p>Un an&#225;lisis multitemporal del uso de la tierra separado por zonas de diferente nivel de protecci&#243;n permite un mejor entendimiento de la din&#225;mica de uso de la tierra en el RBZI. La zona n&#250;cleo de la RBZI se encuentra bien
+                conservada (96.70%). Sin embargo, la zona de amortiguamiento est&#225; siendo usada cada vez con mayor intensidad (19,52%), esto permite deducir que en el futuro la zona de amortiguamiento pudiera llegar a ser fuertemente fragmentada y utilizada (<xref rid="fig1" ref-type="fig">figura 1</xref>).</p>
+            <p>Las principales observaciones de esta investigaci&#243;n son:</p>
+            <list list-type="simple">
+                <list-item>
+                    <p>La zona n&#250;cleo se encuentra bien conservada ya que solo el 3.3% se encuentra en uso.</p>
+                </list-item>
+                <list-item>
+                    <p>La zona de amortiguamiento indica un uso permanente de alrededor de 2%, pero un uso intermitente con degradaci&#243;n del 17% y m&#225;s. Sigue la presi&#243;n a la zona se pueden extender hasta un tercio. Eso significa no solo una p&#233;rdida de
+                        &#225;reas naturales, sino tambi&#233;n una fragmentaci&#243;n de la vegetaci&#243;n nativa.</p>
+                </list-item>
+                <list-item>
+                    <p>La zona de amortiguamiento puede afectar a la zona n&#250;cleo si llegaran a aislarse las zonas n&#250;cleo por actividades dentro de la zona de amortiguamiento. En este caso, la zona n&#250;cleo ya no cumple con su funci&#243;n de protecci&#243;n</p>
+                </list-item>
+                <list-item>
+                    <p>La zona de influencia cuenta con una superficie del 37.81% que ya ha sido utilizada. Este porcentaje est&#225; subestimado debido a que no fue posible distinguir los huizachales de la selva caducifolia.</p>
+                </list-item>
+            </list>
+            <p>En particular, la ganader&#237;a extensiva es el uso de suelo identificado como el responsable de gran parte de la deforestaci&#243;n al convertir las selvas en pastizales cultivados. Las pasturas establecidas durante periodos prolongados provocan
+                cambios negativos importantes en la estructura f&#237;sica del suelo como su compactaci&#243;n, erosi&#243;n y la p&#233;rdida de la fertilidad, entre otros (<xref rid="ID308a336a-d5e5-4a61-bbdd-5435f38048ad" ref-type="bibr" id="ID7c3e2976-54e5-4b7f-ab54-6b2dea7f7970">Alegre &amp; Lara, 1991</xref>;
+                <xref rid="IDc80f0b8d-a0c2-430a-b467-143d94df8f98" ref-type="bibr" id="IDad2da7d7-cabf-4a43-9c6d-bc7cedaed7fc">Hoyos, Garc&#237;a, &amp; Torres, 1995</xref>). Pero las pasturas inducidas itinerantes con periodos de uso, descanso y uso pueden llegar a
+                ser el mayor peligro ambiental y ecol&#243;gico porque son una forma de degradaci&#243;n encubierta y silenciosa. Encubierta porque en el barbecho o descanso de la tierra hay una &#8220;superficial&#8221; recuperaci&#243;n del ecosistema, debido a
+                que la recuperaci&#243;n de un suelo degradado es mucho m&#225;s larga que la recuperaci&#243;n de una cobertura vegetal de 20 a 30 a&#241;os. Es una degradaci&#243;n de tierras silenciosa porque a menudo en los mapas realizados en un tiempo solo se
+                reporta la superficie con pasto actual y no se hace un an&#225;lisis espacial y temporal de las zonas de uso recurrentes como praderas inducidas con lo cual la superficie en &#8220;uso-descanso-uso&#8221; como praderas a menudos es de cinco a diez
+                veces mayor al reportado.</p>
+            <p>Esta situaci&#243;n puede ocasionar afectaciones ambientales y ecol&#243;gicas de dos tipos:</p>
+            <list list-type="simple">
+                <list-item>
+                    <p>las parcelas de pastizales menores de 500 ha ocasionan la fragmentaci&#243;n del h&#225;bitat (aislamiento entre poblaciones de organismos) y degradaci&#243;n del suelo dependiente de la intensidad de uso;</p>
+                </list-item>
+                <list-item>
+                    <p>las zonas con parcelas de pastizales entre 501 y 1300 ha ocasionan una mayor y m&#225;s intensa degradaci&#243;n de suelos que puede llegar a repercutir en la degradaci&#243;n de la cubierta vegetal, erosi&#243;n del suelo, contaminaci&#243;n y
+                        azolve de cuerpos de agua, colonizaci&#243;n de especies invasoras, y p&#233;rdida de la rentabilidad econ&#243;mica, entre otros aspectos negativos.</p>
+                </list-item>
+            </list>
+            <p>En la RBZI se observa que la eliminaci&#243;n de la selva baja para convertirla en pastizales extensivo ocasiona que al final se convierta a huizaches en lugar de restablecerse la selva baja, esta situaci&#243;n puede estar present&#225;ndose por
+                dos causas o la combinaci&#243;n de ambas: la degradaci&#243;n intensa del suelo y el efecto del cambio clim&#225;tico. Los huizaches son t&#237;picos de clima semi&#225;rido. Por otro lado, se recomienda encontrar, desarrollar, proponer y fomentar
+                pr&#225;cticas agroecol&#243;gicas permanentes en la zona de influencia para que, por un lado, se generen productos agr&#237;colas, pecuarios y forestales tendientes al mejoramiento de la calidad de vida de las poblaciones humanas y, por el otro,
+                sean compatibles con la conservaci&#243;n biol&#243;gica y los servicios ambientales que se generan en la RBZI.</p>
+            <p>Un an&#225;lisis multitemporal del uso de la tierra separado por zonas de diferente nivel de protecci&#243;n permite un mejor entendimiento de la din&#225;mica de uso de la tierra: a) La zona n&#250;cleo de la RBZI se encuentra bien conservada.
+                Sin embargo, la zona de amortiguamiento est&#225; siendo usada cada vez con mayor intensidad; b) Las interpretaciones monotemporales causan una subestimaci&#243;n de uso intermitente. El an&#225;lisis multitempora puede estimar las tierras degradadas
+                con mayor precisi&#243;n; c) La determinaci&#243;n directa de sucesi&#243;n, con los m&#233;todos de teledetecci&#243;n parece dif&#237;cil, porque la vegetaci&#243;n natural de selva caducifolia no se puede distinguir espectralmente de huizaches y
+                sistemas silvopastoriles y las im&#225;genes con mayor resoluci&#243;n geom&#233;trica no siempre est&#225;n disponibles.</p>
+        </sec>
+        <sec>
+            <title>Figuras</title>
+            <p>(Figura 1)</p>
+            <fig id="fig1" position="float" orientation="portrait">
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/bautista/figura1.png" position="float" orientation="portrait" xlink:type="simple">
+                    <label>Figura 1. Reserva de la biosfera</label>
+                    <caption>
+                      <p>reserva</p>
+                    </caption>
+                </graphic>
+            </fig>
+            <!--fig id="fig1" position="float" orientation="portrait">
+              <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.88/images_articles/article01/image06.jpg" id="ID385a1acc-c87d-43fd-962a-29ec84fbac3f" position="float" orientation="portrait" xlink:type="simple">
+                <label>Figura 6</label>
+                <caption>
+                  <p>Subprovincias f&#237;sico-geogr&#225;ficas del Eje Neovolc&#225;nico Transmexicano</p>
+                </caption>
+              </graphic>
+          </fig-->
+        </sec>
+        <sec>
+            <title>Agradecimientos</title>
+            <p>A la DGAPA por el financiamiento al proyecto IN223110 &#8220;Dise&#241;o del mapa geopedol&#243;gico de M&#233;xico a escala 1:500 000 con ventanas 1:250 000 en zonas volc&#225;nicas y de karst tropical&#8221;.</p>
+        </sec>
+        <sec sec-type="supplementary-material">
+          <title>Visualizador</title>
+          <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+            xlink:title="local_file" xlink:href="http://132.248.14.46/html/mapas/estaticos/1/BautistaEtAl/index.html"
+            mimetype="application/html">
+            <label>Mapa Estático</label>
+            <caption>
+              <title>Mapa de intensidad de uso de la tierra en la reserva de la biósfera Zicuirán-Infiernillo, Mich</title>
+              <p>
+                Una descripción del mapa estático.
+              </p>
+            </caption>
+            <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.46/html/mapas/estaticos/1/BautistaEtAl/index.html"/>
+        </supplementary-material>
+        </sec>
+    </body>
+    <back>
+        <!--fn-group>
+            <fn id="bibd2e51">
+                <p>
+                    Universidad Mart&#237;n Lutero Halle-Wittenberg, Departamento de Ciencias de la Tierra y Geograf&#237;a, Alemania.</p>
+            </fn>
+            <fn id="bibd2e81">
+                <p>
+                    Centro de Investigaciones en Geograf&#237;a Ambiental, Universidad Nacional Aut&#243;noma de M&#233;xico, Antigua Carretera a P&#225;tzcuaro No. 8701, C.P. 58190 Morelia, Mich.</p>
+            </fn>
+            <fn id="bibd2e114">
+                <p>Al fondo es una capa de tipo raster mostrando las diferentes elevaciones con distintos tonos de verde y sombreado para reforzar la impresi&#243;n del relieve.</p>
+            </fn>
+        </fn-group-->
+        <ref-list>
+            <ref id="ID308a336a-d5e5-4a61-bbdd-5435f38048ad">
+                <!--mixed-citation>Alegre, J., &amp; Lara, P. (1991). Efecto de los animales de pastoreo sobre las propiedades f&#237;sicas de los suelos en la regi&#243;n tropical h&#250;meda del Per&#250;. <italic>Pasturas tropicales, CIAT</italic>, <italic>13</italic>(1), 18&#8211;23.</mixed-citation-->
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Alegre</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lara</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Efecto de los animales de pastoreo sobre las propiedades físicas de los suelos en la región tropical húmeda del Perú;</article-title>
+                    <date>
+                        <year>2006</year>
+                    </date>
+                    <source>Pasturas Tropicales</source>
+                    <publisher-name>CIAT</publisher-name>
+                    <series>Pasturas Tropicales</series>
+                    <volume-series>13</volume-series>
+                    <issue>13</issue>
+                    <fpage>21</fpage>
+                    <lpage>23</lpage>
+                </element-citation>
+            </ref>
+            <ref id="ID9cf16e1b-0dd4-498a-bdbc-ac0959cd78e9">
+                <!--mixed-citation>CGIAR-CSI SRTM 90m DEM Digital Elevation Database. (2008, agosto 19). Recuperado el 20 de enero de 2017, a partir de http://srtm.csi.cgiar.org/Index.asp</mixed-citation-->
+                <element-citation publication-type="report" publication-format="Web-page">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>CGIAR-CSI</surname>
+                            <given-names/>
+                        </name>
+                    </person-group>
+                    <source>SRTM 90m DEM Digital Elevation Database</source>
+                    <date>
+                        <year>2008</year>
+                    </date>
+                    <uri>Recuperado el 20 de enero de 2017, a partir de http://srtm.csi.cgiar.org/Index.asp</uri>
+                    <ext-link>Recuperado el 20 de enero de 2017, a partir de http://srtm.csi.cgiar.org/Index.asp</ext-link>
+                </element-citation>
+            </ref>
+            <ref id="ID44b64c5f-1373-430a-814e-a3dff0b900b6">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>CONANP</surname>
+                            <given-names/>
+                        </name>
+                    </person-group>
+                    <source>Estudio Previo Justificativo para el establecimiento de la Reserva de la Biosfera Zicuir&#225;n Infiernillo</source>
+                    <date>
+                        <year>2006</year>
+                    </date>
+                    <publisher-loc>M&#233;xico, D. F.</publisher-loc>
+                    <publisher-name>Comisi&#243;n Nacional de &#193;reas Naturales Protegidas (CONANP)</publisher-name>
+                </element-citation>
+            </ref>
+            <!--CONANP. (2006).  Estudio Previo Justificativo para el establecimiento de la Reserva de la Biosfera Zicuir&#225;n Infiernillo. M&#233;xico, D. F.: Comisi&#243;n Nacional de &#193;reas Naturales Protegidas (CONANP).-->
+            <ref id="IDf8822143-7300-4977-8973-e744fd5365e8">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>CONAPO</surname>
+                            <given-names/>
+                        </name>
+                    </person-group>
+                    <source>&#205;ndices de marginaci&#243;n, 2000</source>
+                    <date>
+                        <year>2001</year>
+                    </date>
+                    <publisher-loc>M&#233;xico, D. F.</publisher-loc>
+                    <publisher-name>Consejo Nacional de Poblaci&#243;n (CONAPO)</publisher-name>
+                </element-citation>
+            </ref>
+            <!--CONAPO. (2001).  &#205;ndices de marginaci&#243;n, 2000. M&#233;xico, D. F.: Consejo Nacional de Poblaci&#243;n (CONAPO). Recuperado a partir de http://www.conapo.gob.mx/work/models/CONAPO/indices_margina/indices/pdfs/IM2000_docprincipal.pdf-->
+            <ref id="IDc80f0b8d-a0c2-430a-b467-143d94df8f98">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hoyos</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Garc&#237;a</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <name>
+                            <surname>Torres</surname>
+                            <given-names>I. M.</given-names>
+                        </name>
+                    </person-group>
+                    <source>Manejo y utilizaci&#243;n de pasturas en suelos &#225;cidos de Colombia</source>
+                    <date>
+                        <year>1995</year>
+                    </date>
+                    <publisher-loc>None</publisher-loc>
+                    <publisher-name>CIAT</publisher-name>
+                </element-citation>
+            </ref>
+            <!--Hoyos, P., Garc&#237;a, O., & Torres, I. M. (1995).  Manejo y utilizaci&#243;n de pasturas en suelos &#225;cidos de Colombia. CIAT.-->
+            <ref id="IDad874394-1473-4ca7-bbf3-3a003114e94a">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>INEGI</surname>
+                            <given-names/>
+                        </name>
+                    </person-group>
+                    <source>Cartograf&#237;a de uso del suelo y vegetaci&#243;n, escala 1:250, 000 : serie V</source>
+                    <date>
+                        <year>2006</year>
+                    </date>
+                    <publisher-loc>None</publisher-loc>
+                    <publisher-name>M&#233;xico</publisher-name>
+                </element-citation>
+            </ref>
+            <!--INEGI. (2006).  Cartograf&#237;a de uso del suelo y vegetaci&#243;n, escala 1:250, 000&#8239;: serie V. M&#233;xico.-->
+            <ref id="ID8d8215f6-844c-4269-b998-413a6d3d8698">
+                <!--mixed-citation>Palacio-Prieto, J. L., Bocco, G., Vel&#225;zquez, A., Mas, J. F., Takaki-Takaki, F., &amp; G&#243;mez-Rodriguez, G. (2001). Inventario Nacional Forestal: variante uno.
+                    <italic>Investigaciones Geogr&#225;ficas</italic>,
+                    <italic>43</italic>(2001), 183&#8211;203.</mixed-citation-->
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Palacio-Prieto</surname>
+                            <given-names>J. L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bocco</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Velázquez</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mas</surname>
+                            <given-names>J. F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Takaki-Takaki</surname>
+                            <given-names>F.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gómez-Rodríguez</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>La condición actual de los recursos forestales de México: resultados del Inventario Nacional Forestal 2000</article-title>
+                    <date>
+                        <year>2001</year>
+                    </date>
+                    <source>Investigaciones Geográficas</source>
+                    <series>Pasturas Tropicales</series>
+                    <volume-series>43</volume-series>
+                    <issue>2000</issue>
+                    <fpage>183</fpage>
+                    <lpage>203</lpage>
+                </element-citation>
+            </ref>
+            <ref id="ID608865d3-7074-40db-b240-6d5b78c7a305">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Rzedowsky</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    <source>Vegetaci&#243;n de M&#233;xico</source>
+                    <date>
+                        <year>1998</year>
+                    </date>
+                    <publisher-loc>M&#233;xico, D. F.</publisher-loc>
+                    <publisher-name>LIMUSA</publisher-name>
+                </element-citation>
+            </ref>
+            <!--Rzedowsky, J. (1998).  Vegetaci&#243;n de M&#233;xico. M&#233;xico, D. F.: LIMUSA.-->
+        </ref-list>
+    </back>
+</article>

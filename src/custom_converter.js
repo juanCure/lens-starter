@@ -13,7 +13,11 @@ CustomConverter.Prototype = function() {
 
   this.test = function(xmlDoc) {
     var publisherName = xmlDoc.querySelector("publisher-name").textContent;
-    return publisherName === "My Journal";
+    var value = publisherName === "My Journal";
+    if(value) 
+      console.log("CustomConverter: ", publisherName);
+    return value;
+    //return publisherName === "My Journal";
   };
 
   // Override document factory so we can create a customized Lens article,

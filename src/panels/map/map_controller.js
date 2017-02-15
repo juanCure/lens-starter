@@ -22,9 +22,11 @@ MapController.Prototype = function() {
   };*/
 
   this.getMapVisualizerReference = function(){
-      var publication_info = this.document.get("");
-      //var my_document = this.document;
-      console.log(publication_info);
+      var my_supplements = this.document.get("publication_info").mySupplements;
+      if(my_supplements){
+        return my_supplements[0].url;
+      }
+      return "";
   };
 
 };

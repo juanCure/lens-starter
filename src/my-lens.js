@@ -7,6 +7,7 @@ var panels = Lens.getDefaultPanels();
 var LensConverter = require("lens/converter");
 var CustomConverter = require("./custom_converter");
 var ElifeConverter = require("lens/converter/elife_converter");
+var TerraDigitalisConverter = require("./terra_digitalis_converter");
 
 // Custom Panels
 // -------------------
@@ -42,9 +43,11 @@ LensApp.Prototype = function() {
 
   this.getConverters = function(converterOptions) {
     return [
-      new CustomConverter(converterOptions),
+      new TerraDigitalisConverter(converterOptions),
       new ElifeConverter(converterOptions),
-      new LensConverter(converterOptions)
+      new CustomConverter(converterOptions),
+      new LensConverter(converterOptions),
+      
     ]
   };
 

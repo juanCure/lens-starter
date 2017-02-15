@@ -28,7 +28,10 @@ var qs = function () {
 // This document gets loaded by default
 // --------
 
-var documentURL = "data/example.xml";
+//var documentURL = "data/example.xml";
+var documentURL = "data/regionalizacion.xml";
+//var documentURL = "data/elife-21900-v1-codebeautify.xml";
+//var documentURL = "data/bautista.xml";
 
 $(function() {
 
