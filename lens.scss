@@ -25,3 +25,25 @@
 .altmetrics-panel .altmetrics {
   padding: 20px;
 }
+
+// My custom styles
+
+.contenedor {
+    width: 100%;
+    height: 100%;
+}
+.claseIframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    padding: 0px;
+
+    /* border: 1px solid red; */
+    /* overflow: auto; */
+}
+
+// Display none div with class supplment
+
+.supplement {
+	display: none;
+}

@@ -20,9 +20,11 @@ MapView.Prototype = function() {
     var href = this.controller.getMapVisualizerReference();
 
 
-    var $map_div = $('<div class="map"></div>');
-    $map_div.append($('<div class="label">Presiona el siguiente botón para ver el mapa</div>'));
+    var $map_div = $('<div class="contenedor"></div>');
+    /*$map_div.append($('<div class="label">Presiona el siguiente botón para ver el mapa</div>'));
     $map_div.append($('<div class="value"><a class="map-button" href="'+ href +'" target="_blank">Mapa</a></div>'));
+    $map_div.append($('<iframe class="claseIframe" style="border: none;" height="800" width="600" src="http://132.248.14.208/maps/22/embed">'));*/
+    $map_div.append($('<iframe class="claseIframe" src=" '+ href +'">'));
 
     this.$el.append($map_div);
 
