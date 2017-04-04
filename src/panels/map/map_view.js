@@ -6,7 +6,7 @@ var MapView = function(panelCtrl, config) {
   this.$el.addClass('map-panel');
 
   // Hide toggle on contruction, it will be displayed once data has arrived
-  //this.hideToggle();
+  this.hideToggle();
 };
 
 MapView.Prototype = function() {
@@ -18,16 +18,16 @@ MapView.Prototype = function() {
     this.el.innerHTML = '';
 
     var href = this.controller.getMapVisualizerReference();
+    if(href != '') {
+      this.showToggle();
+      var $map_div = $('<div class="contenedor"></div>');
+      /*$map_div.append($('<div class="label">Presiona el siguiente botón para ver el mapa</div>'));
+      $map_div.append($('<div class="value"><a class="map-button" href="'+ href +'" target="_blank">Mapa</a></div>'));
+      $map_div.append($('<iframe class="claseIframe" style="border: none;" height="800" width="600" src="http://132.248.14.208/maps/22/embed">'));*/
+      $map_div.append($('<iframe class="claseIframe" src=" '+ href +'">'));
 
-
-    var $map_div = $('<div class="contenedor"></div>');
-    /*$map_div.append($('<div class="label">Presiona el siguiente botón para ver el mapa</div>'));
-    $map_div.append($('<div class="value"><a class="map-button" href="'+ href +'" target="_blank">Mapa</a></div>'));
-    $map_div.append($('<iframe class="claseIframe" style="border: none;" height="800" width="600" src="http://132.248.14.208/maps/22/embed">'));*/
-    $map_div.append($('<iframe class="claseIframe" src=" '+ href +'">'));
-
-    this.$el.append($map_div);
-
+      this.$el.append($map_div);
+    }
     /*this.controller.getAltmetrics(function(err, altmetrics) {
       if (!err) {
         self.renderAltmetrics(altmetrics);  
