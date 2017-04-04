@@ -42,6 +42,7 @@ TerraDigitalisConverter.Prototype = function() {
  	 /*This function extract the supplementary data from xml file
  	  and add it to the publication_info node.*/
  	this.enhancePublicationInfo = function(state){
+ 		var mapURI, supplements = [];
  		//console.log("state: ", state);
  		var article = state.xmlDoc.querySelector("article");
  		var publicationInfo = state.doc.get('publication_info');
@@ -63,16 +64,19 @@ TerraDigitalisConverter.Prototype = function() {
 		</supplementary-material>
 		*/
 		//var mapURI = article.querySelector("sec[sec-type=supplementary-material]");
-		var mapURI = article.querySelector("supplementary-material[id=map]");
-		var supplements = [];
+		try {
+			mapURI = article.querySelector("supplementary-material[id=map]");
+		} catch(err){
+			mapURI = null;
+		}
 		if(mapURI){
-			//console.log("this is xlink:href of supplementary-material with id map: ", mapURI.getAttribute("xlink:href"));
 			supplements.push({
 				name: "mapa",
 				url: mapURI.getAttribute("xlink:href"),
 				type: "mapa"
-			});	
+			});
 		}
+		
 		publicationInfo.mySupplements = supplements;
  	};
 
