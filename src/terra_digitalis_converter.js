@@ -20,22 +20,23 @@ TerraDigitalisConverter.Prototype = function() {
  	};
 
  	this.enhanceCover = function(state, node, element){
- 		var category;
- 		var dispChannel = element.querySelector("subj-group[subj-group-type=display-channel] subject").textContent;
+ 		var category, dispChannel; 		
 
  		try {
+ 			dispChannel = element.querySelector("subj-group[subj-group-type=display-channel] subject").textContent;
       		category = element.querySelector("subj-group[subj-group-type=heading] subject").textContent;
     	} catch(err) {
+    		dispChannel = null;
       		category = null;
     	}
 
     	node.breadcrumbs = [
-    		{name: "Terra Digitalis", url: "http://localhost/ojs3/index.php/terradigitalis/index", image: "http://132.248.14.88/images_articles/tierraDigitalD7_logo.png"},
- 			{name: dispChannel, url: "http://localhost/ojs3/index.php/terradigitalis/index"}   		
+    		{name: "Terra Digitalis", url: "http://132.248.14.208/html/ojs/index.php/terra_digitalis", image: "http://132.248.14.208/html/terra_digitalis/images/terra_digitalis_logo.png"},
+ 			{name: dispChannel, url: "http://132.248.14.208/html/ojs/index.php/terra_digitalis"}   		
     	];
 
     	if(category)
-    		node.breadcrumbs.push({name: category, url: "http://localhost/ojs3/index.php/terradigitalis/index"});
+    		node.breadcrumbs.push({name: category, url: "http://132.248.14.208/html/ojs/index.php/terra_digitalis"});
 
  	};
  	 /*This function extract the supplementary data from xml file

@@ -29,6 +29,7 @@
             <given-names>Alejandra</given-names>
           </name>
           <xref ref-type="aff" rid="espinoza"/>
+          <xref ref-type="corresp" rid="cor1">*</xref>
         </contrib>
         <contrib contrib-type="author">
           <name>
@@ -44,23 +45,48 @@
           <institution>Centro de Investigaciones en Geografía Ambiental</institution>
         </aff>
       </contrib-group>
+      <author-notes>
+        <corresp id="cor1">
+          <email>aespinoza@pmip.unam.mx</email>;
+        </corresp>
+      </author-notes>
       <pub-date date-type="pub" publication-format="electronic">
-        <day>03</day>
+        <day>04</day>
         <month>04</month>
         <year>2017</year>
       </pub-date>
       <volume>1</volume>
       <issue>1</issue>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>09</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>03</month>
+          <year>2017</year>
+        </date>
+      </history>
       <permissions>
-        <copyright-statement>Copyright &#169; 2017, Alejandra Espinoza Maya, Manuel Bollo Manent</copyright-statement>
-        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
-          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        <copyright-statement>&#169; 2017, Alejandra Espinoza Maya &amp; Manuel Bollo Manent. Published by Terra Digitalis.</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by-nc-sa/4.0/), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
         </license>
       </permissions>
       <self-uri>http://132.248.14.208/html/ojs/index.php/terra_digitalis/</self-uri>
-      <abstract>
-        <title>Abstract</title>
-        <p>El presente trabajo propone la Regionalización físico-geográfica (RFG) para Michoacán. Se basa en el método de distinción de unidades de la regionalización, a partir del mapa de la tipología regional de los paisajes, por medio de la asociación de paisajes de esta tipología en cada nivel taxonómico de la RFG. Se parte de la diferenciación de las Provincias físico-geográficas del territorio como unidad taxonómica superior que es posible representar a la escala de estudio y posteriormente se establecen las unidades inferiores de la taxonomía a su interior. Para Michoacán se distinguieron: 2 Provincias, 7 Subprovincias, 17 Distritos y 36 Regiones físico-geográficas en una superficie de 58,296.11 km2, a escala 1:500,000. La delimitación de estas unidades espaciales, resulta útil en diversos ámbitos, particularmente en la gestión, manejo y planeamiento del territorio, ya que están constituidas por niveles jerárquicos de unidades anidadas por medio de una taxonomía que permite abarcar diferentes escalas..</p>
+      <abstract abstract-type="section">
+        <sec>
+          <title>Resumen</title>
+          <p>El presente trabajo propone la Regionalización físico-geográfica (RFG) para Michoacán. Se basa en el método de distinción de unidades de la regionalización, a partir del mapa de la tipología regional de los paisajes, por medio de la asociación de paisajes de esta tipología en cada nivel taxonómico de la RFG. Se parte de la diferenciación de las Provincias físico-geográficas del territorio como unidad taxonómica superior que es posible representar a la escala de estudio y posteriormente se establecen las unidades inferiores de la taxonomía a su interior. Para Michoacán se distinguieron: 2 Provincias, 7 Subprovincias, 17 Distritos y 36 Regiones físico-geográficas en una superficie de 58,296.11 km2, a escala 1:500,000. La delimitación de estas unidades espaciales, resulta útil en diversos ámbitos, particularmente en la gestión, manejo y planeamiento del territorio, ya que están constituidas por niveles jerárquicos de unidades anidadas por medio de una taxonomía que permite abarcar diferentes escalas..</p> 
+          <p><bold>Palabras clave</bold>: Regionalización, paisaje físico-geográfico, taxonomía.</p> 
+        </sec>
+        <sec>
+          <title>Abstract</title>
+          <p>The present paper presents the Map of the lower units of the Physical Geographic Regionalization (RFG) for Michoacán. It is based on the method of units distinction of the regionalization, based on the map of the regional typology of the landscapes, by means of the association of landscapes of this typology in each taxonomic level of the RFG. It starts from the differentiation of the physical-geographic Provinces of the territory as a higher taxonomic unit and subsequently establishes the lower units of the taxonomy to its interior. For Michoacán, 2 Provinces, 7 Sub-provinces, 17 Districts and 36 physical-geographic Regions were distinguished on an area of ​​58,296.11 km2, at a scale of 1: 500,000. The delimitation of these spatial units is useful in several areas, particularly in management and land planning, since they are constituted by hierarchical levels of nested units by means of a taxonomy allowing the coverage of different scales.</p>
+          <p><bold>Key words</bold>: Regionalization, physical-geographical landscape, taxonomy.</p>
+        </sec>        
       </abstract>
       <kwd-group kwd-group-type="author-created">
     <title>Palabras clave</title>
