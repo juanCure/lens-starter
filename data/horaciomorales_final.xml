@@ -154,10 +154,18 @@
 
       <p>Las etapas para la elaboración del mapa fueron las siguientes:</p>
 
-      <!--
-      <p>El inicio del proceso cartogr&#225;fico fue la compilaci&#243;n y estandarizaci&#243;n de la informaci&#243;n de cada componente biof&#237;sico (geolog&#237;a, clima, suelo, vegetaci&#243;n y uso de suelo), posteriormente se llevaron a cabo las siguientes etapas (<xref rid="IDb30e3845-e06d-4036-93d3-e70ceab2d668" ref-type="bibr" id="ID3b8ef952-a49f-4656-8ad2-0b7e8b7e5a69">Priego-Santander et al., 2003</xref>):</p>
-      -->
+      <list id="mylist" list-type="ordered">
+        <list-item><p>A</p></list-item>
+        <list-item><p>B</p></list-item>
+        <list-item><p>C</p></list-item>
+        <list-item>
+          <p>D</p>
+          <list><list-item><p>E</p></list-item></list>
+          <list><list-item><p>F</p></list-item></list>
+        </list-item>
+      </list>
 
+      <!--
        <list id="mylist" list-type="ordered">
         <list-item>
           <p>Elaboración del mapa de disección vertical del relieve a escala 1: 250 000 según <xref rid="IDacc762ae-2ec0-4c61-b7a9-376532b2a35f" ref-type="bibr" id="ID3955f276-693d-4962-86eb-5302bfc9e28b">Priego-Santander et al. (2010)</xref>.</p>
@@ -193,6 +201,7 @@
           <p>Verificación en campo de la información de la leyenda del mapa, correcciones y edición final del conjunto cartográfico</p>
         </list-item>
       </list>
+    -->
 
       <p>En la representación cartográfica se emplearon los métodos de fondo cualitativo, símbolos numéricos, símbolos literales y símbolos lineales.</p>
 
@@ -495,11 +504,11 @@
         </graphic>
       </fig>
     </sec>
-    
+    <!--
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.14.208/html/mapas/paisajesChiapas1/index1.html"
+        xlink:title="local_file" xlink:href="http://132.248.14.208/html/mapas/moralesT/"
         mimetype="application/html">
         <label>Mapa Interactivo</label>
         <caption>
@@ -509,9 +518,10 @@
             <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">http://dx.doi.org/10.7554/eLife.21900.021</ext-link>
           </p>
         </caption>
-      <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/mapas/paisajesChiapas1/index1.html"/>
+      <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/mapas/moralesT/"/>
     </supplementary-material>
     </sec>
+  -->
   </body>
   <back>
     <ref-list>

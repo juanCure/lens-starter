@@ -296,7 +296,7 @@
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.14.208/html/mapas_estaticos/Bautista/html5forpc.html"
+        xlink:title="local_file" xlink:href="http://132.248.14.208/html/mapas_estaticos/Bautista/html5.html"
         mimetype="application/html">
       <object-id pub-id-type="doi"></object-id>
         <label>Mapa Estático</label>
@@ -309,7 +309,7 @@
           </p>
       -->
         </caption>
-      <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.208/html/mapas_estaticos/Bautista/html5forpc.html"/>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.208/html/mapas_estaticos/Bautista/html5.html"/>
     </supplementary-material>
 	</sec>
   </body>
