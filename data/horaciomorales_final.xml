@@ -154,14 +154,15 @@
 
       <p>Las etapas para la elaboración del mapa fueron las siguientes:</p>
 
-      <list id="mylist" list-type="ordered">
+      <list id="mylist" list-type="bullet">
         <list-item><p>A</p></list-item>
         <list-item><p>B</p></list-item>
         <list-item><p>C</p></list-item>
         <list-item>
-          <p>D</p>
-          <list><list-item><p>E</p></list-item></list>
-          <list><list-item><p>F</p></list-item></list>
+          <p>D
+            <list id="mysublist" list-type="ordered"><list-item><p>E</p></list-item></list>
+          </p>
+          
         </list-item>
       </list>
 
