@@ -126,7 +126,7 @@
 
       <p>La información insumo para la elaboración del mapa fue la siguiente:</p>
 
-      <list list-type="ordered">
+      <list id="first_list" list-type="ordered">
         <list-item>
           <p><xref rid="ref19" ref-type="bibr" id="cite1">Cartas geológico-mineras de México (E15-10, D15-1, E15-11, E15-12, D15-3, D15-2, D15-5) a escala 1:250 000 del Servicio Geológico Mexicano  (2005).</xref></p>
         </list-item>
@@ -154,20 +154,24 @@
 
       <p>Las etapas para la elaboración del mapa fueron las siguientes:</p>
 
-      <list id="mylist" list-type="bullet">
+      <!-- list-type="ordered" -->
+      <!-- list-type="bullet" -->
+      <!--
+      <list id="mylist"> 
         <list-item><p>A</p></list-item>
         <list-item><p>B</p></list-item>
         <list-item><p>C</p></list-item>
         <list-item>
-          <p>D
-            <list id="mysublist" list-type="ordered"><list-item><p>E</p></list-item></list>
-          </p>
-          
+          <p>D</p>
+          <list id="mysublist">
+            <list-item>
+              <p>E</p>
+            </list-item>
+          </list> 
         </list-item>
       </list>
-
-      <!--
-       <list id="mylist" list-type="ordered">
+    -->
+      <list id="second_list" list-type="ordered">
         <list-item>
           <p>Elaboración del mapa de disección vertical del relieve a escala 1: 250 000 según <xref rid="IDacc762ae-2ec0-4c61-b7a9-376532b2a35f" ref-type="bibr" id="ID3955f276-693d-4962-86eb-5302bfc9e28b">Priego-Santander et al. (2010)</xref>.</p>
         </list-item>
@@ -176,8 +180,8 @@
         </list-item>
         <list-item>
           <p>Superposición de la cobertura anterior con los tipos de climas. En este paso se obtuvo la definición del tipo de clima que predomina en cada localidad y al mismo tiempo, se logró inferir la génesis del paisaje, la cual fue verificada con los resultados de <xref rid="ref16" ref-type="bibr" id="cite12">Ortiz (2000)</xref>, lo cual facilitó la definición de las localidades de paisajes. Cabe aclarar que el mapa de climas solo está disponible a escala 1:1 000 000, por lo que fue necesario ampliarlo hasta la escala 1:250 000, para ello se consideraron las siguientes premisas:</p>
-        </list-item>
-        <list-item>
+          <list id="first_sublist" list-type="alpha-lower">
+            <list-item>          
               <p>El clima posee distribuci&#243;n continua. Los tipos de climas al ser definidos por las relaciones entre la temperatura y precipitaci&#243;n, poseen generalmente una distribuci&#243;n continua en una secuencia que generalmente suele ser: fr&#237;o de monta&#241;a-semifr&#237;o-templado-semic&#225;lido-c&#225;lido.</p>
             </list-item>
             <list-item>
@@ -186,6 +190,8 @@
             <list-item>
               <p>Para muchos tipos clim&#225;ticos la vegetaci&#243;n sirve como patr&#243;n de referencia y validaci&#243;n. Se puede verificar la probable confiabilidad de un mapa clim&#225;tico ampliado desde una escala 1:1 000 000 superponiendo la cobertura vegetal, de esta manera comprobamos la variabilidad espacial de los climas con respecto a la cobertura vegetal (<xref rid="IDacc762ae-2ec0-4c61-b7a9-376532b2a35f" ref-type="bibr" id="ID3955f276-693d-4962-86eb-5302bfc9e28b">Priego-Santander et al., 2010</xref>).</p>
             </list-item>
+          </list>
+        </list-item>
         <list-item>
           <p>División morfológica y morfométrica de las localidades según los criterios de <xref rid="IDacc762ae-2ec0-4c61-b7a9-376532b2a35f" ref-type="bibr" id="cite13">Priego-Santander et al. (2010)</xref>. Ello propició la definición de las unidades intermedias (Parajes complejos) e inferiores (Parajes simples).</p>
         </list-item>
@@ -202,7 +208,6 @@
           <p>Verificación en campo de la información de la leyenda del mapa, correcciones y edición final del conjunto cartográfico</p>
         </list-item>
       </list>
-    -->
 
       <p>En la representación cartográfica se emplearon los métodos de fondo cualitativo, símbolos numéricos, símbolos literales y símbolos lineales.</p>
 
@@ -252,7 +257,7 @@
       <title>Conclusiones</title>
       <p>Los resultados obtenidos permiten generar las siguientes conclusiones:</p>
 
-      <list list-type="ordered">
+      <list id="third_list" list-type="ordered">
       	<list-item>
       		<p>El enfoque empleado permitió la distinción de los paisajes físico-geográficos de Chiapas a escala 1: 250 000, donde se pudieron diferenciar cinco niveles taxonómicos incluyendo: 6 Clases, 19 Subclases, 118 Localidades, 181 Parajes Complejos y 450 Parajes Simples. El conjunto cartográfico completo con la leyenda ampliada se puede apreciar en el siguiente link: http://www.ciga.unam.mx/publicaciones/index.php/catalogo-completo/book/12-coleccionesciga/81</p>
       	</list-item>
@@ -264,14 +269,19 @@
       	</list-item>
       	<list-item>
 	      	<p>Algunas peculiaridades de los paisajes naturales de Chiapas son las siguientes:</p>
+          <list id="second_sublist" list-type="bullet">
+            <list-item><p>La evolución geológica y tectónica condicionan el predominio de rocas carbonatadas, mismas que ocupan 36.25 % del territorio del estado</p></list-item>
+            <list-item><p>Resultado de la evolución tectónica, el relieve de la entidad presenta un amplio dominio de geoformas positivas: a) Montañas 60.39 %, b) Lomeríos 7.77 %, c) Rampas de piedemontes 3.47 %, d) Valles 2.46 % y e) Planicies 25.91%.</p></list-item>
+            <list-item><p>La gran amplitud del relieve, la sectorialidad continental, la presencia del Océano Pacífico y Golfo de México condicionan la amplia variabilidad climática, la cual incluye climas fríos, semifríos, templados, semicálidos y cálidos.</p></list-item>
+            <list-item><p>La morfogénesis del relieve y la variabilidad climática permiten una amplia diversidad geoecológica, la cual se manifiesta en los distintos componentes del paisaje, por ejemplo:</p>
+              <list id="third_sublist" list-type="bullet">
+                <list-item><p>La presencia de  un amplio gradiente climático: clima semifrío de montaña con 0.01 %, templado semifrío húmedo con 0.41 %, templado húmedo a subhúmedo con 5.99 %, semicálido húmedo a subhúmedo con 25.56 %, cálido húmedo con 38.51 % y cálido subhúmedo con 29.52 %</p></list-item>
+              <list-item><p>La heterogeneidad en los tipos de suelos como: Leptosoles, Acrisoles, Regosoles y Cambisoles, con una extensión territorial equivalente a 26, 20, 14 y 11 por ciento de la superficie total del estado, respectivamente.</p></list-item>
+              <list-item><p>La distribución de formaciones vegetales específicas como: Selvas, que ocupan 26 % del territorio, seguido por bosques con 22 % de la superficie estatal. </p></list-item>
+              </list>
+            </list-item>
+          </list>
 	      </list-item>
-        <list-item><p>La evolución geológica y tectónica condicionan el predominio de rocas carbonatadas, mismas que ocupan 36.25 % del territorio del estado</p></list-item>
-        <list-item><p>Resultado de la evolución tectónica, el relieve de la entidad presenta un amplio dominio de geoformas positivas: a) Montañas 60.39 %, b) Lomeríos 7.77 %, c) Rampas de piedemontes 3.47 %, d) Valles 2.46 % y e) Planicies 25.91%.</p></list-item>
-        <list-item><p>La gran amplitud del relieve, la sectorialidad continental, la presencia del Océano Pacífico y Golfo de México condicionan la amplia variabilidad climática, la cual incluye climas fríos, semifríos, templados, semicálidos y cálidos.</p></list-item>
-        <list-item><p>La morfogénesis del relieve y la variabilidad climática permiten una amplia diversidad geoecológica, la cual se manifiesta en los distintos componentes del paisaje, por ejemplo:</p></list-item>
-        <list-item><p>La presencia de  un amplio gradiente climático: clima semifrío de montaña con 0.01 %, templado semifrío húmedo con 0.41 %, templado húmedo a subhúmedo con 5.99 %, semicálido húmedo a subhúmedo con 25.56 %, cálido húmedo con 38.51 % y cálido subhúmedo con 29.52 %</p></list-item>
-        <list-item><p>La heterogeneidad en los tipos de suelos como: Leptosoles, Acrisoles, Regosoles y Cambisoles, con una extensión territorial equivalente a 26, 20, 14 y 11 por ciento de la superficie total del estado, respectivamente.</p></list-item>
-        <list-item><p>La distribución de formaciones vegetales específicas como: Selvas, que ocupan 26 % del territorio, seguido por bosques con 22 % de la superficie estatal. </p></list-item>
         <list-item>
           <p>El mapa elaborado puede tener aplicación en diversas direcciones científicas como el ordenamiento ecológico territorial y el manejo de áreas protegidas; la determinación de las transformaciones antropogénicas y la definición del estado geoecológico actual, entre otras. Además, puede servir de base espacial para análisis de diversidad de ecosistemas, ya que constituye el inventario espacial de los sistemas ecológicos a nivel geográfico del estado de Chiapas.</p>
         </list-item>
