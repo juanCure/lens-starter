@@ -10,15 +10,8 @@ CustomListView.Prototype = function() {
 	// Sobreescribiendo la funcionalidad del método render
 
 	this.render = function() {
-		console.log("Calling method render of ListView constructor");
-    console.log("the typeof object this: " + JSON.stringify(this, null, 4));
-    
-    /*console.log("Keys of this:" + Object.keys(this));
-    console.log("this.el : " + this.el);
-    console.log("this.$el : " + this.$el);
-    console.log("this.node : " + this.node);
-    console.log("this.node : " + JSON.stringify(this.node, null, 4));*/
 
+    // The next code is for take only the real direct childs of a list
     var i = 0;
     var children = this.node.getNodes();
     var real_items = []
@@ -27,13 +20,10 @@ CustomListView.Prototype = function() {
       if(child.type == "paragraph"){
         real_items.push(child);
       } else if(child.type == "list") {
-        console.log("Estas frente a una lista, con " + child.items.length + " items");
         real_items.push(child);
         i += child.items.length;
       }
     }
-
-    console.log("These are real_items: " + JSON.stringify(real_items, null, 4));
 
     this.el.innerHTML = "";
 
@@ -49,15 +39,11 @@ CustomListView.Prototype = function() {
     }
 
     // create children views
-    var children = this.node.getNodes();
-    //console.log("children: " + JSON.stringify(children, null, 4));
-    //console.log("typeof children: " + typeof children);
+    //var children = this.node.getNodes();
     for (i = 0; i < real_items.length; i++) {
       //var child = this.node.document.get(children[i]);
       var child = real_items[i];
-      //console.log("This is " + this.node.id +  "'s child:  " + JSON.stringify(child, null, 4));
       var childView = this.viewFactory.createView(child);
-      //console.log("This is a childView: " + JSON.stringify(childView, null, 4));
 
       var listEl;
       if (child instanceof List) {
@@ -65,7 +51,6 @@ CustomListView.Prototype = function() {
       } else {
         listEl = document.createElement("LI");
         listEl.appendChild(childView.render().el);
-        //console.log(listEl);
       }
       this.content.appendChild(listEl);
       this.childrenViews.push(childView);
