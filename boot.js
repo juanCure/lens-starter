@@ -34,12 +34,12 @@ var qs = function () {
 //var documentURL = "data/bautista.xml";
 //var documentURL = "data/penelope.xml";
 //var documentURL = "data/cid.xml";
-var documentURL= "data/horaciomorales_final.xml";
+//var documentURL= "data/horaciomorales_final.xml";
 //var documentURL= "data/couturier_final.xml";
 //var documentURL= "data/bautista_final.xml";
 //var documentURL= "data/penelope_final.xml";
 //var documentURL= "data/espinoza_final.xml";
-//var documentURL= "data/cid_final.xml";
+var documentURL= "data/cid_final.xml";
 
 $(function() {
 

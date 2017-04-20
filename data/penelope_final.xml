@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>Terra Digitalis</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.22201/igg.terradigitalis.2017.1.11</article-id>
+      <article-categories>
+        <subj-group subj-group-type="display-channel">
+          <subject>Articulo de investigación</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Geofísica</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Cumulated subsidence maps of Mexico city</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>López Quiroz</surname>
+            <given-names>Penélope</given-names>
+          </name>
+          <xref ref-type="aff" rid="penelope"/>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marie Pierre</surname>
+            <given-names>Doin</given-names>
+          </name>
+          <xref ref-type="aff" rid="pierre"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Martínez Zazueta</surname>
+            <given-names>Iván</given-names>
+          </name>
+          <xref ref-type="aff" rid="ivan"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Osorno Covarrubias</surname>
+            <given-names>Francisco Javier</given-names>
+          </name>
+          <xref ref-type="aff" rid="francisco"/>
+        </contrib>
+        <aff id="penelope">
+          <institution>Centro de Geociencias, UNAM, Juriquilla,Mexico</institution>
+        </aff>
+        <aff id="pierre">
+          <institution>ISTerre, CNRS, Univ. Joseph Fourier, Grenoble, France</institution>
+        </aff>
+        <aff id="ivan">
+          <institution>Instituto de Geografía, Universidad Nacional Autónoma de México</institution>
+        </aff>
+        <aff id="francisco">
+          <institution>Instituto de Geografía, Universidad Nacional Autónoma de México</institution>
+        </aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">
+          <email>penelope@geociencias.unam.mx</email>;
+        </corresp>
+      </author-notes>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>04</day>
+        <month>04</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>03</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#169; 2017, Penélope López Quiroz, Marie Pierre Doin, Iván Martínez Zazueta &amp; Francisco Javier Osorno Covarrubias. Published by Terra Digitalis.</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by-nc-sa/4.0/), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+        </license>
+      </permissions>
+      <self-uri>http://132.248.14.208/html/ojs/index.php/terra_digitalis/</self-uri>
+      <abstract abstract-type="section">
+        <sec>
+          <title>Abstract</title>
+          <p>In this work, we present a set of 38 rasters, with a 30 x 30 m resolution, showing the cumulated subsidence over a large portion of Mexico City metropolitan area, from 20021122 (yyyymmdd) to 20070316. Annual average subsidence rates in Mexico City, one of the world most populated urban areas, reaches up to 0.38 m/yr, mainly due to soil compaction led by overexploitation of the Mexico Basin aquifer. To accurately map the spatial and temporal evolution of subsidence, a set of 38 Synthetic Aperture Radar (SAR) images from ENVISAT mission, has been processed through Small BASeline interferometry and the results have been formatted as rasters that can be analyzed on any Geographic Information System. Moreover, the whole set of rasters can be visualized as interactive animated series of cumulated subsidence maps through the journal platform.</p>
+          <p><bold>Key words</bold>: subsidence map, subsidence raster, InSAR, SAR, interferometry,  SBAS, Mexico City, Mexico</p> 
+        </sec>
+        <sec>
+          <title>Resumen</title>
+          <p>En este trabajo, se presentan 38 rasters, con resolución de 30 x 30 m, que muestran la subsidencia acumulada sobre una gran porción de la Ciudad de México, desde 20021122 (aaaammdd), hasta 20070316. Las tasas de subsidencia promedio anual en la Ciudad de México, una de las urbanizaciones más pobladas del mundo, alcanzan hasta 0.38 m/año, principalmente debido a la compactación del suelo, provocada por la sobreexplotación del acuífero del Valle de México. Para mapear con exactitud la evolución espacial y temporal de la subsidencia, se procesó mediante interferometría con líneas de base pequeñas, un conjunto de 38 imágenes de Radar de Apertura Sintética de la misión ENVISAT. Los resultados fueron formateados como rasters que pueden ser analizados en cualquier Sistema de Información Geográfica. Además, el conjunto completo de rasters puede ser visualizado a través de la plataforma en línea de la revista, como serie de tiempo animada e interactiva de la subsidencia acumulada.</p>
+          <p><bold>Palabras clave:</bold>: mapa de subsidencia, raster de subsidencia, InSAR, SAR, interferometría, líneas de base  pequeñas , Ciudad de México, México</p>
+        </sec>        
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+        <p>Maps constitute a useful tool to analyze subsidence taking place in large urban areas like Mexico City, where water pumping exceed the aquifer replenishment. Moreover, when maps are updated in time, the spatial and time evolution of subsidence can be estimated, constituting a great tool to asses the generation of strategies to cope with the consequences of this kind of hazard. Subsidence measurements, can be achieved by using several techniques including leveling, Global Positioning System (GPS), extensometers, piezometers, Light Detection and Ranging (LIDAR), cameras carried by Unmanned Aerial Vehicles (UAV), and Synthethic Aperture Radar Interferometry (InSAR). In a way, all these techniques can be complementary, however, most of them (e.g. leveling, GPS, extensometers, piezometers) require in-situ tool installation and measuring; besides, spatial resolution can be poor, because measurements can be obtained only at a few locations. Mapping, using cameras carried by UAV, can be done when the extension of the study area is not very large (<xref rid="ID06769d5e-e22c-4f4b-9fe7-ddc0f7f8058e" ref-type="bibr" id="IDfd747542-9282-41c0-bab1-e2bb8fccf0ed">Carrera-Hernández, Levresse, Lacan, &amp; Aranda-Gómez, 2016</xref>). However, when subsidence has to be measured over large areas, InSAR is a valuable tool, because is usually less expensive than LIDAR or obtaining measurements from techniques based on labor intensive surveys. Moreover, results from InSAR can be used as a first step to guide the subsequent installation of GPS, leveling and extensometer/piezometer, over specific and limited areas (<xref rid="ID39113f32-ea65-4853-af2b-5eb1cd4671dd" ref-type="bibr" id="
+        IDd3f2117f-1faa-4ffe-85a4-f9c04dfbf48e">Galloway &amp; Burbey, 2011</xref>).</p>
+        
+
+        <p>InSAR has been successfully applied to monitor subsidence (<xref rid="bib1" ref-type="bibr" id="cite1">Amelung, Galloway, Bell, Zebker, &amp; Laczniak, 1999</xref>; <xref rid="IDd53f5391-9a0e-4fe0-878a-e7ad1a7c0cff" ref-type="bibr" id="cite2">Cavalié, Doin, Lasserre, &amp; Briole, 2007</xref>; <xref rid="bib4" ref-type="bibr" id="cite3">Hooper, Zebker, Segall, &amp; Kampes, 2004</xref>). For this purpose, it is possible to use one of the following two approaches. The first one, is known as Differential SAR Interferometry (DInSAR), and consists in making interfere two images, taken at two different times from the same study area, to measure the deformation occurred on the time span between the acquisition of the two images. The second one, is known as Advanced InSAR (A-DInSAR) and overcomes most of the problems encountered by DInSAR (e.g. atmospheric phase contribution modeling and removal), using several images. Among principal A-DInSAR techniques are the processing of Small BASelines interferograms (SBAS), and the Permanent or Persistent Scatterers (PS). Both of them, allow to generate deformation time series: a) over the pixels that constitute the images, when using SBAS, and b) over targets with a level of coherence constant in time (e.g. buildings or pinnacles), when using PS (<xref rid="ID17be9b67-69df-44d7-93e2-98c1d1fa2499" ref-type="bibr" id="ID7ad3e23c-7611-42d2-9be2-60c7ed275118">Del Ventisette, 2013</xref>). Examples of DInSAR and A-DinSAR applied to subsidence due to water pumping were presented by <xref rid="bib10" ref-type="bibr" id="cite1"> Berardino , Fornaro, Lanari, &amp; Sansosti, 2002 </xref>; <xref rid="bib11" ref-type="bibr" id="cite1">Schmidt &amp; Bürgmann, 2003</xref>; <xref rid="bib12" ref-type="bibr" id="cite1">Usai, 2003</xref>; <xref rid="bib13" ref-type="bibr" id="cite1">Ferretti, Prati, &amp; Rocca, 2000</xref>;<xref rid="bib14" ref-type="bibr" id="cite1">Galloway &amp; Hoffmann, 2007 </xref> and <xref rid="ID39113f32-ea65-4853-af2b-5eb1cd4671dd" ref-type="bibr" id="IDd3f2117f-1faa-4ffe-85a4-f9c04dfbf48e">Galloway &amp; Burbey, 2011</xref>.</p>
+
+        <p>Maps of the Mexico City subsidence have been obtained in the past. <xref rid="bib7" ref-type="bibr" id="cite1">Strozzi, Wegmuller, Werner, Wiesmann, &amp; Spreckels, 2003</xref> and <xref rid="IDf3a4847a-909b-4af4-a332-c5a61154c377" ref-type="bibr" id="ID9a8f9bc4-4438-454d-8dc2-72fa76ba32fe">Cabral-Cano et al., 2008</xref>, used DInSAR, reporting annual maximum subsidence rates of 0.50 m/yr and 0.38 m/yr, respectively. <xref rid="bib6" ref-type="bibr" id="cite1">Osmanoğlu, Dixon, Wdowinski, Cabral-Cano, &amp; Jiang, 2011</xref>;<xref rid="bib9" ref-type="bibr" id="cite1"> Yan et al., 2012</xref>, and  <xref rid="bib2" ref-type="bibr" id="cite1">Chaussard, Wdowinski, Cabral-Cano, &amp; Amelung, 2014</xref>, used A-DInSAR to present annual average subsidence maps, reporting maximum subsidence rates of 0.30 m/yr, 0.35 and 0.38 m/yr, and 0.30 m/yr, respectively. It is important to note that, even if these works calculated time series of subsidence over the city, the corresponding images were not presented or available.</p>
+
+        <p><xref rid="bib5" ref-type="bibr" id="cite1">López-Quiroz, Doin, Tupin, Briole, &amp; Nicolas, 2009</xref>, used SBAS (A-DInSAR) interferometry to calculate the time series and annual average subsidence, of each 30 x 30 m pixel, in Mexico City metropolitan area, for a time span of 4 years and 4 months, from 20021122 to 20070316. However, they only presented the annual average subsidence map. This work makes available the complete database of the time series presented by <xref rid="bib5" ref-type="bibr" id="cite1">López-Quiroz et al. 2009</xref>,  and offers an interactive animated visualization of the series of subsidence maps, which can be seen on the Terra Digitalis platform. Rasters constituting the database, can be downloaded and analyzed on any Geographic Information System.</p>
+
+        <!--
+        <p>Subsidence measurements and its mapping can be performed through several techniques including leveling, GPS, extensometers, piezometers, LIDAR, mapping UAV and Synthethic Aperture Radar Interferometry (InSAR). In a way, all of these techniques can be complementary, however, most of them require in-situ tool installation and measuring (i.e. leveling, GPS, extensometers, piezometers), besides, its spatial resolution can be poor because they only take measures at a few locations. Mapping UAV can be used when the extension of the study area is not very large (<xref rid="ID06769d5e-e22c-4f4b-9fe7-ddc0f7f8058e" ref-type="bibr" id="IDfd747542-9282-41c0-bab1-e2bb8fccf0ed">Carrera-Hern&#225;ndez et al. 2016</xref>). When subsidence has to be measured over large areas, InSAR is a valuable tool, because it can be less expensive than LIDAR or obtaining measurements from techniques based on labor intensive surveys. Moreover, results from InSAR can also be used to guide the installation of GPS, leveling and extensometer/piezometer over specific and limited areas (<xref rid="ID39113f32-ea65-4853-af2b-5eb1cd4671dd" ref-type="bibr" id="IDd3f2117f-1faa-4ffe-85a4-f9c04dfbf48e">Galloway &amp; Burbey, 2011</xref>).</p>
+
+        <p>InSAR has been successfully applied to monitor subsidence, to do so, it is possible to use one of the following two approaches. The first one is known as Differential SAR Interferometry (DInSAR), and consists of making interfere two images, taken at two different times from the same study area, to measure the deformation occurred on the time span between the two images. The second one, is known as Advanced InSAR (A-DInSAR). It overcomes most of the problems encountered by DinSAR (e.g. atmospheric phase contribution modeling and removal) and instead of using only two images, it takes into account several of them. Among principal A-DInSAR techniques are the processing of Small BASelines interferograms (SBAS), and the Permanent or Persistent Scatterers (PS). Both of them, allow to generate deformation time series: a) over the pixels that constitute the images; when using SBAS, and b) over targets with a level of coherence constant in time (e.g. buildings or pinnacles); when using PS (<xref rid="ID17be9b67-69df-44d7-93e2-98c1d1fa2499" ref-type="bibr" id="ID7ad3e23c-7611-42d2-9be2-60c7ed275118">Del Ventisette, 2013</xref>). Examples of DInSAR and A-DinSAR applied to subsidence due to water pumping are presented by Berardino et al., 2002; Schmidt and B&#252;rgmann, 2003; Usai, 2003; Ferretti et al. 2000; Galloway &amp; Hoffmann, 2007 and Galloway &amp; Burbey, 2011.</p>
+
+        <p>This work presents Mexico city subsidence time and space evolution, mapped through SBAS from the end of 2002 to the beginning of 2007. Results have been formatted as rasters that can be read and analyzed on any Geographic Information System and can be visualized on the journal platform as an interactive animated series of subsidence maps. </p>
+      -->
+    </sec>
+    <sec reflist="yes">
+      <title>Mexico City subsidence</title>
+        <p>The Mexico City metropolitan area extends over 1200 km2 and is considered the third most populated urban agglomeration in the world (<xref rid="ID8d2f17fd-7203-4e88-9e1e-b49a45e282a7" ref-type="bibr" id="IDa2409dc0-f625-433a-ad74-55231301af42">Benson-Lira, Georgescu, Kaplan, &amp; Vivoni, 2016</xref>). Overpopulation leads to very large water consumption, in turn leading to an excessive aquifer water pumping. Subsidence is believed to be correlated with overexploitation of the aquifer and has been affecting Mexico City metropolitan area for a century, i.e. since ground water pumping began. Its consequences include the damage of important urban structures, like water and gas supply pipelines, drainage pipes, as well as domestic and historical buildings (<xref rid="ID832dd26a-9896-4c92-8596-d035a017b1a4" ref-type="bibr" id="IDdf6fbb56-5762-4e1d-a9c8-31022faddcd1">Santoyo, Ovando-Shelley, Mooser &amp; León, 2005</xref>). Subsidence also contributes to recurrent flooding during the rainy season. For all of the above, accurate maps of the Mexico City subsidence are needed to assess and prevent the related risks and consequences. </p>
+        <!--
+        <p>Mexico city and its metropolitan area, extends to an area of about 1200 km2 and is considered the third most populated urban agglomeration in the world (<xref rid="ID8d2f17fd-7203-4e88-9e1e-b49a45e282a7" ref-type="bibr" id="IDa2409dc0-f625-433a-ad74-55231301af42">Benson et al., 2016</xref>). Overpopulation, lead to an excessive water consumption thus in turn leading to an excessive aquifer water pumping.</p>
+
+        <p>Subsidence has been affecting Mexico city and its metropolitan area for a century, i.e. almost the moment where the aquifer water pumping began. Its consequences include, the damage of important urban structures like water and gas supply pipes, drainage pipes, domestic and historical buildings (<xref rid="ID832dd26a-9896-4c92-8596-d035a017b1a4" ref-type="bibr" id="IDdf6fbb56-5762-4e1d-a9c8-31022faddcd1">Santoyo et al., 2005</xref>). The cumulated subsidence also contributes to the flood problems the city has to manage every rainy season. For all of the above, accurate maps of the Mexico city subsidence need to be available to asses and prevent the related risks and consequences. </p>
+      -->
+    </sec>
+    <sec>
+      <title>Hydrogeological setting</title>
+        <p>Mexico City is located into the southern part of an endoreic basin which hydrogeological setting can be simplified as an aquifer and an aquitard. The aquifer, is composed of Quaternary alluvial deposits, its depth is spatially variable and can reach a maximum of 800 m (<xref rid="bib3" ref-type="bibr" id="cite1">Herrera, Martínez &amp; Hernandez, 1989</xref>). The aquitard, partially covers the aquifer and consists of Quaternary lacustrine deposits. Its depth is also spatially variable and can reach a maximum of 300 m (<xref rid="bib8" ref-type="bibr" id="cite1">Vázquez-Sánchez &amp; Jaimes-Palomera, 1989</xref>). Lacustrine deposits of the aquitard are mainly composed of extremely compressible clays that undergo compaction because of the high water extraction from the aquifer, resulting in widespread subsidence (<xref rid="IDf26b7c1f-bdba-486f-8a51-953f3b69406f" ref-type="bibr" id="ID7475759e-3635-4b95-b1ff-6421bd264981">Carrera- Hern&#225;ndez &amp; Gaskin, 2007</xref>).</p>
+        <!--
+        <p>Mexico city is located into the south part of an endoreic basin. The basin contains the Mexico Valley. The valley simplified hydrogeological setting includes an aquifer and an aquitard. The first one, is composed by quaternary alluvial deposits, its depth is variable and can reach up to 800 m. The second one, partially covers the aquifer, it is made of quaternary lacustrine deposits. Its depth is also variable and can reach up to 300 m. Lacustrine deposits of the aquitard are mainly composed by extremely compressible clays that, by the effect of the excessive water extraction on the aquifer, loose their water, resulting in compaction and subsidence of the city (<xref rid="IDf26b7c1f-bdba-486f-8a51-953f3b69406f" ref-type="bibr" id="ID7475759e-3635-4b95-b1ff-6421bd264981">Carrera- Hern&#225;ndez &amp; Gaskin, 2007</xref>). </p>
+      -->
+    </sec>
+    <sec>
+      <title>Methodology</title>
+        <p>To analyze the temporal and spatial evolution of the Mexico City subsidence phenomena, a set of 38 SAR images from the ENVISAT satellite, provided by the European Space Agency and covering the 20021122 to 20070316 time span, were acquired and processed. A 3-arc second sampled, void filled, Digital Elevation Model from the Shuttle Radar Topography Mission (<xref rid="IDf8c94d0e-587f-49f9-adc4-ff2cef6b13c0" ref-type="bibr" id="IDffe10b2c-983d-4d83-b7c1-6d4c3cf3eee0">Farr and Kobrick, 2000</xref>), was used to remove topography from the interferograms. We performed an SBAS processing chain, selecting interferograms having less than 9 months of temporal baseline and less than 500 m of perpendicular baseline. The total number of calculated interferograms was 71. All of them were processed using the JPL/CalTech Repeat Orbit Interferometry Package (ROI_PAC) (<xref rid="ID1e9adff0-645e-4323-a90b-7aa6e89022e6" ref-type="bibr" id="ID8c5b7faf-9b5f-4250-a57b-249a56a90c17">Rosen, Hensley, Peltzer, &amp; Simons, 2004</xref>).  A dedicated algorithm was then applied to solve the unwrapping problems of some of the interferograms; including the use of a stack of interferograms and the atmospheric correction of the vertically stratified tropospheric phase (<xref rid="IDd53f5391-9a0e-4fe0-878a-e7ad1a7c0cff" ref-type="bibr" id="ID66e32e49-08a5-44de-be79-477ea8d9d153">Cavali&#233; et al., 2007</xref>, <xref rid="bib5" ref-type="bibr" id="cite1">López-Quiroz et al., 2009</xref>). The 71 interferograms were then inverted to derive the deformation time series of each 30 x 30 m pixel (<xref rid="IDd53f5391-9a0e-4fe0-878a-e7ad1a7c0cff" ref-type="bibr" id="ID66e32e49-08a5-44de-be79-477ea8d9d153">Cavali&#233; et al., 2007</xref>). Finally, time deformation series were converted to 38 rasters, representing the cumulated subsidence for dates included in <xref rid="tbl1" ref-type="table">Table 1</xref>. The first date, 20021122, represents the reference date, so its cumulated subsidence is zero everywhere. The last date, 20070316, represents the cumulated subsidence for the total time span of 4 years and 4 months and is presented in <xref ref-type="fig" rid="fig1">Figure 1</xref>. The latter means that, for each pixel of 30 x 30 m, we have presented and made available, a time series of cumulated subsidence over 38 dates. Further details on the development of the processing steps are described in <xref rid="bib5" ref-type="bibr" id="cite1">López-Quiroz, Doin, Tupin, Briole, &amp; Nicolas, 2009</xref>. The main difference with the results presented here is that previously, for each pixel of 30 x 30 m, only the annual subsidence average velocity was presented.</p>
+
+        <!--
+        <p>The purpose of this work was the generation of a set of maps allowing to analyse the temporal and spatial evolution of the Mexico city subsidence phenomena. To achieve this, a set of 38 SAR images from ENVISAT satellite were acquired and processed. A 3-arc second sampled Digital Elevation Model from the Shuttle Radar Topography Mission (<xref rid="IDf8c94d0e-587f-49f9-adc4-ff2cef6b13c0" ref-type="bibr" id="IDffe10b2c-983d-4d83-b7c1-6d4c3cf3eee0">Farr and Kobrick, 2000</xref>), was used too. Images were provided by the European Space Agency, by means of a proposal submission through their website. We performed an SBAS processing chain, starting with the selection of the interferograms that needed to be calculated. Those interferograms had less than 9 months of temporal baseline and less than 500 m of perperdicular baseline. The total number of calculated interferograms was 71. All of them were processed using the JPL/CalTech Repeat Orbit Interferometry Package (ROI_PAC) (<xref rid="ID1e9adff0-645e-4323-a90b-7aa6e89022e6" ref-type="bibr" id="ID8c5b7faf-9b5f-4250-a57b-249a56a90c17">Rosen et al., 2004</xref>). A dedicated algorithm was then applied to solve the unwrapping problems of some of the interferograms; including the use of a stack of interferograms and the atmospheric correction of the vertically stratified tropospheric phase. 71 interferograms were then inverted to derive the deformation time series of each pixel of 30 x 30 m (<xref rid="IDd53f5391-9a0e-4fe0-878a-e7ad1a7c0cff" ref-type="bibr" id="ID66e32e49-08a5-44de-be79-477ea8d9d153">Cavali&#233; et al., 2007</xref>). Finally, time deformation series were converted, to 38 matrices, representing the cumulated subsidence for the dates included in (<xref rid="tbl1" ref-type="table">Table 1</xref>). The first date, 20021122 (aaaammdd), represents the reference date, so its cumulated subsidence is zero everywhere. Detailed development of the processing steps can be read on L&#243;pez-Quiroz et al., 2009.</p>
+      -->
+    </sec>
+    <sec>
+      <title>Results and discussion</title>
+        <p>Annual average velocity calculated from time series on some pixels, were compared to selected GPS measurements (<xref rid="IDf3a4847a-909b-4af4-a332-c5a61154c377" ref-type="bibr" id="ID9a8f9bc4-4438-454d-8dc2-72fa76ba32fe">Cabral-Cano et al., 2008</xref>). The overall agreement between both measurements was good, although differences up to 0.023 m/yr were observed, which is well below given error bars (see <xref rid="bib5" ref-type="bibr" id="cite1">López-Quiroz, Doin, Tupin, Briole, &amp; Nicolas, 2009</xref>). The discrepancy can be due to the spatial characteristics of the two measurements: GPS estimates subsidence at a point, while SBAS interferometry, used in this work average it for a 30 x 30 m area. However, a more detailed quantitative study would be needed in order to accurately compare both measurements. Maximum cumulated subsidence for the whole time span, occurs in the Nezahualcoyotl (1.66 m) and Tlahuac (1.33 m) areas, where annual average subsidence velocities are 0.38 and 0.31 m/yr, respectively. The complete set of 38 rasters can be used to analyze zones of maximum deformation gradient and to assess damage to urban infrastructure in the city, since differential subsidence can be more dangerous than the magnitude of the annual average subsidence. The rasters were uploaded to a geospatial server and published in an interactive dynamic geo-visualizer, allowing the visualization of the animated series of cumulated subsidence maps.</p>
+        <!--
+        <p>Calculated time series were compared to some GPS measurements to guarantee its accuracy</p>
+
+        <p>(<xref rid="IDf3a4847a-909b-4af4-a332-c5a61154c377" ref-type="bibr" id="ID9a8f9bc4-4438-454d-8dc2-72fa76ba32fe">Cabral-Cano et al., 2008</xref>). The overall agreement between both measurements was good. (see L&#243;pez Quiroz et al., 2009). Maximum cumulated subsidence occurs in the Nezahualcoyotl (1.66 m/y) and Tlahuac (1.33 m/y) zones. The complete set of 38 matrices can be used to analyze maximum gradient zones of deformation and to asses and prevent damage to urban infrastructure in the city. The matrices formatted into rasters were uploaded to a geospatial server and published in an interactive dynamic geo-visualizer, which allows visualizing animated time-series of the subsidence phenomena in the study area.  </p>
+      -->
+    </sec>
+    <sec>
+      <title>Conclusions</title>
+        <p>With this work, we made available a set of 38 rasters of cumulated subsidence over Mexico City, from 20021122 to 20070316. The dynamic geo-visualizer on the journal platform allows to represent the temporal and spatial evolution of subsidence in Mexico City. With this tool, it is possible to determine which zones of Mexico City and its metropolitan area have accumulated more subsidence and how this process evolved in time. This work may help to identify the subsurface heterogeneities that control the pattern of subsidence and to plan prevention actions in specific areas.</p>
+    </sec>
+    <sec>
+      <title>Software and map design</title>
+        <p>Information technologies enable the development of online, real-time, multi-scale, interoperable, open and collaborative monitoring systems for different geospatial products. The dynamic and animated visualization of subsidence and similar information from the geography and geosciences areas, allows to visualize its evolution over time, in order to determine historical trends and possible scenarios of vulnerability and risk, revealing the value of this kind of tools for the scientific knowledge production at international scale.</p>
+
+        <p>Open source Geographic Resources Analysis Support System (GRASS GIS), was used to format the 38 cumulated subsidence rasters. ArcGIS by ESRI, was also used to create the project containing the corresponding 38 rasters layers and its related color scale. Geoserver and Geonode were used for the publication of online geospatial data. The geo-visualizer was developed with OpenLayers library and PHP programming Language. All this software is open source.</p>
+    </sec>
+    <sec>
+      <title>Acknowlegments</title>
+        <p>Special thanks go to Mario Edgar Navarro Castillo, who contributed to the cartographic design and development of the ArcGIS associated project.</p>
+
+        <p>This work was made possible thanks to the Mexican National Science and Technology Council (Conacyt) and its financial support through a PhD grant No. 200674.</p>
+
+        <p>Reviews by E. Cabral and L. Ferrari helped to improve the clarity of the work.</p>
+
+        <fig id="fig1" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/penelope/figura1_penelope.png" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figure 1</label>
+          <caption>
+            <p> Cumulated subsidence map for date 20070316, i.e. total cumulated subsidence for the time span between 20021122 and 20070316 (4.3 years). Cumulated subsidence areas showing negative and zero magnitudes are represented by color gray. The color scale repeats every 0.5 m. Each color contour represent an  area with the same cumulated subsidence. Maximum cumulated subsidence occurs in the Nezahualcoyotl (1.66m) and Tlahuac (1.33m) zones, represented with red triangles N y T, respectively.</p>
+          </caption>
+        </graphic>
+      </fig>
+
+      <table-wrap id="tbl1" position="float">
+      <label>Table 1. Cumulated subsidence raster dates</label>
+      <caption>
+      <p>Dates of the 38 processed images, also labeling the obtained 38 cumulated subsidence matrices. The first date, 20021122 (yyyymmdd), represents the reference date, thus its cumulated deformation equals zero all over the matrix.</p>
+      </caption>
+      <table frame="box" rules="all" border="1" cellpadding="5">
+        <thead>
+          <tr>
+            <th align="center">Image No.</th>
+            <th align="center">Image date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td align="center">1</td><td align="center">20021122</td></tr>
+          <tr><td align="center">2</td><td align="center">2030307</td></tr>
+          <tr><td align="center">3</td><td align="center">20030411</td></tr>
+          <tr><td align="center">4</td><td align="center">20030620</td></tr>
+          <tr><td align="center">5</td><td align="center">20030725</td></tr>
+          <tr><td align="center">6</td><td align="center">20030829</td></tr>
+          <tr><td align="center">7</td><td align="center">20031003</td></tr>
+          <tr><td align="center">8</td><td align="center">20031107</td></tr>
+          <tr><td align="center">9</td><td align="center">20031212</td></tr>
+          <tr><td align="center">10</td><td align="center">20040116</td></tr>
+          <tr><td align="center">11</td><td align="center">20040220</td></tr>
+          <tr><td align="center">12</td><td align="center">20040326</td></tr>
+          <tr><td align="center">13</td><td align="center">20040430</td></tr>
+          <tr><td align="center">14</td><td align="center">20040604</td></tr>
+          <tr><td align="center">15</td><td align="center">20040813</td></tr>
+          <tr><td align="center">16</td><td align="center">20040917</td></tr>
+          <tr><td align="center">17</td><td align="center">20041022</td></tr>
+          <tr><td align="center">18</td><td align="center">20041126</td></tr>
+          <tr><td align="center">19</td><td align="center">20041231</td></tr>
+          <tr><td align="center">20</td><td align="center">20050204</td></tr>
+          <tr><td align="center">21</td><td align="center">20050311</td></tr>
+          <tr><td align="center">22</td><td align="center">20050415</td></tr>
+          <tr><td align="center">23</td><td align="center">20050520</td></tr>
+          <tr><td align="center">24</td><td align="center">20050624</td></tr>
+          <tr><td align="center">25</td><td align="center">20050729</td></tr>
+          <tr><td align="center">26</td><td align="center">20050902</td></tr>
+          <tr><td align="center">27</td><td align="center">20051007</td></tr>
+          <tr><td align="center">28</td><td align="center">20051111</td></tr>
+          <tr><td align="center">29</td><td align="center">20051216</td></tr>
+          <tr><td align="center">30</td><td align="center">20060120</td></tr>
+          <tr><td align="center">31</td><td align="center">20060224</td></tr>
+          <tr><td align="center">32</td><td align="center">20060331</td></tr>
+          <tr><td align="center">33</td><td align="center">20060505</td></tr>
+          <tr><td align="center">34</td><td align="center">20060609</td></tr>
+          <tr><td align="center">35</td><td align="center">20061201</td></tr>
+          <tr><td align="center">36</td><td align="center">20070105</td></tr>
+          <tr><td align="center">37</td><td align="center">20070209</td></tr>
+          <tr><td align="center">38</td><td align="center">20070316</td></tr>
+        </tbody>
+      </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Visualizador</title>
+      <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:title="local_file" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/subsidencia.php"
+        mimetype="application/php">
+      <!--<object-id pub-id-type="doi">10.7554/eLife.21900.021</object-id>-->
+        <label>Mapa Dinámico</label>
+        <caption>
+          <title>Cumulated subsidence maps of Mexico city</title>
+          <p>
+            <bold>DOI:</bold>
+            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">http://dx.doi.org/10.7554/eLife.21900.021</ext-link>
+          </p>
+        </caption>
+      <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/subsidencia.php"/>
+    </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="bib1">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Amelung</surname>
+              <given-names>Falk</given-names>
+            </name>
+            <name>
+              <surname>Galloway</surname>
+              <given-names>Devin L.</given-names>
+            </name>
+            <name>
+              <surname>Bell</surname>
+              <given-names>John W.</given-names>
+            </name>
+            <name>
+              <surname>Zebker</surname>
+              <given-names>Howard A.</given-names>
+            </name>
+            <name>
+              <surname>Laczniak</surname>
+              <given-names>Randell J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sensing the ups and downs of Las Vegas: InSAR reveals structural control of land subsidence and aquifer-system deformation</article-title>
+          <source>Geology</source>
+          <date>
+            <year>1999</year>
+          </date>
+          <volume>27</volume>
+          <issue>6</issue>
+          <pub-id pub-id-type="doi">0.1130/0091-7613</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ID8d2f17fd-7203-4e88-9e1e-b49a45e282a7">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benson</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Georgescu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kaplan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vivoni</surname>
+              <given-names>E. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Loss of a lake system in a megacity: The impact of urban expansion on seasonal meteorology in Mexico City</article-title>
+          <source>J. Geophys. Res. Atmos.</source>
+          <date>
+            <year>n.d.</year>
+          </date>
+          <volume>121</volume>
+          <issue>None</issue>
+          <pub-id pub-id-type="doi">10.1002/2015JD024102</pub-id>
+        </element-citation>
+      </ref>
+      <!--Benson, V., M. Georgescu, S. Kaplan, and E. R. Vivoni (2016), Loss of a lake system in a megacity: The impact of urban expansion on seasonal meteorology in Mexico City, J. Geophys. Res. Atmos.,121,3079&#8211;3099, doi: 10.1002/2015JD024102
+             .
+         -->
+      <ref id="bib10">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berardino</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Fornaro</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Lanari</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sansosti</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>A new algorithm for surface deformation monitoring based on small baseline differential SAR interferograms</article-title>
+          <source>IEEE Transactions on Geoscience and Remote Sensing</source>
+          <date>
+            <year>2002</year>
+          </date>
+          <volume>40</volume>
+          <issue>11</issue>
+          <fpage>2375</fpage>
+          <lpage>2383</lpage>
+        </element-citation>
+      </ref>
+      <!--Berardino, P., Fornaro, G., Lanari, R., & Sansosti, E. (2002). A new algorithm for surface deformation monitoring based on small baseline differential SAR interferograms.  IEEE Transactions on Geoscience and Remote Sensing,  40(11), 2375-2383.-->
+      <ref id="IDf3a4847a-909b-4af4-a332-c5a61154c377">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cabral Cano</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dixon</surname>
+              <given-names>T. H.</given-names>
+            </name>
+            <name>
+              <surname>Miralles Whilhelm</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Sanchez Zamora</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Diaz Molina</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Carande</surname>
+              <given-names>R. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Space geodetic imaging of rapid ground subsidence in Mexico City</article-title>
+          <source>Geological Society of America Bulletin</source>
+          <date>
+            <year>2008</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--Cabral Cano, E., Dixon, T. H., Miralles Whilhelm, F., Sanchez Zamora, O., Diaz Molina, O., Carande, R. E., 2006. Space geodetic imaging of rapid ground subsidence in Mexico City. Geological Society of America Bulletin. doi:10.1130/B26001.1.-->
+      <ref id="ID06769d5e-e22c-4f4b-9fe7-ddc0f7f8058e">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carrera Hern&#225;ndez</surname>
+              <given-names>J. J.</given-names>
+            </name>
+            <name>
+              <surname>Levresse</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Lacan</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Aranda G&#243;mez</surname>
+              <given-names>J. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A low cost technique for development of ultra-high resolution topography: application to a dry maar&#8217;s bottom</article-title>
+          <source>REVISTA MEXICANA DE CIENCIAS GEOL&#211;GICAS</source>
+          <date>
+            <year>2016</year>
+          </date>
+          <volume>33</volume>
+          <issue>1</issue>
+          <fpage>122</fpage>
+          <lpage>133</lpage>
+        </element-citation>
+      </ref>
+      <!--Carrera Hern&#225;ndez, J. J., Levresse, G., Lacan, P., & Aranda G&#243;mez, J. J. (2016). A low cost technique for development of ultra-high resolution topography: application to a dry maar&#8217;s bottom.  REVISTA MEXICANA DE CIENCIAS GEOL&#211;GICAS,  33(1), 122-133.-->
+      <ref id="IDf26b7c1f-bdba-486f-8a51-953f3b69406f">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carrera Hern&#225;ndez</surname>
+              <given-names>J. J.</given-names>
+            </name>
+            <name>
+              <surname>Gaskin</surname>
+              <given-names>S. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Basin of Mexico aquifer system: regional groundwater level dynamics and database development</article-title>
+          <source>Hydrogeology Journal</source>
+          <date>
+            <year>2007</year>
+          </date>
+          <volume>15</volume>
+          <issue>8</issue>
+          <fpage>1577</fpage>
+          <lpage>1590</lpage>
+        </element-citation>
+      </ref>
+      <!--Carrera Hern&#225;ndez, J. J. & Gaskin, S. J. (2007). The Basin of Mexico aquifer system: regional groundwater level dynamics and database development. Hydrogeology Journal, 15(8), 1577-1590. doi:10.1007/s10040-007-0194-9-->
+      <ref id="IDd53f5391-9a0e-4fe0-878a-e7ad1a7c0cff">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cavali&#233;</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Doin</surname>
+              <given-names>M. P.</given-names>
+            </name>
+            <name>
+              <surname>Lasserre</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Briole</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Ground motion measurement in the Lake Mead area, Nevada, by differential synthetic aperture radar interferometry time series analysis: Probing the lithosphere rheological structure</article-title>
+          <source>Journal of Geophysical Research: Solid Earth</source>
+          <date>
+            <year>2007</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--Cavali&#233;, O., Doin, M. P., Lasserre, C., & Briole, P. (2007). Ground motion measurement in the Lake Mead area, Nevada, by differential synthetic aperture radar interferometry time series analysis: Probing the lithosphere rheological structure.  Journal of Geophysical Research: Solid Earth,  112(B3). B03403. doi:10.1029/2006JB004344.-->
+      <ref id="bib2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chaussard</surname>
+              <given-names>Estelle</given-names>
+            </name>
+            <name>
+              <surname>Wdowinski</surname>
+              <given-names>Shimon</given-names>
+            </name>
+            <name>
+              <surname>Cabral-Cano</surname>
+              <given-names>Enrique</given-names>
+            </name>
+            <name>
+              <surname>Amelung</surname>
+              <given-names>Falk</given-names>
+            </name>
+          </person-group>
+          <article-title>Land subsidence in central Mexico detected by ALOS InSAR time-series</article-title>
+          <source>Remote Sensing of Environment</source>
+          <date>
+            <year>2014</year>
+          </date>
+          <volume>140</volume>
+          <fpage>94</fpage>
+          <lpage>106</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ID17be9b67-69df-44d7-93e2-98c1d1fa2499">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Del Ventisette</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Exploitation of large archives of ERS and ENVISAT C-band SAR data to characterize ground deformations</article-title>
+          <source>Remote Sensing</source>
+          <date>
+            <year>2013</year>
+          </date>
+          <volume>5</volume>
+          <issue>8</issue>
+        </element-citation>
+      </ref>
+      <!--Del Ventisette, C. et al. (2013), Exploitation of large archives of ERS and ENVISAT C-band SAR data to characterize ground deformations, Remote Sensing, 5 (8), 3896, doi:10.3390/rs5083896.-->
+      <ref id="IDf8c94d0e-587f-49f9-adc4-ff2cef6b13c0">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farr</surname>
+              <given-names>T. G</given-names>
+            </name>
+            <name>
+              <surname>Kobrick</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Shuttle Radar Topography Mission produces a wealth of data</article-title>
+          <source>Eos, Transactions American Geophysical Union</source>
+          <date>
+            <year>2000</year>
+          </date>
+          <volume>81</volume>
+          <issue>48</issue>
+          <fpage>583</fpage>
+          <lpage>585</lpage>
+        </element-citation>
+      </ref>
+      <!--Farr, T. G., & Kobrick, M. (2000). Shuttle Radar Topography Mission produces a wealth of data.  Eos, Transactions American Geophysical Union,  81(48), 583-585.-->
+      <ref id="bib13">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferretti</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Prati</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rocca</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Nonlinear subsidence rate estimation using permanent scatterers in differential SAR interferometry</article-title>
+          <source>IEEE Transactions on Geoscience and Remote Sensing</source>
+          <date>
+            <year>2000</year>
+          </date>
+          <volume>38</volume>
+          <issue>5</issue>
+          <fpage>2202</fpage>
+          <lpage>2212</lpage>
+        </element-citation>
+      </ref>
+      <!--Ferretti, A., Prati, C., & Rocca, F. (2000). Nonlinear subsidence rate estimation using permanent scatterers in differential SAR interferometry.  IEEE Transactions on Geoscience and Remote Sensing,  38(5), 2202-2212.-->
+      <ref id="ID39113f32-ea65-4853-af2b-5eb1cd4671dd">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galloway</surname>
+              <given-names>D. L.</given-names>
+            </name>
+            <name>
+              <surname>Burbey</surname>
+              <given-names>T. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Review: Regional land subsidence accompanying groundwater extraction</article-title>
+          <source>Hydrogeology Journal</source>
+          <date>
+            <year>2011</year>
+          </date>
+          <volume>19</volume>
+          <issue>8</issue>
+          <fpage>1459</fpage>
+          <lpage>1486</lpage>
+        </element-citation>
+      </ref>
+      <!--Galloway, D. L., Burbey, T. J. (2011), Review: Regional land subsidence accompanying groundwater extraction, Hydrogeology Journal, 19(8), 1459-1486, doi:10.1007/s10040-011-0775-5.-->
+      <ref id="bib14">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galloway</surname>
+              <given-names>D. L.</given-names>
+            </name>
+            <name>
+              <surname>Hoffmann</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>The application of satellite differential SAR interferometry-derived ground displacements in hydrogeology</article-title>
+          <source>Hydrogeology Journal</source>
+          <date>
+            <year>2007</year>
+          </date>
+          <volume>15</volume>
+          <issue>1</issue>
+          <fpage>133</fpage>
+          <lpage>154</lpage>
+        </element-citation>
+      </ref>
+      <!--Galloway, D. L. & Hoffmann, J. (2007) The application of satellite differential SAR interferometry-derived ground displacements in hydrogeology, Hydrogeology Journal, 15(1), 133-154. doi:10.1007/s10040-006-0121-5-->
+      <ref id="bib3">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herrera</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Martínez</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Hernández</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Contribución para la administración científica del agua subterránea de la Cuenca de México</article-title>
+          <source>Geofís Int</source>
+          <date>
+            <year>1989</year>
+          </date>
+          <volume>28</volume>
+          <issue>2</issue>
+          <fpage>297</fpage>
+          <lpage>334</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib4">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hooper</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name>
+              <surname>Zebker</surname>
+              <given-names>Howard</given-names>
+            </name>
+            <name>
+              <surname>Segall</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name>
+              <surname>Kampes</surname>
+              <given-names>Bert</given-names>
+            </name>
+          </person-group>
+          <article-title>A new method for measuring deformation on volcanoes and other natural terrains using InSAR persistent scatterers</article-title>
+          <source>Geophysical Research Letters</source>
+          <date>
+            <year>2004</year>
+          </date>
+          <volume>31</volume>
+          <issue>23</issue>
+          <fpage>L23611</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bib5">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>López-Quiroz</surname>
+              <given-names>Penélope</given-names>
+            </name>
+            <name>
+              <surname>Doin</surname>
+              <given-names>Marie-Pierre</given-names>
+            </name>
+            <name>
+              <surname>Tupin</surname>
+              <given-names>Florence</given-names>
+            </name>
+            <name>
+              <surname>Briole</surname>
+              <given-names>Pierre</given-names>
+            </name>
+            <name>
+              <surname>Nicolas</surname>
+              <given-names>Jean-Marie</given-names>
+            </name>
+          </person-group>
+          <article-title>Time series analysis of Mexico City subsidence constrained by radar interferometry</article-title>
+          <source>Journal of Applied Geophysics</source>
+          <date>
+            <year>2009</year>
+          </date>
+          <volume>69</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>15</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Osmanoğlu</surname>
+              <given-names>Batuhan</given-names>
+            </name>
+            <name>
+              <surname>Dixon</surname>
+              <given-names>Timothy H.</given-names>
+            </name>
+            <name>
+              <surname>Wdowinski</surname>
+              <given-names>Shimon</given-names>
+            </name>
+            <name>
+              <surname>Cabral-Cano</surname>
+              <given-names>Enrique</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>Yan</given-names>
+            </name>
+          </person-group>
+          <article-title>Mexico City subsidence observed with persistent scatterer InSAR</article-title>
+          <source>International Journal of Applied Earth Observation and Geoinformation</source>
+          <date>
+            <year>2011</year>
+          </date>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>12</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ID1e9adff0-645e-4323-a90b-7aa6e89022e6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosen</surname>
+              <given-names>P. A.</given-names>
+            </name>
+            <name>
+              <surname>Hensley</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Peltzer</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Simons</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Updated repeat orbit interferometry package released</article-title>
+          <source>EOS Transactions - American Geophysical Union</source>
+          <date>
+            <year>2004</year>
+          </date>
+          <volume>85</volume>
+          <issue>5</issue>
+        </element-citation>
+      </ref>
+      <!--Rosen, P. A., Hensley, S., Peltzer, G., Simons, M., 2004. Updated repeat orbit interferometry package released. EOS Transactions - American Geophysical Union 85 (5).-->
+      <ref id="ID832dd26a-9896-4c92-8596-d035a017b1a4">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santoyo Villa</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ovando Shelley</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mooser</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Le&#243;n Plata</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <source>S&#237;ntesis geot&#233;cnica de la cuenca del Valle de M&#233;xico</source>
+          <date>
+            <year>2005</year>
+          </date>
+          <publisher-loc>M&#233;xico. DF</publisher-loc>
+          <publisher-name>TGC Geot&#233;cnia</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Santoyo Villa, E., Ovando Shelley, E., Mooser, F., & Le&#243;n Plata, E. (2005). S&#237;ntesis geot&#233;cnica de la cuenca del Valle de M&#233;xico: M&#233;xico.  DF, TGC Geot&#233;cnia.-->
+      <ref id="bib11">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>D. A.</given-names>
+            </name>
+            <name>
+              <surname>B&#252;rgmann</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Time&#8208;dependent land uplift and subsidence in the Santa Clara valley, California, from a large interferometric synthetic aperture radar data set</article-title>
+          <source>Journal of Geophysical Research: Solid Earth</source>
+          <date>
+            <year>2003</year>
+          </date>
+          <volume>108</volume>
+          <issue>B9</issue>
+        </element-citation>
+      </ref>
+      <!--Schmidt, D. A., & B&#252;rgmann, R. (2003). Time&#8208;dependent land uplift and subsidence in the Santa Clara valley, California, from a large interferometric synthetic aperture radar data set.  Journal of Geophysical Research: Solid Earth,  108(B9).-->
+      <ref id="bib7">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Strozzi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Wegmuller</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Werner</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>Wiesmann</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Spreckels</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>JERS SAR interferometry for land subsidence monitoring</article-title>
+          <source>IEEE Transactions on Geoscience and Remote Sensing</source>
+          <date>
+            <year>2003</year>
+          </date>
+          <volume>41</volume>
+          <issue>7</issue>
+          <fpage>1702</fpage>
+          <lpage>1708</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib12">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Usai</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>A least squares database approach for SAR interferometric data</article-title>
+          <source>IEEE Transactions on Geoscience and Remote Sensing</source>
+          <date>
+            <year>2003</year>
+          </date>
+          <volume>41</volume>
+          <issue>4</issue>
+          <fpage>753</fpage>
+          <lpage>760</lpage>
+        </element-citation>
+      </ref>
+      <!--Usai, S. (2003). A least squares database approach for SAR interferometric data.  IEEE Transactions on Geoscience and Remote Sensing,  41(4), 753-760.-->
+      <ref id="bib8">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vázquez-Sánchez</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Jaimes-Palomera</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Geología de la Cuenca de México</article-title>
+          <source>IEEE Transactions on Geoscience and Remote Sensing</source>
+          <date>
+            <year>1989</year>
+          </date>
+          <volume>28</volume>
+          <issue>2</issue>
+          <fpage>133</fpage>
+          <lpage>190</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib9">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yan</surname>
+              <given-names>Y..</given-names>
+            </name>
+            <name>
+              <surname>Doin</surname>
+              <given-names>M. P.</given-names>
+            </name>
+            <name>
+              <surname>Lopez-Quiroz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tupin</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Fruneau</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Pinel</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Trouve</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mexico City Subsidence Measured by InSAR Time Series: Joint Analysis Using PS and SBAS Approaches</article-title>
+          <source>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</source>
+          <date>
+            <year>2012</year>
+          </date>
+          <volume>5</volume>
+          <issue>4</issue>
+          <fpage>1312</fpage>
+          <lpage>1326</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
