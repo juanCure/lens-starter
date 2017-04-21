@@ -2252,6 +2252,40 @@ rid="TF1"></xref></th>
           <lpage></lpage>
         </element-citation>
       </ref>
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirabayashi</surname>
+              <given-names>C.K.</given-names>
+            </name>
+            <name>
+              <surname>Rockwell</surname>
+              <given-names>T.K.</given-names>
+            </name>
+            <name>
+              <surname>Wesnousky</surname>
+              <given-names>S.G.</given-names>
+            </name>
+            <name>
+              <surname>Stirling</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Suarez-Vidal</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A neotectonic study of the San Miguel-Vallecitos fault, Baja California Mexico</article-title>
+          <date>
+            <year>1996</year>
+          </date>
+          <source>Bulletin of the Seismological Society of America</source>
+          <volume>86(6)</volume>
+          <fpage>1770</fpage>
+          <lpage>1783</lpage>
+        </element-citation>
+      </ref>
       <ref id="ID189ab17f-c073-443a-abe4-79a32f6f0777">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -2366,6 +2400,38 @@ rid="TF1"></xref></th>
         <!-- <mixed-citation>Langridge, R. M., Persaud, M., Z&#250;&#241;iga, F.R., Aguirre-D&#237;az, G.J., Villamor, P., and Lacan, P., 2013 Preliminary paleoseismic results from the Pastores fault and its role in the seismic hazard of the Acambay graben, Trans-Mexican Volcanic Belt, Mexico, Revista Mexicana de Ciencias Geologicas 30, no. 3, pp. 463-481. </mixed-citation> -->
       </ref>
       <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mack</surname>
+              <given-names>G.H.</given-names>
+            </name>
+            <name>
+              <surname>Salyards</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Aguirre-D&#237;az</surname>
+              <given-names>G. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Magnetostratigraphy of the Plio-Pleistocene Camp Rice and Palomas formations in the Rio Grande rift of southern New Mexico</article-title>
+          <date>
+            <year>1993</year>
+          </date>
+          <source>American Journal of Science</source>
+          <volume>293</volume>
+          <issue></issue>
+          <fpage>49</fpage>
+          <lpage>77</lpage>
+        </element-citation>
+      </ref>
+      <!--
+      <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
@@ -2382,8 +2448,7 @@ rid="TF1"></xref></th>
           <fpage>387</fpage>
           <lpage>392</lpage>
         </element-citation>
-        <!-- <mixed-citation>Machette, M., 2000, Active, capable, and potential active faults &#8211; a paleoseismic perpective, Journal of Geodynamics 29, pp. 387-392. </mixed-citation> -->
-      </ref>
+      </ref>-->
       <ref>
         <element-citation publication-type="thesis">
           <person-group person-group-type="author">
@@ -2402,6 +2467,132 @@ rid="TF1"></xref></th>
         <!-- <mixed-citation>Maloney, S. J., 2009, Late Quaternary faulting history of the Northern El Carrizal Fault, Baja California Sur, Mexico, M.Sc. thesis, Northern Arizona University, 208 pp. </mixed-citation> -->
       </ref>
       <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michael</surname>
+              <given-names>E.O.</given-names>
+            </name>
+            <name>
+              <surname>Arrowsmith</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Hinojosa-Corona</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Elliott</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Fletcher</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Fielding</surname>
+              <given-names></given-names>
+            </name>
+            <name>
+              <surname>Gold</surname>
+              <given-names>P.O.</given-names>
+            </name>
+            <name>
+              <surname>Gonzalez-Garcia</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Hudnut</surname>
+              <given-names>K.W.</given-names>
+            </name>
+            <name>
+              <surname>Liu-Zeng</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Teran</surname>
+              <given-names>J.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Near-field deformation from the El Mayor–Cucapah earthquake revealed by differential LIDAR</article-title>
+          <date>
+            <year>2012</year>
+          </date>
+          <source>Science</source>
+          <volume>335</volume>
+          <issue></issue>
+          <fpage>702</fpage>
+          <lpage>705</lpage>
+        </element-citation>
+      </ref>
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michaud</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Quintero</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Calmus</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Bourgois</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Barrier</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>La dépression de Amatlàn de Cañas (Ouest du Mexique)—Distension nèogène dans la zone nord du Bloc Jalisco: Paris</article-title>
+          <date>
+            <year>1993</year>
+          </date>
+          <source>Compte Rendue Academie des Sciences du Paris</source>
+          <volume>312(II)</volume>
+          <issue></issue>
+          <fpage>251</fpage>
+          <lpage>258</lpage>
+        </element-citation>
+      </ref>
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Marone</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Carmichael I</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>Renne</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Basaltic volcanism and extension near the intersection of the Sierra Madre volcanic province and the Mexican Volcanic Belt</article-title>
+          <date>
+            <year>1994</year>
+          </date>
+          <source>Geological Society of America Bulletin</source>
+          <volume>106</volume>
+          <issue></issue>
+          <fpage>383</fpage>
+          <lpage>394</lpage>
+        </element-citation>
+      </ref>
+      <!--
+      <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
@@ -2418,8 +2609,8 @@ rid="TF1"></xref></th>
           <fpage>1487</fpage>
           <lpage>1506</lpage>
         </element-citation>
-        <!-- <mixed-citation>Mason, D. B., 1996, Earthquake magnitude potential of the intermountain seismic belt, USA, from surfaceparameter scaling of late Quaternary faults, Bull. Seismol. Soc. Am. 86, pp. 1487&#8211;1506. </mixed-citation> -->
       </ref>
+  -->
       <ref>
         <element-citation publication-type="thesis">
           <person-group person-group-type="author">
@@ -2432,12 +2623,84 @@ rid="TF1"></xref></th>
           <date>
             <year>1983</year>
           </date>
-          <source>University of Texas - Arlington</source>
+          <source>University of Texas - Arlington, M.Sc. Thesis, 148 pp</source>
           <fpage>148</fpage>
         </element-citation>
         <!-- <mixed-citation>Movarec, D., 1983, Study of the Concordia fault system near Jeric&#243;, Chiapas, M&#233;xico, M. Sc. Thesis, University of Texas - Arlington, 148 pp. </mixed-citation> -->
       </ref>
-
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mueller</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Rockwell</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Late Quaternary structural evolution of the western margin of the Sierra Cucapa, Northern Baja California</article-title>
+          <date>
+            <year>1991</year>
+          </date>
+          <source>American Association of Petroleum Geologists, Memoir</source>
+          <volume>47</volume>
+          <issue></issue>
+          <fpage>249</fpage>
+          <lpage>260</lpage>
+        </element-citation>
+      </ref>
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mueller</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Rockwell</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Late Quaternary activity of the Laguna Salada fault in northern Baja California, Mexico</article-title>
+          <date>
+            <year>1995</year>
+          </date>
+          <source>Geological Society of America Bulletin</source>
+          <volume>107</volume>
+          <issue></issue>
+          <fpage>8</fpage>
+          <lpage>18</lpage>
+        </element-citation>
+      </ref>
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nakata</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Wentworth</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Machette</surname>
+              <given-names>M.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quaternary fault map of the Basin and Range and Rio Grande rift provinces, western United States, 1:2,500,000 scale</article-title>
+          <date>
+            <year>1982</year>
+          </date>
+          <source>U.S. Geological Survey, Open-File Report 82-579</source>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+      </ref>
       <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -2455,7 +2718,7 @@ rid="TF1"></xref></th>
             <year>1982</year>
           </date>
           <source>Bull. Seism. Soc. Am.</source>
-          <volume>72</volume>
+          <volume>72(1)</volume>
           <fpage>181</fpage>
           <lpage>196</lpage>
         </element-citation>
@@ -2519,8 +2782,27 @@ rid="TF1"></xref></th>
           <source>Tectonics</source>
           <volume>25</volume>
           <fpage>21</fpage>
+          <pub-id pub-id-type="doi">10.1029/2005TC001877</pub-id>
         </element-citation>
         <!-- <mixed-citation>Norini, G., Groppelli, G., Lagmay, A. M. F., and Capra, L., 2006, Recent left-oblique slip faulting in the central eastern Trans-Mexican Volcanic Belt: Seismic hazard and geodynamic implications, Tectonics 25, TC 4012, pp. 21 </mixed-citation> -->
+      </ref>
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noyola-Medrano</surname>
+              <given-names>M.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Estudio comparativo de la geología y morfología de algunos conos cineríticos en los campos volcánicos de Camargo, Chihuahua y San Quintín, B.C.</article-title>
+          <date>
+            <year>1995</year>
+          </date>
+          <source>San Luis Potosí, México, Universidad Autónoma de San Luis Potosí, Facultad de Ingeniería, B.Sc Thesis, 99 pp</source>
+          <volume></volume>
+          <fpage></fpage>
+          <!--<pub-id pub-id-type="doi">10.1029/2005TC001877</pub-id>-->
+        </element-citation>
       </ref>
       <ref>
         <element-citation publication-type="journal">
@@ -2550,7 +2832,7 @@ rid="TF1"></xref></th>
           <date>
             <year>2002</year>
           </date>
-          <source>Phys. Earth Planet. Int.</source>
+          <source>Physics of the Earth and Planetary Interiors</source>
           <volume>132</volume>
           <fpage>141</fpage>
           <lpage>155</lpage>
@@ -2561,30 +2843,38 @@ rid="TF1"></xref></th>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Ortega</surname>
-              <given-names>R.</given-names>
+              <surname>Ortuño</surname>
+              <given-names>M.</given-names>
             </name>
             <name>
-              <surname>Carciumaru</surname>
+              <surname>Zúñiga</surname>
+              <given-names>F.R.</given-names>
+            </name>
+            <name>
+              <surname>Aguirre</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Carreon</surname>
               <given-names>D.</given-names>
             </name>
             <name>
-              <surname>Quintanar</surname>
-              <given-names>L.</given-names>
+              <surname>Cerca</surname>
+              <given-names>M.</given-names>
             </name>
             <name>
-              <surname>Rubio</surname>
-              <given-names>R.</given-names>
+              <surname>Roverato</surname>
+              <given-names>M.</given-names>
             </name>
           </person-group>
-          <article-title>Estimacion del peligro sismico en el centro de Baja California: Un modelo consistente entre las regiones del Golfo de California y la peninsular</article-title>
+          <article-title>Holocene earthquakes recorded at the tip of the Pastores fault system (central Mexico)</article-title>
           <date>
-            <year>2015</year>
+            <year>2012</year>
           </date>
-          <source>Bol. Soc. Geol. Mex.</source>
-          <volume>67</volume>
-          <fpage>87</fpage>
-          <lpage>102</lpage>
+          <source>3rd INQUA-IGCP-567 International Workshop on Active Tectonics, Paleoseismology and Archaeoseismology</source>
+          <volume></volume>
+          <fpage>133</fpage>
+          <lpage>136</lpage>
         </element-citation>
         <!-- <mixed-citation>Ortega, R, Carciumaru, D., Quintanar, L. and Rubio, R., 2015, Estimacion del peligro sismico en el centro de Baja California: Un modelo consistente entre las regiones del Golfo de California y la peninsular, Bol. Soc. Geol. Mex. 67, pp. 87&#8211;102.</mixed-citation> -->
       </ref>
@@ -2631,7 +2921,7 @@ rid="TF1"></xref></th>
             <year>2010</year>
           </date>
           <source>Revista Mexicana de Ciencias Geol&#243;gicas</source>
-          <volume>27</volume>
+          <volume>27(3)</volume>
           <issue>3</issue>
           <fpage>389</fpage>
           <lpage>411</lpage>
@@ -2696,45 +2986,55 @@ rid="TF1"></xref></th>
         <!-- <mixed-citation>Pacheco, J.F., Mortera-Guti&#233;rrez, C.A., Delgado, H., Singh, S.K., Valenzuela, R.W., Shapiro, N.M., Santoyo, M.A., Hurtado, A., Barr&#243;n, R., and Guti&#233;rez-Moguel, E., 1999, Tectonic significance of an earthquake sequence in the Zacoalco half-graben, Jalisco, Mexico, Journal of South American Earth Sciences 12, pp. 557-565. </mixed-citation> -->
       </ref>
       <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pasquaré</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ferrari</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Garduño</surname>
+              <given-names>V.H.</given-names>
+            </name>
+            <name>
+              <surname>Tibaldi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Vezzoli</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Geologic map of the central sector of the Mexican Volcanic Belt, states of Guanajuato and Michoacán, Mexico</article-title>
+          <date>
+            <year>1991</year>
+          </date>
+          <source>Geological Society of America, Map and Chart Series MCH072, 21 pp</source>
+          <volume></volume>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+      </ref>
+      <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Plattner</surname>
-              <given-names>C.</given-names>
-            </name>
-            <name>
-              <surname>Malservisi</surname>
-              <given-names>R.</given-names>
-            </name>
-            <name>
-              <surname>Dixon</surname>
-              <given-names>T. H.</given-names>
-            </name>
-            <name>
-              <surname>La Femina</surname>
-              <given-names>P.</given-names>
-            </name>
-            <name>
-              <surname>Sella</surname>
-              <given-names>G. F.</given-names>
-            </name>
-            <name>
-              <surname>Fletcher</surname>
-              <given-names>J.</given-names>
-            </name>
-            <name>
-              <surname>Suarez-Vidal</surname>
-              <given-names>F.</given-names>
+              <surname>Ramirez-Herrera</surname>
+              <given-names>M.T.</given-names>
             </name>
           </person-group>
-          <article-title>New constraints on relative motion between the Pacific Plate and Baja California microplate (Mexico) from GPS measurements</article-title>
+          <article-title>Geomorphic assessment of active tectonics in the Acambay Graben, Mexican Volcanic Belt</article-title>
           <date>
-            <year>2007</year>
+            <year>1998</year>
           </date>
-          <source>Geophys. J. Int.</source>
-          <volume>170</volume>
-          <fpage>1373</fpage>
-          <lpage>1380</lpage>
+          <source>Earth Surface Processes and Landforms</source>
+          <volume>23</volume>
+          <fpage>317</fpage>
+          <lpage>332</lpage>
         </element-citation>
         <!-- <mixed-citation>Plattner, C., Malservisi, R., Dixon, T. H., La Femina, P., Sella, G. F., Fletcher, J. and Suarez-Vidal, F., 2007, New constraints on relative motion between the Pacific Plate and Baja California microplate (Mexico) from GPS measurements, Geophys. J. Int. 170, 1373-1380. </mixed-citation> -->
       </ref>
@@ -2832,7 +3132,7 @@ rid="TF1"></xref></th>
             <year>1996</year>
           </date>
           <source>Geology</source>
-          <volume>24</volume>
+          <volume>24(10)</volume>
           <issue>10</issue>
           <fpage>921</fpage>
           <lpage>924</lpage>
@@ -2863,6 +3163,28 @@ rid="TF1"></xref></th>
         <!-- <mixed-citation>Rosas-Elguera, J. and Urrutia-Fucugauchi, J., 1998, Tectonic control of the volcano-sedimentary sequence of the Chapala Graben, Western Mexico, International Geology Review 40, pp. 350-362. </mixed-citation> -->
       </ref>
       <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seager</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>Mack</surname>
+              <given-names>G.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Geology of East Potrillo Mountains and vicinity, Dona Ana County, New Mexico</article-title>
+          <date>
+            <year>1994</year>
+          </date>
+          <source>New Mexico Bureau of Mines and Mineral Resources, Bulletin 113, 32 pp</source>
+          <volume></volume>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+      </ref>
+      <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
@@ -2879,11 +3201,41 @@ rid="TF1"></xref></th>
             <year>1958</year>
           </date>
           <source>Bull. Seism. Soc. Am.</source>
-          <volume>48</volume>
+          <volume>48(2)</volume>
           <fpage>101</fpage>
           <lpage>116</lpage>
         </element-citation>
         <!-- <mixed-citation>Shor Jr., G.G. and Roberts, E., 1958, San Miguel, Baja California Norte earthquakes of February 1956: Bull. Seism. Soc. Am. 48, pp. 101-116. </mixed-citation> -->
+      </ref>
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spelz</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Fletcher</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Owen</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Caffee</surname>
+              <given-names>M.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quaternary alluvial-fan development, climate and morphologic dating of fault scarps in Laguna Salada, Baja California, Mexico</article-title>
+          <date>
+            <year>2008</year>
+          </date>
+          <source>Geomorphology</source>
+          <volume>102</volume>
+          <fpage>578</fpage>
+          <lpage>594</lpage>
+        </element-citation>
       </ref>
       <ref id="ID2e81b6e4-13e8-481c-85cf-466662c21b5d">
         <element-citation publication-type="journal">
@@ -2902,7 +3254,7 @@ rid="TF1"></xref></th>
             <year>1989</year>
           </date>
           <source>Tectonics</source>
-          <volume>8</volume>
+          <volume>8(1)</volume>
           <issue>1</issue>
           <fpage>99</fpage>
           <lpage>115</lpage>
@@ -2936,7 +3288,42 @@ rid="TF1"></xref></th>
         </element-citation>
         <!-- <mixed-citation>Suarez, G., Garcia-Acosta, V., and Gaulon, R., 1994, Active crustal de- formation in the Jalisco block, Mexico: Evidence for a great historical earthquake in the 16th century, Tectonophysics 234, pp. 117127. </mixed-citation> -->
       </ref>
-
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Súarez-Vidal</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Marco estructural de la falla Agua Blanca, Baja California, México</article-title>
+          <date>
+            <year>1993</year>
+          </date>
+          <source>Unión Geofísica Mexicana, Monografia</source>
+          <volume>1</volume>
+          <fpage>24</fpage>
+          <lpage>39</lpage>
+        </element-citation>
+      </ref>
+      <ref>
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Súarez-Vidal</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Shape and dimensions of the Cerro Prieto pull-apart basin, Mexicali, Baja California, Mexico, Based on the Regional Seismic Record and Surface Structures</article-title>
+          <date>
+            <year>2008</year>
+          </date>
+          <source>International Geology Review</source>
+          <volume>50(7)</volume>
+          <fpage>636</fpage>
+          <lpage>649</lpage>
+        </element-citation>
+      </ref>
       <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -2982,7 +3369,7 @@ rid="TF1"></xref></th>
             <year>2015</year>
           </date>
           <source>Revista Mexicana de Ciencias Geol&#243;gicas</source>
-          <volume>32</volume>
+          <volume>32(3)</volume>
           <issue>3</issue>
           <fpage>361</fpage>
           <lpage>376</lpage>
@@ -3002,7 +3389,7 @@ rid="TF1"></xref></th>
             <year>2008</year>
           </date>
           <source>Bull. Seism. Soc. Am.</source>
-          <volume>98</volume>
+          <volume>98(6)</volume>
           <issue>6</issue>
           <fpage>2879</fpage>
           <lpage>2893</lpage>
@@ -3023,7 +3410,7 @@ rid="TF1"></xref></th>
           </date>
           <source>Geophys. Res.</source>
           <volume>120</volume>
-          <!-- <pub-id pub-id-type="doi">10.1002/2014JB011495</pub-id> -->
+          <pub-id pub-id-type="doi">10.1002/2014JB011495</pub-id>
         </element-citation>
         <!-- <mixed-citation>Suter, M., 2015a, Rupture of the Pitaycachi Fault in the 1887 Mw 7.5 Sonora, Mexico earthquake (southern Basin-and-Range Province): Rupture kinematics and epicenter inferred from rupture branching patterns, J. Geophys. Res. 120, doi: 10.1002/2014JB011495. </mixed-citation> -->
       </ref>

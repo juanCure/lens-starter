@@ -40,6 +40,7 @@ var qs = function () {
 //var documentURL= "data/penelope_final.xml";
 //var documentURL= "data/espinoza_final.xml";
 var documentURL= "data/cid_final.xml";
+//var documentURL= "data/bmj_sample.xml";
 
 $(function() {
 
