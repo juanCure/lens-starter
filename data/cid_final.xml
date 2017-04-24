@@ -83,7 +83,7 @@
         </date>
       </history>
       <permissions>
-        <copyright-statement>&#169; 2017, G. Cid Villegas, C. Mendoza &amp; L. Ferrari. Published by Terra Digitalis.</copyright-statement>
+        <copyright-statement>&#169; 2017, Gonzalo. Cid Villegas, Carlos. Mendoza &amp; Luca. Ferrari. Published by Terra Digitalis.</copyright-statement>
         <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
           <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by-nc-sa/4.0/), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
         </license>
@@ -842,7 +842,6 @@ rid="TF1"></xref></th>
         </graphic>
       </fig>
   	</sec>
-  	<!--
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -858,7 +857,7 @@ rid="TF1"></xref></th>
         </caption>
       <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/fallas-cuaternarias.php"/>
     </supplementary-material>
-    </sec>-->
+    </sec>
   </body>
   <back>
     <ref-list>
@@ -870,14 +869,14 @@ rid="TF1"></xref></th>
               <given-names>G.</given-names>
             </name>
           </person-group>
-          <article-title>The Amealco caldera, Querétaro, Mexico: Geology, geochronology, geochemistry, and comparison with other silicic centers of the Mexican volcanic belt: Austin, U.S.A</article-title>
-          <source>University of Texas</source>
+          <article-title>The Amealco caldera, Querétaro, Mexico: Geology, geochronology, geochemistry, and comparison with other silicic centers of the Mexican volcanic belt</article-title>
+          <source>Austin, U.S.A., University of Texas, PhD Thesis, </source>
           <date>
             <year>1993</year>
           </date>
-          <volume></volume>
+          <volume>401 pp</volume>
           <issue></issue>
-          <fpage>401</fpage>
+          <fpage></fpage>
           <lpage></lpage>
         </element-citation>
       </ref>
@@ -949,41 +948,17 @@ rid="TF1"></xref></th>
             </name>
           </person-group>
           <article-title>Agua Blanca fault, a major transverse structure of northern Baja California, M&#233;xico</article-title>
-          <source>Geol. Soc. Am. Bull.</source>
+          <source>Geological Society of America Bulletin</source>
           <date>
             <year>1960</year>
           </date>
           <volume>71</volume>
-          <issue>2</issue>
+          <issue></issue>
           <fpage>457</fpage>
           <lpage>482</lpage>
         </element-citation>
         <!-- <mixed-citation>Allen, C. R., Silver, L., and Stehli, F. G., 1960, Agua Blanca fault, a major transverse structure of northern Baja California, Mexico, Geol. Soc. Am. Bull. 71, pp. 457&#8211; 482. </mixed-citation> -->
       </ref>
-      <!--
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Ambraseys</surname>
-              <given-names>N. N.</given-names>
-            </name>
-            <name>
-              <surname>Adams</surname>
-              <given-names>R. D.</given-names>
-            </name>
-          </person-group>
-          <article-title>Large-magnitude Central American earthquakes, 1898&#8211;1994.</article-title>
-          <date>
-            <year>1996</year>
-          </date>
-          <source>Geophys. J. Int.</source>
-          <volume>127</volume>
-          <fpage>665</fpage>
-          <lpage>692</lpage>
-        </element-citation>
-      </ref>
-  		-->
   		<!-- <mixed-citation>Ambraseys, N.N. and Adams, R.D., 1996, Large-magnitude Central American earthquakes, 1898&#8211;1994, Geophys. J. Int. 127, pp. 665&#8211;692. </mixed-citation> -->
   		<ref>
         <element-citation publication-type="journal">
@@ -1003,6 +978,7 @@ rid="TF1"></xref></th>
           </date>
           <source>GEOS</source>
           <volume>12(5)</volume>
+          <issue>5</issue>
           <fpage>53</fpage>
           <lpage>54</lpage>
         </element-citation>
@@ -1039,8 +1015,9 @@ rid="TF1"></xref></th>
           <date>
             <year>2003</year>
           </date>
-          <source>Geol. Soc. Am. Bull.</source>
-          <volume>115(3)</volume>
+          <source>Geological Society of America Bulletin</source>
+          <volume>115</volume>
+          <issue></issue>
           <fpage>298</fpage>
           <lpage>313</lpage>
         </element-citation>
@@ -1078,7 +1055,11 @@ rid="TF1"></xref></th>
           <date>
             <year>2015</year>
           </date>
-          <source>http://www.geociencias.unam.mx/geociencias/desarrollo/aranda_etal_gegm01.pdf</source>
+          <source>Centro de Geociencias, Guias de Excursiones Geológicas de México</source>
+          <volume>1, 90 pp</volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
         </element-citation>
         <!-- <mixed-citation>Aranda-G&#243;mez, J. J., Henry, C. D., Ferrari, L., McDowell, F. W. and Valencia-Moreno, M., 2015, La evoluci&#243;n volcanotect&#243;nica del noroeste de M&#233;xico durante el Cenozoico: Una secci&#243;n a lo largo de la autopista MEX 40D a trav&#233;s del campo volc&#225;nico de la Sierra Madre Occidental y datos acerca del magmatismo asociado a la extensi&#243;n en la parte meridional de las provincias tect&#243;nicas de Cuencas y Sierras y del Golfo de California. Centro de Geociencias, Guias de Excursiones Geol&#243;gicas de M&#233;xico, no. 1, 90 pp. http://www.geociencias.unam.mx/geociencias/desarrollo/aranda_etal_gegm01.pdf </mixed-citation> -->
       </ref>
@@ -1102,7 +1083,6 @@ rid="TF1"></xref></th>
         </element-citation>
         <!-- <mixed-citation>Axen, G. J., 1995, Extensional segmentation of the Main Gulf Escarpment, Mexico and United States: Geology 23, no. 6, pp. 515-518. </mixed-citation> -->
       </ref>
-      Axen, G.J., , , , E., , M., , , , , , ?: , .
       <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1163,8 +1143,8 @@ rid="TF1"></xref></th>
             <year>1903</year>
           </date>
           <source>Parergones del Instituto Geologico</source>
-          <volume>1(1)</volume>
-          <issue></issue>
+          <volume>1(1), 25 pp</volume>
+          <issue>1</issue>
           <fpage>25</fpage>
           <lpage></lpage>
         </element-citation>
@@ -1238,16 +1218,13 @@ rid="TF1"></xref></th>
               <surname>Cid-Villegas</surname>
               <given-names>G.</given-names>
             </name>
-            <name>
-              <surname>Adams</surname>
-              <given-names>R. D.</given-names>
-            </name>
           </person-group>
-          <article-title>Aplicacion de sistemas de informacion geografica en la documentacion de fallas cuaternarias en Mexico</article-title>
+          <article-title>Aplicación de sistemas de información geográfica en la documentación de fallas cuaternarias en México</article-title>
           <date>
             <year>2015</year>
           </date>
-          <source>M.Sc. Thesis, Universidad Nacional Autonoma de Mexico</source>
+          <source>Juriquilla, México, Universidad Nacional Autónoma de México, Centro de Geociencias, M.Sc. Thesis</source>
+          <volume>182 pp</volume>
           <fpage>182</fpage>
         </element-citation>
         <!-- <mixed-citation>Cid-Villegas, G., 2015, Aplicacion de sistemas de informacion geografica en la documentacion de fallas cuaternarias en Mexico, M.Sc. Thesis, Universidad Nacional Autonoma de Mexico, 182 pp. </mixed-citation> -->
@@ -1309,10 +1286,11 @@ rid="TF1"></xref></th>
               <given-names>J. A.</given-names>
             </name>
           </person-group>
-          <article-title>Late Cenozoic faults of the region surrounding the Eagle Flat study area, northwestern trans-Pecos Texas: Technical report to Texas Low-Level Radioactive Waste Disposal Authority, under Contract IAC(92-93)-0910</article-title>
+          <article-title>Late Cenozoic faults of the region surrounding the Eagle Flat study area, northwestern trans-Pecos Texas</article-title>
           <date>
             <year>1993</year>
           </date>
+          <source>Technical report to Texas Low-Level Radioactive Waste Disposal Authority under Contract IAC(92-93)-0910,  74 pp</source>
           <fpage>74</fpage>
         </element-citation>
         <!-- <mixed-citation>Collins, E.W. and Raney, J.A., 1993, Late Cenozoic faults of the region surrounding the Eagle Flat study area, northwestern trans-Pecos Texas: Technical report to Texas Low-Level Radioactive Waste Disposal Authority, under Contract IAC(92-93)-0910, 74 pp.</mixed-citation> -->
@@ -1345,10 +1323,10 @@ rid="TF1"></xref></th>
           <date>
             <year>1996</year>
           </date>
-          <source>U.S. Geological Survey, Open-File Report 96-002</source>
-          <volume>N/A</volume>
+          <source>U.S. Geological Survey, Open-File Report 96-002, 74 pp</source>
+          <volume></volume>
           <fpage>74</fpage>
-          <lpage>N/A</lpage>
+          <lpage></lpage>
         </element-citation>
       </ref>
       <ref>
@@ -1402,12 +1380,12 @@ rid="TF1"></xref></th>
               <given-names>M.</given-names>
             </name>
           </person-group>
-          <article-title>Catalogo de las fallas regionales activas en el norte de Baja California, Mexico</article-title>
+          <article-title>Catálogo de las fallas regionales activas en el norte de Baja California, México</article-title>
           <date>
             <year>2002</year>
           </date>
-          <source>Geos, Union Geofisica Mexicana, Asociacion Civil</source>
-          <volume>127(1)</volume>
+          <source>GEOS, Boletin Informativo de la Union Geofisica Mexicana, Epoca II</source>
+          <volume>22(1)</volume>
           <issue>1</issue>
           <fpage>37</fpage>
           <lpage>42</lpage>
@@ -1425,21 +1403,13 @@ rid="TF1"></xref></th>
               <surname>Mooser</surname>
               <given-names>F.</given-names>
             </name>
-            <name>
-              <surname>Argus</surname>
-              <given-names>D. F.</given-names>
-            </name>
-            <name>
-              <surname>Stein</surname>
-              <given-names>S.</given-names>
-            </name>
           </person-group>
-          <article-title>Formación del graben de Chapala, in II National Convention: Mazatlán, Sinaloa, Mexico</article-title>
+          <article-title>Formación del graben de Chapala, in II National Convention: Mazatlán, Sinaloa, México</article-title>
           <date>
             <year>1972</year>
           </date>
           <source>Sociedad Geológica Mexicana</source>
-          <volume>N/A</volume>
+          <volume></volume>
           <fpage>144</fpage>
           <lpage>145</lpage>
         </element-citation>
@@ -1468,7 +1438,7 @@ rid="TF1"></xref></th>
               <given-names>F.</given-names>
             </name>
           </person-group>
-          <article-title>Geomorfometria del escarpe principal del Golfo de California: Analisis comparativo entre dos segmentos del rift: Sierra San Pedro Martir y Sierra Juarez, Baja California, Mexico</article-title>
+          <article-title>Geomorfometría del escarpe principal del Golfo de California: Análisis comparativo entre dos segmentos del rift: Sierra San Pedro Martir y Sierra Juarez, Baja California, México</article-title>
           <date>
             <year>2012</year>
           </date>
@@ -1580,26 +1550,6 @@ rid="TF1"></xref></th>
           <pub-id pub-id-type="doi">10.1029/2000JB000099</pub-id>
         </element-citation>
       </ref>
-      <!--
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Engdahl</surname>
-              <given-names>R. E.</given-names>
-            </name>
-            <name>
-              <surname>Rinehart</surname>
-              <given-names>W. A.</given-names>
-            </name>
-          </person-group>
-          <article-title>Seismicity Map of North America: Boulder, Colorado, Geological Society of America, Continent- Scale Map 004, scale 1: 5 000 000.</article-title>
-          <date>
-            <year>1988</year>
-          </date>
-        </element-citation>
-      </ref>
-  -->
       <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1616,7 +1566,7 @@ rid="TF1"></xref></th>
           <date>
             <year>1995</year>
           </date>
-          <source>Geol. Soc. Am.</source>
+          <source>Geological Society of America Bulletin</source>
           <volume>23</volume>
           <issue></issue>
           <fpage>751</fpage>
@@ -1640,99 +1590,13 @@ rid="TF1"></xref></th>
           <date>
             <year>2000</year>
           </date>
-          <source>Geol. Soc. Am. Special Paper</source>
+          <source>Geological Society of America Special Paper</source>
           <volume>334</volume>
           <fpage>41</fpage>
           <lpage>63</lpage>
         </element-citation>
         <!-- <mixed-citation>Ferrari, L. and Rosas-Elguera, J., 2000, Late Miocene to Quaternary extension at the northern boundary of the Jalisco Block, western Mexico&#8212;The Tepic-Zacoalco Rift revised, Cenozoic tectonics and volcanism of Mexico:  Geol. Soc. Am. Special Paper 334, pp. 41-63.</mixed-citation> -->
       </ref>
-      <!--
-      <ref>
-        <element-citation publication-type="report">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Ferrari</surname>
-              <given-names>L.</given-names>
-            </name>
-            <name>
-              <surname>Suter</surname>
-              <given-names>M.</given-names>
-            </name>
-            <name>
-              <surname>Aranda-Gómez</surname>
-              <given-names>J. J.</given-names>
-            </name>
-            <name>
-              <surname>Pérez-Venzor</surname>
-              <given-names>J. A.</given-names>
-            </name>
-            <name>
-              <surname>Ortega-Gutiérrez</surname>
-              <given-names>F.</given-names>
-            </name>
-            <name>
-              <surname>Roldán-Quintana</surname>
-              <given-names>J.</given-names>
-            </name>
-            <name>
-              <surname>Centeno-García</surname>
-              <given-names>E.</given-names>
-            </name>
-            <name>
-              <surname>Calmus</surname>
-              <given-names>T.</given-names>
-            </name>
-            <name>
-              <surname>Bandy</surname>
-              <given-names>W.</given-names>
-            </name>
-            <name>
-              <surname>Delgado-Granados</surname>
-              <given-names>H.</given-names>
-            </name>
-            <name>
-              <surname>Machette</surname>
-              <given-names>M. N.</given-names>
-            </name>
-            <name>
-              <surname>Pearthree</surname>
-              <given-names>P. A.</given-names>
-            </name>
-            <name>
-              <surname>Mayer</surname>
-              <given-names>L.</given-names>
-            </name>
-            <name>
-              <surname>Mueller</surname>
-              <given-names>K.</given-names>
-            </name>
-            <name>
-              <surname>Schug</surname>
-              <given-names>D.</given-names>
-            </name>
-            <name>
-              <surname>Hatch</surname>
-              <given-names>M.</given-names>
-            </name>
-            <name>
-              <surname>Dart</surname>
-              <given-names>R. L.</given-names>
-            </name>
-            <name>
-              <surname>Bradley</surname>
-              <given-names>L. A.</given-names>
-            </name>
-          </person-group>
-          <article-title>Map and database of Quaternary faults and folds in Mexico and its offshore region - A project of the International Lithosphere Program Task Group II-2 “Major Active Faults of the World”</article-title>
-          <date>
-            <year>2002</year>
-          </date>
-          <source>Unpublished USGS internal report</source>
-          <fpage>282</fpage>
-        </element-citation>
-      </ref>
-  -->
       <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1764,50 +1628,6 @@ rid="TF1"></xref></th>
         </element-citation>
         <!-- <mixed-citation>Ferrari, L., Orozco-Esquivel, T., Manea, V., and Manea, M., 2012, The dynamic history of the TransMexican Volcanic Belt and the Mexico subduction zone, Tectonophysics 522&#8211;523, pp. 122&#8211;149. </mixed-citation> -->
       </ref>
-	<!--
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Figueroa</surname>
-              <given-names>J.</given-names>
-            </name>
-            <name>
-              <surname>Adams</surname>
-              <given-names>R. D.</given-names>
-            </name>
-          </person-group>
-          <article-title>Historia sismica y estad&#237;stica de temblores de la costa occidental de Mexico</article-title>
-          <date>
-            <year>1963</year>
-          </date>
-          <source>Bol. Bibliogr. Geof&#237;s. Oceanogr. Am.</source>
-          <volume>3</volume>
-          <fpage>107</fpage>
-          <lpage>134</lpage>
-        </element-citation>
-      </ref>
-      <ref>
-        <element-citation publication-type="report">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Figueroa</surname>
-              <given-names>J.</given-names>
-            </name>
-            <name>
-              <surname>Adams</surname>
-              <given-names>R. D.</given-names>
-            </name>
-          </person-group>
-          <article-title>Sismicidad en Chiapas</article-title>
-          <date>
-            <year>1973</year>
-          </date>
-          <source>Instituto de Ingenieria, Universidad Nacional Autonoma de Mexico, Informe 316</source>
-          <fpage>52</fpage>
-        </element-citation>
-      </ref>
-  -->
       <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1956,7 +1776,30 @@ rid="TF1"></xref></th>
         </element-citation>
         <!-- <mixed-citation>Fletcher, J.M., Ter&#225;n, O. J., Rockwell, T. K., Oskin, M. E., Hudnut, K. W., Mueller, K. J., Spelz, R. M., Akciz, S. O., Masana, E., Faneros, G., Fielding, E.J., Leprince, S., Morelan, A E., Stock, J., Lynch, D. K., Elliot, A. J., Gold, P., Liu-Zen, J., Gonz&#225;lez-Ortega, A., Hinojosa-Corona, A., and Gonz&#225;lez-Garcia, J., 2014, Assembly of a large earthquake from a complex fault system: Surface rupture kinematics of the 4 April 2010 El Mayor&#8211;Cucapah (Mexico) Mw 7.2 earthquake, Geosphere 10, no. 4, pp. 797&#8211;827. </mixed-citation> -->
       </ref>
-
+      <ref>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fr&#237;as-Camacho</surname>
+              <given-names>V. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mapas anuales de sismicidad para la region fronteriza de ambas Californias</article-title>
+          <date>
+            <year>1996</year>
+          </date>
+          <source>GEOS Union Geofisica Mexicana</source>
+          <volume>18(2)</volume>
+          <issue>2</issue>
+          <fpage>112</fpage>
+          <lpage>130</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Frez, J. and Fr&#237;as-Camacho, V.M., 1998, Mapas anuales de sismicidad para la region fronteriza de ambas Californias: GEOS Union Geofisica Mexicana 18, no. 2, pp. 112-130. </mixed-citation> -->
+      </ref>      
       <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1984,52 +1827,6 @@ rid="TF1"></xref></th>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Frez</surname>
-              <given-names>J.</given-names>
-            </name>
-            <name>
-              <surname>Fr&#237;as-Camacho</surname>
-              <given-names>V. M.</given-names>
-            </name>
-          </person-group>
-          <article-title>Mapas anuales de sismicidad para la region fronteriza de ambas Californias</article-title>
-          <date>
-            <year>1996</year>
-          </date>
-          <source>GEOS Union Geofisica Mexicana</source>
-          <volume>18(2)</volume>
-          <issue>2</issue>
-          <fpage>112</fpage>
-          <lpage>130</lpage>
-        </element-citation>
-        <!-- <mixed-citation>Frez, J. and Fr&#237;as-Camacho, V.M., 1998, Mapas anuales de sismicidad para la region fronteriza de ambas Californias: GEOS Union Geofisica Mexicana 18, no. 2, pp. 112-130. </mixed-citation> -->
-      </ref>
-      <!--
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Garc&#237;a-Acosta</surname>
-              <given-names>V.</given-names>
-            </name>
-            <name>
-              <surname>Su&#225;rez-Reynoso</surname>
-              <given-names>G.</given-names>
-            </name>
-          </person-group>
-          <article-title>Los sismos en la historia de Mexico</article-title>
-          <date>
-            <year>1996</year>
-          </date>
-          <source>Primera Edicion, Fondo de Cultura Economica, Mexico</source>
-          <fpage>718</fpage>
-        </element-citation>
-      </ref>
-  -->
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
               <surname>Gastil</surname>
               <given-names>R. G.</given-names>
             </name>
@@ -2047,9 +1844,9 @@ rid="TF1"></xref></th>
             <year>1975</year>
           </date>
           <source>Geological Society of America, Memoir</source>
-          <volume>140</volume>
-          <fpage>170</fpage>
-          <lpage>N/A</lpage>
+          <volume>140, p. 170</volume>
+          <fpage></fpage>
+          <lpage></lpage>
         </element-citation>
         <!-- <mixed-citation>Gastil, R.G., Phillips, R., and Allison, E., 1975, Reconnaissance geology of the state of Baja California, Geological Society of America, Memoir 140, p. 170 </mixed-citation> -->
       </ref>
@@ -2097,7 +1894,7 @@ rid="TF1"></xref></th>
           <date>
             <year>2014</year>
           </date>
-          <source>J. Geophys. Res. Solid Earth</source>
+          <source>Journal of Geophysical Research</source>
           <volume>119</volume>
           <fpage>1482</fpage>
           <lpage>1497</lpage>
@@ -2164,9 +1961,9 @@ rid="TF1"></xref></th>
             <year>1984</year>
           </date>
           <source>Geological Society of America Abstracts with Programs</source>
-          <volume>16</volume>
+          <volume>16, p. 530</volume>
           <fpage>530</fpage>
-          <lpage>N/A</lpage>
+          <lpage></lpage>
         </element-citation>
       </ref>
       <ref>
@@ -2201,7 +1998,7 @@ rid="TF1"></xref></th>
           <date>
             <year>2011</year>
           </date>
-          <source>Pure Appl. Geophys.</source>
+          <source>Pure and Applied Geophysics</source>
           <volume>168</volume>
           <fpage>1255</fpage>
           <lpage>1277</lpage>
@@ -2318,10 +2115,11 @@ rid="TF1"></xref></th>
               <given-names>F. R.</given-names>
             </name>
           </person-group>
-          <article-title>Upper Pleistocene to Holocene earthquakes recorded at the western termination of the Venta de Bravo Fault System, Acambay Graben (Central Mexico), In 4th International INQUA Meeting on Paleoseismology, Active Tectonics and Archeoseismology (PATA), Aachen, Germany</article-title>
+          <article-title>Upper Pleistocene to Holocene earthquakes recorded at the western termination of the Venta de Bravo Fault System, Acambay Graben (Central Mexico), in 4th International INQUA Meeting on Paleoseismology, Active Tectonics and Archeoseismology (PATA)</article-title>
           <date>
             <year>2013</year>
           </date>
+          <source>Aachen, Germany, 4 pp</source>
           <fpage>4</fpage>
         </element-citation>
         <!-- <mixed-citation>Lacan, P., Ortu&#241;o, M., Pera, H., Baize, H., Audin, L., Aguirre, G. and Z&#250;&#241;iga, F.R., 2013, Upper Pleistocene to Holocene earthquakes recorded at the western termination of the Venta de Bravo Fault System, Acambay Graben (Central Mexico), In 4th International INQUA Meeting on Paleoseismology, Active Tectonics and Archeoseismology (PATA), Aachen, Germany, 4 pp. </mixed-citation> -->
@@ -2346,12 +2144,12 @@ rid="TF1"></xref></th>
               <given-names>G.</given-names>
             </name>
           </person-group>
-          <article-title>Paleoseismology of the 1912 Acambay earthquake and the Acambay-Tixmadeje fault, Trans-Mexican Volcanic Belt</article-title>
+          <article-title> Paleoseismology of the 1912 Acambay earthquake and the Acambay-Tixmadeje fault, Trans-Mexican Volcanic Belt</article-title>
           <date>
             <year>2000</year>
           </date>
-          <source>J. Geophys. Res.</source>
-          <volume>105</volume>
+          <source>Journal of Geophysical Research</source>
+          <volume>105(B2)</volume>
           <issue>B2</issue>
           <fpage>3019</fpage>
           <lpage>3037</lpage>
@@ -2391,7 +2189,7 @@ rid="TF1"></xref></th>
           <date>
             <year>2013</year>
           </date>
-          <source>Revista Mexicana de Ciencias Geologicas</source>
+          <source>Revista Mexicana de Ciencias Geológicas</source>
           <volume>30</volume>
           <issue>3</issue>
           <fpage>463</fpage>
@@ -2430,25 +2228,6 @@ rid="TF1"></xref></th>
           <lpage>77</lpage>
         </element-citation>
       </ref>
-      <!--
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Machette</surname>
-              <given-names>M.</given-names>
-            </name>
-          </person-group>
-          <article-title>Active, capable, and potential active faults &#8211; a paleoseismic perpective</article-title>
-          <date>
-            <year>2000</year>
-          </date>
-          <source>Journal of Geodynamics</source>
-          <volume>29</volume>
-          <fpage>387</fpage>
-          <lpage>392</lpage>
-        </element-citation>
-      </ref>-->
       <ref>
         <element-citation publication-type="thesis">
           <person-group person-group-type="author">
@@ -2457,12 +2236,12 @@ rid="TF1"></xref></th>
               <given-names>S. J.</given-names>
             </name>
           </person-group>
-          <article-title>Late Quaternary faulting history of the Northern El Carrizal Fault, Baja California Sur, Mexico, M.Sc. thesis</article-title>
+          <article-title>Late Quaternary faulting history of the northern El Carrizal Fault, Baja California Sur, Mexico</article-title>
           <date>
             <year>2009</year>
           </date>
-          <source>Northern Arizona University</source>
-          <fpage>208</fpage>
+          <source>Flagstaff, Arizona USA, Northern Arizona University, M.Sc. thesis, 196 pp</source>
+          <fpage></fpage>
         </element-citation>
         <!-- <mixed-citation>Maloney, S. J., 2009, Late Quaternary faulting history of the Northern El Carrizal Fault, Baja California Sur, Mexico, M.Sc. thesis, Northern Arizona University, 208 pp. </mixed-citation> -->
       </ref>
@@ -2591,26 +2370,6 @@ rid="TF1"></xref></th>
           <lpage>394</lpage>
         </element-citation>
       </ref>
-      <!--
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Mason</surname>
-              <given-names>D. B.</given-names>
-            </name>
-          </person-group>
-          <article-title>Earthquake magnitude potential of the intermountain seismic belt, USA, from surfaceparameter scaling of late Quaternary faults</article-title>
-          <date>
-            <year>1996</year>
-          </date>
-          <source>Bull. Seismol. Soc. Am.</source>
-          <volume>86</volume>
-          <fpage>1487</fpage>
-          <lpage>1506</lpage>
-        </element-citation>
-      </ref>
-  -->
       <ref>
         <element-citation publication-type="thesis">
           <person-group person-group-type="author">
@@ -3074,7 +2833,7 @@ rid="TF1"></xref></th>
           <date>
             <year>1975</year>
           </date>
-          <source>Geophys. Res. Lett.</source>
+          <source>Geophysical Research Letters</source>
           <volume>2</volume>
           <fpage>56</fpage>
           <lpage>59</lpage>
@@ -3101,12 +2860,34 @@ rid="TF1"></xref></th>
           <date>
             <year>1987</year>
           </date>
-          <source>Final Technical Report USGS, contract No. 14-08-0001-22012</source>
+          <source>U.S. Geological Survey Final Technical Report for contract No. 14-08-0001-22012, 122 pp</source>
           <fpage>122</fpage>
         </element-citation>
         <!-- <mixed-citation>Rockwell, K. T., Hatch, E.M., and Schug, L.D., 1987, Late Quaternary rates Agua Blanca and borderland faults, Final Technical Report USGS, contract No. 14-08-0001-22012, 122 pp. </mixed-citation> -->
       </ref>
-
+      <ref>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosas-Elguera</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Urrutia-Fucugauchi</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tectonic control of the volcano-sedimentary sequence of the Chapala Graben, Western Mexico</article-title>
+          <date>
+            <year>1998</year>
+          </date>
+          <source>International Geology Review</source>
+          <volume>40</volume>
+          <fpage>350</fpage>
+          <lpage>362</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Rosas-Elguera, J. and Urrutia-Fucugauchi, J., 1998, Tectonic control of the volcano-sedimentary sequence of the Chapala Graben, Western Mexico, International Geology Review 40, pp. 350-362. </mixed-citation> -->
+      </ref>
       <ref>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -3138,29 +2919,6 @@ rid="TF1"></xref></th>
           <lpage>924</lpage>
         </element-citation>
         <!-- <mixed-citation>Rosas-Elguera, J., Ferrari, L., Gardu&#241;o, V.H, and Urrutia-Fucugauchi, J.,1996, Continental boundaries of the Jalisco block and the their influence in the Pliocene-Quaternary kinematics of western Mexico, Geology 24, no. 10, pp. 921-924. </mixed-citation> -->
-      </ref>
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Rosas-Elguera</surname>
-              <given-names>J.</given-names>
-            </name>
-            <name>
-              <surname>Urrutia-Fucugauchi</surname>
-              <given-names>J.</given-names>
-            </name>
-          </person-group>
-          <article-title>Tectonic control of the volcano-sedimentary sequence of the Chapala Graben, Western Mexico</article-title>
-          <date>
-            <year>1998</year>
-          </date>
-          <source>International Geology Review</source>
-          <volume>40</volume>
-          <fpage>350</fpage>
-          <lpage>362</lpage>
-        </element-citation>
-        <!-- <mixed-citation>Rosas-Elguera, J. and Urrutia-Fucugauchi, J., 1998, Tectonic control of the volcano-sedimentary sequence of the Chapala Graben, Western Mexico, International Geology Review 40, pp. 350-362. </mixed-citation> -->
       </ref>
       <ref>
       	<element-citation publication-type="journal">
@@ -3200,7 +2958,7 @@ rid="TF1"></xref></th>
           <date>
             <year>1958</year>
           </date>
-          <source>Bull. Seism. Soc. Am.</source>
+          <source>Bulletin of the Seismological Society of America</source>
           <volume>48(2)</volume>
           <fpage>101</fpage>
           <lpage>116</lpage>
@@ -3265,11 +3023,11 @@ rid="TF1"></xref></th>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Suarez</surname>
+              <surname>Suárez</surname>
               <given-names>G.</given-names>
             </name>
             <name>
-              <surname>Garcia-Acosta</surname>
+              <surname>García-Acosta</surname>
               <given-names>V.</given-names>
             </name>
             <name>
@@ -3388,7 +3146,7 @@ rid="TF1"></xref></th>
           <date>
             <year>2008</year>
           </date>
-          <source>Bull. Seism. Soc. Am.</source>
+          <source>Bulletin of the Seismological Society of America</source>
           <volume>98(6)</volume>
           <issue>6</issue>
           <fpage>2879</fpage>
@@ -3406,9 +3164,9 @@ rid="TF1"></xref></th>
           </person-group>
           <article-title>Rupture of the Pitaycachi Fault in the 1887 Mw 7.5 Sonora, Mexico earthquake (southern Basin-and-Range Province): Rupture kinematics and epicenter inferred from rupture branching patterns</article-title>
           <date>
-            <year>2015</year>
+            <year>2015a</year>
           </date>
-          <source>Geophys. Res.</source>
+          <source>Journal of Geophysical Research</source>
           <volume>120</volume>
           <pub-id pub-id-type="doi">10.1002/2014JB011495</pub-id>
         </element-citation>
@@ -3424,10 +3182,10 @@ rid="TF1"></xref></th>
           </person-group>
           <article-title>The A.D. 1567 Mw 7.2 Ameca, Jalisco, earthquake (western Trans-Mexican Volcanic Belt): Surface rupture parameters, seismogeological effects, and macroseismic intensities from historical sources</article-title>
           <date>
-            <year>2015</year>
+            <year>2015b</year>
           </date>
-          <source>Bull. Seism. Soc. Am.</source>
-          <volume>105</volume>
+          <source>Bulletin of the Seismological Society of America</source>
+          <volume>105(2a)</volume>
           <fpage>646</fpage>
           <lpage>656</lpage>
         </element-citation>
@@ -3449,8 +3207,8 @@ rid="TF1"></xref></th>
           <date>
             <year>2002</year>
           </date>
-          <source>Bull. Seism. Soc. Am.</source>
-          <volume>92</volume>
+          <source>Bulletin of the Seismological Society of America</source>
+          <volume>92(2)</volume>
           <issue>2</issue>
           <fpage>581</fpage>
           <lpage>589</lpage>
@@ -3478,7 +3236,7 @@ rid="TF1"></xref></th>
           <date>
             <year>1992</year>
           </date>
-          <source>J. Geophys. Res.</source>
+          <source>Journal of Geophysical Research</source>
           <volume>97</volume>
           <fpage>11983</fpage>
           <lpage>11994</lpage>
@@ -3514,7 +3272,7 @@ rid="TF1"></xref></th>
             <year>1995</year>
           </date>
           <source>Tectonics</source>
-          <volume>14</volume>
+          <volume>14(6)</volume>
           <issue>6</issue>
           <fpage>1245</fpage>
           <lpage>1262</lpage>
@@ -3543,11 +3301,11 @@ rid="TF1"></xref></th>
           </person-group>
           <article-title>The Aljibes half-graben&#8212;Active extension at the boundary between the southern Basin and Range province and the Trans-Mexican volcanic belt, Mexico</article-title>
           <date>
-            <year>1995</year>
+            <year>1995b</year>
           </date>
-          <source>Geol. Soc. Am. Bull.</source>
+          <source>Geological Society of America Bulletin</source>
           <volume>107</volume>
-          <issue>6</issue>
+          <issue></issue>
           <fpage>627</fpage>
           <lpage>641</lpage>
         </element-citation>
@@ -3577,47 +3335,24 @@ rid="TF1"></xref></th>
           <date>
             <year>2001</year>
           </date>
-          <source>Geol. Soc. Am. Bull.</source>
+          <source>Geological Society of America Bulletin</source>
           <volume>113</volume>
-          <issue>6</issue>
+          <issue></issue>
           <fpage>693</fpage>
           <lpage>703</lpage>
         </element-citation>
         <!-- <mixed-citation>Suter, M., L&#243;pez-Mart&#237;nez, M., Quintero-Legorreta, O., and Carrillo-Mart&#237;nez, M., 2001,  Quaternary intraarc extension in the central Trans-Mexican volcanic belt, Geol. Soc. Am. Bull. 113, no. 6 pp. 693-703. </mixed-citation> -->
       </ref>
       <ref>
-        <element-citation publication-type="article">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Urbina</surname>
-              <given-names>F.</given-names>
-            </name>
-            <name>
-              <surname>Camacho</surname>
-              <given-names>H.</given-names>
-            </name>
-          </person-group>
-          <article-title>Zona megasismica Acambay-Tixmadeje, Estado de M&#233;xico, Instituto Geol&#243;gico de M&#233;xico</article-title>
-          <date>
-            <year>1913</year>
-          </date>
-          <source>Secretaria de Fomento</source>
-          <fpage>230</fpage>
-        </element-citation>
-        <!-- <mixed-citation>Urbina, F. and Camacho, H., 1913, Zona megasismica Acambay-Tixmadeje, Estado de M&#233;xico, Instituto Geol&#243;gico de M&#233;xico, Secretaria de Fomento. 230 pp.</mixed-citation> -->
-      </ref>
-
-
-      <ref>
-        <element-citation publication-type="journal">
+      	<element-citation publication-type="article">
           <person-group person-group-type="author">
             <name>
               <surname>Umhoefer</surname>
-              <given-names>P. J.</given-names>
+              <given-names>P.J.</given-names>
             </name>
             <name>
               <surname>Maloney</surname>
-              <given-names>S. J</given-names>
+              <given-names>S.J.</given-names>
             </name>
             <name>
               <surname>Buchanan</surname>
@@ -3625,10 +3360,10 @@ rid="TF1"></xref></th>
             </name>
             <name>
               <surname>Arrowsmith</surname>
-              <given-names>J. R.</given-names>
+              <given-names>J.R.</given-names>
             </name>
             <name>
-              <surname>Mart&#237;nez-Guti&#233;rrez</surname>
+              <surname>Martínez-Gutiérrez</surname>
               <given-names>G.</given-names>
             </name>
             <name>
@@ -3657,12 +3392,33 @@ rid="TF1"></xref></th>
             <year>2014</year>
           </date>
           <source>Geosphere</source>
-          <volume>10</volume>
-          <issue>3</issue>
+          <volume>10(3)</volume>
           <fpage>476</fpage>
           <lpage>504</lpage>
         </element-citation>
-        <!-- <mixed-citation>Umhoefer, P. J., Maloney, S. J., Buchanan, B., Arrowsmith, J. R., Mart&#237;nez-Guti&#233;rrez, G., Kent, G., Driscoll, N., Harding, A., Kaufman, D., and Rittenour, T. (2014). Late Quaternary faulting history of the Carrizal and related faults, La Paz region, Baja California Sur, Mexico. Geosphere, 10, no. 3, pp. 476&#8211; 504. </mixed-citation> -->
+      </ref>
+      <ref>
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Urbina</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Camacho</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>La zona megasísmica de Acambay-Tixmadejé, Estado de México, conmovida el 19 de noviembre de 1912</article-title>
+          <date>
+            <year>1913</year>
+          </date>
+          <source>Boletin del Instituto Geológico de México</source>
+          <volume>32</volume>
+          <fpage>1</fpage>
+          <lpage>125</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Urbina, F. and Camacho, H., 1913, Zona megasismica Acambay-Tixmadeje, Estado de M&#233;xico, Instituto Geol&#243;gico de M&#233;xico, Secretaria de Fomento. 230 pp.</mixed-citation> -->
       </ref>
       <ref>
         <element-citation publication-type="journal">
@@ -3731,49 +3487,6 @@ rid="TF1"></xref></th>
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Wells</surname>
-              <given-names>D. L.</given-names>
-            </name>
-            <name>
-              <surname>Coppersmith</surname>
-              <given-names>K. J.</given-names>
-            </name>
-          </person-group>
-          <article-title>New empirical relationships among magnitude, rupture length, rupture width, rupture area and surface displacement</article-title>
-          <date>
-            <year>1994</year>
-          </date>
-          <source>Bull. Seism. Soc. Am.</source>
-          <volume>84</volume>
-          <fpage>974</fpage>
-          <lpage>1002</lpage>
-        </element-citation>
-        <!-- <mixed-citation>Wells, D.L. and Coppersmith, K.J., 1994, New empirical relationships among magnitude, rupture length, rupture width, rupture area and surface displacement, Bull. Seism. Soc. Am. 84, pp. 974-1002. </mixed-citation> -->
-      </ref>
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Wesnousky</surname>
-              <given-names>S. G.</given-names>
-            </name>
-          </person-group>
-          <article-title>Displacement and geometrical characteristics of earthquake surface ruptures: Issues and implications for seismic hazard analysis and the process of earthquake rupture</article-title>
-          <date>
-            <year>2008</year>
-          </date>
-          <source>Bull. Seism. Soc. Am.</source>
-          <volume>98</volume>
-          <issue>4</issue>
-          <fpage>1609</fpage>
-          <lpage>1632</lpage>
-        </element-citation>
-        <!-- <mixed-citation>Wesnousky, S. G., 2008, Displacement and geometrical characteristics of earthquake surface ruptures: Issues and implications for seismic hazard analysis and the process of earthquake rupture, Bull. Seism. Soc. Am. 98, no. 4,  pp. 1609&#8211;1632. </mixed-citation> -->
-      </ref>
-      <ref>
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
               <surname>Yamamoto</surname>
               <given-names>J.</given-names>
             </name>
@@ -3784,7 +3497,7 @@ rid="TF1"></xref></th>
           </date>
           <source>Geof&#237;sica Internacional</source>
           <volume>32</volume>
-          <issue>3</issue>
+          <issue></issue>
           <fpage>501</fpage>
           <lpage>510</lpage>
         </element-citation>
@@ -3812,35 +3525,6 @@ rid="TF1"></xref></th>
           <lpage>298</lpage>
         </element-citation>
         <!-- <mixed-citation>Yamamoto, J. and Mota, R., 1988, La secuencia de temblores del valle de Toluca, M&#233;xico, de agosto 1980, Geofisica Internacional 27, pp. 279 &#8211; 298. </mixed-citation> -->
-      </ref>
-      <ref>
-        <element-citation publication-type="report">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Z&#250;&#241;iga</surname>
-              <given-names>F. R.</given-names>
-            </name>
-            <name>
-              <surname>Su&#225;rez</surname>
-              <given-names>G.</given-names>
-            </name>
-            <name>
-              <surname>Ordaz</surname>
-              <given-names>M.</given-names>
-            </name>
-            <name>
-              <surname>Garc&#237;a-Acosta</surname>
-              <given-names>V.</given-names>
-            </name>
-          </person-group>
-          <article-title>Proyecto Peligro S&#237;smico en Latinoam&#233;rica y el Caribe, Cap&#237;tulo 2: M&#233;xico</article-title>
-          <date>
-            <year>1997</year>
-          </date>
-          <source>Reporte final, IPGH/ OEA-IDRC</source>
-          <fpage>82</fpage>
-        </element-citation>
-        <!-- <mixed-citation>Z&#250;&#241;iga, F.R., Su&#225;rez, G., Ordaz, M., and Garc&#237;a-Acosta, V., 1997. Proyecto Peligro S&#237;smico en Latinoam&#233;rica y el Caribe, Cap&#237;tulo 2: M&#233;xico, Reporte final, IPGH/ OEA-IDRC, 82 pp. </mixed-citation> -->
       </ref>
     </ref-list>
   </back>
