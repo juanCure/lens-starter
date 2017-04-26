@@ -120,7 +120,7 @@
         </date>
       </history>
       <permissions>
-        <copyright-statement>&#169; 2017, Couturier Stephane, Valdemar Coria Tapia, Yannick Deniau &amp; Javier Osorno Covarrubias. Published by Terra Digitalis.</copyright-statement>
+        <copyright-statement>&#169; 2017, Couturier Stephane, Valdemar Coria Tapia, Yannick Deniau &amp; Francisco Javier Osorno Covarrubias. Published by Terra Digitalis.</copyright-statement>
         <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
           <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by-nc-sa/4.0/), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
           <!--
@@ -349,6 +349,24 @@
   <back>
     <ref-list>
       <ref id="ID9ea4370c-66b1-4a47-93e7-a447166f5017">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Couturier</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluaci&#243;n de errores de cartas de cobertura vegetal y usos del suelo con enfoque difuso y con la simulaci&#243;n de im&#225;genes de sat&#233;lite</article-title>
+          <source>tesis de Doctorado, UNAM/Université Paul DSabatier de Tolouse, Francia (UPS), México</source>
+          <date>
+            <year>2007</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!--
         <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
@@ -363,9 +381,28 @@
           <publisher-loc>M&#233;xico</publisher-loc>
           <publisher-name>UNAM/Université Paul DSabatier de Tolouse</publisher-name>
         </element-citation>
+      -->
       </ref>
       <!--[1] Couturier, S., 2007. Evaluaci&#243;n de errores de cartas de cobertura vegetal y usos del suelo con enfoque difuso y con la simulaci&#243;n de im&#225;genes de sat&#233;lite, tesis de Doctorado, UNAM/Universit&#233; Paul DSabatier de Tolouse, Francia (UPS), M&#233;xico.-->
       <ref id="ID1936c818-5902-4894-b506-305f8a9fe0c2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Couturier</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>The quality of detailed land cover maps in highly bio-diverse areas: lessons learned from the Mexican experience</article-title>
+          <source>Sustainable Forest Management – Current Research, Intech Open Access Publishing, pp. 19 - 44. ISBN 978-953-51-0621-0</source>
+          <date>
+            <year>2012</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!--
         <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
@@ -380,6 +417,7 @@
           <publisher-loc></publisher-loc>
           <publisher-name>Sustainable Forest Management &#8211; Current Research, Intech Open Access Publishing</publisher-name>
         </element-citation>
+      -->
       </ref>
       <!--[2] Couturier, S., 2012. &#8220;The quality of detailed land cover maps in highly bio-diverse areas: lessons learned from the Mexican experience&#8221;, En: Diez, J.J. (Eds.),  Sustainable Forest Management &#8211; Current Research, Intech Open Access Publishing, pp. 19 - 44. ISBN 978-953-51-0621-0.-->
       <ref id="IDf38499ba-a1c5-4ece-ab4d-23919ff71f79">
@@ -415,7 +453,7 @@
           <date>
             <year>2009</year>
           </date>
-          <volume>75</volume>
+          <volume>75(7)</volume>
           <issue>7</issue>
           <fpage>789</fpage>
           <lpage>805</lpage>
@@ -481,7 +519,7 @@
           <date>
             <year>2007</year>
           </date>
-          <volume>1</volume>
+          <volume>1(3)</volume>
           <issue>3</issue>
           <fpage>127</fpage>
           <lpage>135</lpage>
@@ -513,7 +551,7 @@
           <date>
             <year>2014</year>
           </date>
-          <volume>39</volume>
+          <volume>39(6)</volume>
           <issue>6</issue>
           <fpage>368.</fpage>
           <lpage>374</lpage>
@@ -536,6 +574,7 @@
           <date>
             <year>1994</year>
           </date>
+          <volume>58</volume>
           <fpage>35</fpage>
           <lpage>46</lpage>
         </element-citation>
@@ -582,6 +621,7 @@
           <date>
             <year>2002</year>
           </date>
+          <volume>81</volume>
           <fpage>443</fpage>
           <lpage>455</lpage>
         </element-citation>
@@ -644,7 +684,7 @@
           <date>
             <year>2002</year>
           </date>
-          <volume>68</volume>
+          <volume>68(10)</volume>
           <issue>10</issue>
           <fpage>966</fpage>
           <lpage>969</lpage>
@@ -668,6 +708,7 @@
           <date>
             <year>1998</year>
           </date>
+          <volume>64</volume>
           <fpage>331</fpage>
           <lpage>344</lpage>
         </element-citation>
