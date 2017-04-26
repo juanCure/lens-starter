@@ -750,18 +750,21 @@
   <back>
     <ref-list>
       <ref id="IDcef849d3-58bc-41e0-aa3c-8ae99c006239">
-        <element-citation publication-type="book">
+        <element-citation publication-type="chapterbook">
           <person-group person-group-type="author">
             <name>
               <surname>Alcorta</surname>
               <given-names>R</given-names>
             </name>
           </person-group>
-          <source>Esquema geogr&#225;fico de M&#233;xico, en Caminos de M&#233;xico. Atlas Goodrich, Euzkadi</source>
+          <article-title>Esquema geogr&#225;fico de M&#233;xico, en Caminos de M&#233;xico.</article-title>
+          <source> Atlas Goodrich, Euzkadi</source>
           <date>
             <year>1964</year>
           </date>
-          <publisher-loc>None</publisher-loc>
+          <fpage>1</fpage>
+          <lpage>2</lpage>
+          <publisher-loc>México Distrito Federal</publisher-loc>
           <publisher-name>S. A., Compa&#241;&#237;a Hulera Euzkadi</publisher-name>
         </element-citation>
       </ref>
@@ -779,7 +782,7 @@
           <date>
             <year>1961</year>
           </date>
-          <volume>24</volume>
+          <volume>24(2)</volume>
           <issue>2</issue>
           <fpage>5</fpage>
           <lpage>20</lpage>
@@ -831,6 +834,7 @@
           <date>
             <year>1986</year>
           </date>
+          <volume>(4)</volume>
           <fpage>1</fpage>
           <lpage>21</lpage>
         </element-citation>
@@ -844,12 +848,15 @@
               <given-names>L.S</given-names>
             </name>
           </person-group>
-          <source>Ensayo de la divisi&#243;n de Siberia y Turkest&#225;n en regiones paisaj&#237;sticas y morfol&#243;gicas, en D. N</source>
+          <article-title>Ensayo de la división de Siberia y Turkestán en regiones paisajísticas y morfológicas, en D. N. Anuchina (Ed)</article-title>
+          <source>Sbornik v chest´. 70 – letia</source>
           <date>
             <year>1913</year>
           </date>
-          <publisher-loc>Moscú</publisher-loc>
-          <publisher-name>Sbornik v chest´</publisher-name>
+          <fpage>167</fpage>
+          <lpage>180</lpage>
+          <publisher-loc>Sasnae, Moscú</publisher-loc>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <!--Berg, L. S., 1913, Ensayo de la divisi&#243;n de Siberia y Turkest&#225;n en regiones paisaj&#237;sticas y morfol&#243;gicas, en D. N. Anuchina (Ed): Sbornik v chest&#180;. 70 &#8211; letia, Sasnae, Mosc&#250;, 167 -180 (en ruso).-->
@@ -879,14 +886,13 @@
             <year>1999</year>
           </date>
           <volume>40</volume>
-          <issue>None</issue>
+          <issue></issue>
           <fpage>7</fpage>
           <lpage>22</lpage>
         </element-citation>
       </ref>
       <!--Bocco, G., Mendoza, M., Vel&#225;zquez, A. y Torres, A., 1999, La regionalizaci&#243;n geomorfol&#243;gica como una alternativa de regionalizaci&#243;n ecol&#243;gica en M&#233;xico. El caso de Michoac&#225;n de Ocampo Investigaciones Geogr&#225;ficas, Investigaciones Geogr&#225;ficas (Mx), 40, 7-22. -->
       <ref id="ID0709851a-76b2-4954-b3c8-207f8a4ae1ff">
-        <mixed-citation>http://132.248.26.130/N1/regionalizacion-michoacan.php</mixed-citation>
         <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
@@ -918,12 +924,13 @@
               <given-names>R</given-names>
             </name>
           </person-group>
-          <source>Una propuesta de Regionalización físico-geográfica de México</source>
+          <article-title>Una propuesta de Regionalización físico-geográfica de México</article-title>
+          <source>Universidad Nacional Autónoma de México (UNAM), Centro de Investigaciones en Geografía Ambiental (CIGA), 59 pp</source>
           <date>
             <year>2015</year>
           </date>
           <publisher-loc>Morelia, México</publisher-loc>
-          <publisher-name>Centro de Investigaciones en Geografía Ambiental (CIGA)</publisher-name>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <ref id="ID6ce41c38-8645-42c8-b435-7ac6682fb13b">
@@ -934,15 +941,33 @@
               <given-names>C.H.E</given-names>
             </name>
           </person-group>
-          <source>Provincias, regiones y subregiones terrestres de M&#233;xico</source>
+          <article-title>Provincias, regiones y subregiones terrestres de M&#233;xico</article-title>
+          <source>Colegio de Posgraduados, 624 pp</source>
           <date>
             <year>1989</year>
           </date>
-          <publisher-loc>México</publisher-loc>
-          <publisher-name>Colegio de Posgraduados, Chapingo</publisher-name>
+          <publisher-loc>Chapingo, México</publisher-loc>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <!--Cuanalo, de la C.H.E., 1989, Provincias, regiones y subregiones terrestres de M&#233;xico. M&#233;xico: Colegio de Posgraduados, Chapingo, M&#233;xico, 624 pp.-->
+      <ref>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>García</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Modificaciones al sistema de clasificación climática de Köppen</article-title>
+          <source>Instituto de Geografía, Universidad Nacional Autónoma de México (UNAM), 90 pp</source>
+          <date>
+            <year>2004</year>
+          </date>
+          <publisher-loc></publisher-loc>
+          <publisher-name></publisher-name>
+        </element-citation>
+      </ref>
       <ref id="IDacd0c4da-de61-4203-ae52-22e322ed871c">
         <element-citation publication-type="book">
           <person-group person-group-type="author">
@@ -951,12 +976,13 @@
               <given-names>A.G</given-names>
             </name>
           </person-group>
-          <source>La Geograf&#237;a del Paisaje y la regionalizaci&#243;n f&#237;sico-geogr&#225;fica</source>
+          <article-title>La Geografía del Paisaje y la regionalización físico-geográfica</article-title>
+          <source>Educación Superior, 370 pp</source>
           <date>
             <year>1991</year>
           </date>
-          <publisher-loc>Moscú</publisher-loc>
-          <publisher-name>Educación Superior, Moscú</publisher-name>
+          <publisher-loc></publisher-loc>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <!--Isachenko, A. G., 1991, La Geograf&#237;a del Paisaje y la regionalizaci&#243;n f&#237;sico-geogr&#225;fica, Educaci&#243;n Superior, Mosc&#250;, 370 pp. (En ruso).-->
@@ -968,11 +994,12 @@
               <given-names>J</given-names>
             </name>
           </person-group>
-          <source>Apuntes de Geograf&#237;a de los Paisajes</source>
+          <article-title>Apuntes de Geograf&#237;a de los Paisajes</article-title>
+          <source> Imprenta Voisin, 470 pp</source>
           <date>
             <year>1984</year>
           </date>
-          <publisher-name>Imprenta Voisin</publisher-name>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <!--Mateo, J., 1984, Apuntes de Geograf&#237;a de los Paisajes, Imprenta Voisin, 470 pp.-->
@@ -984,7 +1011,8 @@
               <given-names>J</given-names>
             </name>
           </person-group>
-          <source>Regionalizaci&#243;n F&#237;sico Geogr&#225;fica de Am&#233;rica Central y el Caribe, en Nuevo Atlas Nacional de Cuba</source>
+          <article-title>Regionalización Físico Geográfica de América Central y el Caribe</article-title>
+          <source>Nuevo Atlas Nacional de Cuba</source>
           <date>
             <year>1989</year>
           </date>
@@ -1001,12 +1029,13 @@
               <given-names>J</given-names>
             </name>
           </person-group>
-          <source>Geoecolog&#237;a de los Paisajes: Bases para la Planificaci&#243;n y Gesti&#243;n Ambiental. Universidad de la Habana</source>
+          <article-title>Geoecología de los Paisajes: Bases para la Planificación y Gestión Ambiental.</article-title>
+          <source>Universidad de la Habana, Ministerio de Educación Superior (MES), 205 pp</source>
           <date>
             <year>2002</year>
           </date>
           <publisher-loc>Cuba</publisher-loc>
-          <publisher-name>Universidad de la Habana, Ministerio de Educación Superior (MES)</publisher-name>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <!--Mateo, J., 2002, Geoecolog&#237;a de los Paisajes: Bases para la Planificaci&#243;n y Gesti&#243;n Ambiental. Universidad de la Habana, Ministerio de Educaci&#243;n Superior (MES), Cuba, 205 pp.-->
@@ -1026,12 +1055,13 @@
               <given-names>A</given-names>
             </name>
           </person-group>
-          <source>Geoecolog&#237;a de los Paisajes</source>
+          <article-title>Geoecología de los Paisajes</article-title>
+          <source>Universidade Federal do Ceará</source>
           <date>
             <year>2004</year>
           </date>
           <publisher-loc>Brasil, Fortaleza</publisher-loc>
-          <publisher-name>Universidad Federal do Ceará (UFC)</publisher-name>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <ref id="ID772dead1-e9c4-411c-842a-702d49ba3f49">
@@ -1051,7 +1081,7 @@
           <date>
             <year>2008</year>
           </date>
-          <volume>1</volume>
+          <volume>1(1)</volume>
           <issue>1</issue>
           <fpage>77</fpage>
           <lpage>98</lpage>
@@ -1066,11 +1096,12 @@
               <given-names>F. N.</given-names>
             </name>
           </person-group>
-          <source>El hombre y el Paisaje. Sobre la Geografía de los paisajes antropogénicos</source>
+          <article-title>El hombre y el Paisaje. Sobre la Geografía de los paisajes antropogénicos</article-title>
+          <source>Ed. Muiscl, 224 pp</source>
           <date>
             <year>1973</year>
           </date>
-          <publisher-name>Ed. Muiscl</publisher-name>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <ref id="IDbb7e327d-ad2e-4f47-9dfb-1fbd117e57ae">
@@ -1114,43 +1145,33 @@
         <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
-              <surname>Bollo</surname>
-              <given-names>M</given-names>
+              <surname>Ortíz</surname>
+              <given-names>R.A.</given-names>
             </name>
             <name>
-              <surname>Hern&#225;ndez</surname>
-              <given-names>J.R</given-names>
+              <surname>Bollo</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Hernández</surname>
+              <given-names>S.J.R.</given-names>
             </name>
             <name>
               <surname>Priego</surname>
-              <given-names>A</given-names>
-            </name>
-            <name>
-              <surname>Zaragoza</surname>
-              <given-names>R</given-names>
-            </name>
-            <name>
-              <surname>Ort&#237;z</surname>
-              <given-names>A</given-names>
-            </name>
-            <name>
-              <surname>Espinoza</surname>
-              <given-names>A</given-names>
-            </name>
-            <name>
-              <surname>Ru&#237;z</surname>
-              <given-names>R</given-names>
+              <given-names>S.A.</given-names>
             </name>
           </person-group>
-          <source>Una propuesta de Regionalizaci&#243;n f&#237;sico-geogr&#225;fica de M&#233;xico</source>
+          <article-title>La Regionalización físico-geográfica del estado de Guerrero, México</article-title>
+          <source>Centro de Investigaciones en Geografía Ambiental (CIGA) y Universidad Nacional Autónoma de México (UNAM), 157 pp</source>
           <date>
             <year>2015</year>
           </date>
           <publisher-loc>Morelia, México</publisher-loc>
-          <publisher-name>Centro de Investigaciones en Geografía Ambiental (CIGA) y Universidad Nacional Autónoma de México (UNAM)</publisher-name>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <!--Ort&#237;z, R.A., Bollo, M.M., Hern&#225;ndez, S.J.R., Priego, S.A., 2015, La Regionalizaci&#243;n f&#237;sico-geogr&#225;fica del estado de Guerrero, M&#233;xico, Centro de Investigaciones en Geograf&#237;a Ambiental (CIGA) y Universidad Nacional Aut&#243;noma de M&#233;xico (UNAM), Morelia, 157 pp. -->
+
       <ref id="ID778824e7-2f3b-4d91-a2c1-6647d5ef17e6">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1164,12 +1185,11 @@
           <date>
             <year>1987</year>
           </date>
-          <volume>1</volume>
+          <volume>1(2)</volume>
           <issue>2</issue>
           <fpage>13</fpage>
           <lpage>20</lpage>
         </element-citation>
-
       </ref>
       <ref id="IDa8c7ee43-3237-4170-b74f-13631f74630b">
         <element-citation publication-type="book">
@@ -1187,61 +1207,30 @@
               <given-names>M</given-names>
             </name>
           </person-group>
-          <source>Paisajes Físico-Geográficos del estado de Michoacán</source>
+          <article-title>Paisajes Físico-Geográficos del estado de Michoacán</article-title>
+          <source>Centro de Investigaciones en Geografía Ambiental (CIGA) y Universidad Nacional Autónoma de México (UNAM)</source>
           <date>
             <year>2012</year>
           </date>
           <publisher-loc>Morelia, México</publisher-loc>
-          <publisher-name>Centro de Investigaciones en Geografía Ambiental (CIGA) y Universidad Nacional Autónoma de México (UNAM)</publisher-name>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <ref id="IDe275898c-6e2b-4606-aaf0-40d64b983875">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Barajas</surname>
-              <given-names>L.V</given-names>
-            </name>
-            <name>
-              <surname>Carrillo</surname>
-              <given-names>H</given-names>
-            </name>
-            <name>
-              <surname>Ch&#225;vez</surname>
-              <given-names>O</given-names>
-            </name>
-            <name>
-              <surname>Espinoza</surname>
-              <given-names>J</given-names>
-            </name>
-            <name>
-              <surname>Kushida</surname>
-              <given-names>M</given-names>
-            </name>
-            <name>
-              <surname>Lacy</surname>
-              <given-names>R</given-names>
-            </name>
-            <name>
-              <surname>Lara</surname>
-              <given-names>A</given-names>
-            </name>
-            <name>
-              <surname>M&#233;ndez</surname>
-              <given-names>N</given-names>
-            </name>
-            <name>
-              <surname>Miranda</surname>
-              <given-names>E</given-names>
+              <surname>Secretaría de Desarrollo Urbano y Ecología (SEDUE)</surname>
+              <given-names></given-names>
             </name>
           </person-group>
           <article-title>Regionalizaci&#243;n Ecol&#243;gica del Territorio, en Serie Cuadernos B&#225;sicos de Ordenamiento Ambiental</article-title>
-          <source>Secretar&#237;a de Desarrollo Urbano y Ecolog&#237;a (SEDUE)</source>
+          <source>Manual de Ordenamiento Ecológico del Territorio. Subsecretaría de Ecología, Dirección General de Normatividad y Regulación Ecológica, México, Distrito Federal, 356 pp</source>
           <date>
-            <year>1986</year>
+            <year>1988</year>
           </date>
-          <fpage>1</fpage>
-          <lpage>21</lpage>
+          <fpage></fpage>
+          <lpage></lpage>
         </element-citation>
       </ref>
       <!--Secretar&#237;a de Desarrollo Urbano y Ecolog&#237;a (SEDUE), 1988, Manual de Ordenamiento Ecol&#243;gico del Territorio. Subsecretar&#237;a de Ecolog&#237;a, Direcci&#243;n General de Normatividad y Regulaci&#243;n Ecol&#243;gica, M&#233;xico, Distrito Federal, 356 pp.-->
@@ -1253,12 +1242,13 @@
               <given-names>P</given-names>
             </name>
           </person-group>
-          <source>Geografía Física de la URSS</source>
+          <article-title>Geografía Física de la URSS</article-title>
+          <source>Siglo XX</source>
           <date>
             <year>1947</year>
           </date>
           <publisher-loc>Moscú</publisher-loc>
-          <publisher-name>Siglo XX</publisher-name>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <ref id="IDa1c6e32e-94a7-4d0e-803c-3f1c3eaab909">
@@ -1269,12 +1259,13 @@
               <given-names>A.R.A</given-names>
             </name>
           </person-group>
-          <source>Tipolog&#237;a y regionalizaci&#243;n f&#237;sico-geogr&#225;fica de la pen&#237;nsula de Baja California, M&#233;xico</source>
+          <article-title>Tipología y regionalización físico-geográfica de la península de Baja California, México</article-title>
+          <source>Tesis profesional de Maestría, Centro de Investigaciones en Geografía Ambiental (CIGA) y Universidad Nacional Autónoma de México (UNAM)</source>
           <date>
             <year>2010</year>
           </date>
-          <publisher-loc>None</publisher-loc>
-          <publisher-name>None</publisher-name>
+          <publisher-loc></publisher-loc>
+          <publisher-name></publisher-name>
         </element-citation>
       </ref>
       <!--Zaragoza, A.R.A., 2010, Tipolog&#237;a y regionalizaci&#243;n f&#237;sico-geogr&#225;fica de la pen&#237;nsula de Baja California, M&#233;xico, Tesis profesional de Maestr&#237;a, Centro de Investigaciones en Geograf&#237;a Ambiental (CIGA) y Universidad Nacional Aut&#243;noma de M&#233;xico (UNAM).-->
