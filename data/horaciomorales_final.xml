@@ -514,6 +514,7 @@
         </graphic>
       </fig>
     </sec>
+    <!--
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -530,6 +531,7 @@
       <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/mapas/moralesT/"/>
     </supplementary-material>
     </sec>
+  -->
   </body>
   <back>
     <ref-list>
@@ -541,11 +543,12 @@
               <given-names>D.L.</given-names>
             </name>
           </person-group>
-          <source>Ciencia del Paisaje</source>
+          <article-title>Ciencia del Paisaje</article-title>
           <date>
             <year>1975</year>
           </date>
-          <publisher-loc>Moscú</publisher-loc>
+          <fpage></fpage>
+          <publisher-loc>Moscú: 228 pp</publisher-loc>
           <publisher-name>Editorial Mysl</publisher-name>
         </element-citation>
       </ref>
@@ -566,8 +569,8 @@
           <date>
             <year>2007</year>
           </date>
-          <volume>N/A</volume>
-          <issue>66</issue>
+          <volume>(66)</volume>
+          <issue></issue>
           <fpage>7</fpage>
           <lpage>24</lpage>
         </element-citation>
@@ -604,91 +607,26 @@
               <given-names>R.</given-names>
             </name>
           </person-group>
-          <source>Una propuesta de regionalización físico-geográfica de México</source>
+          <article-title>Una propuesta de regionalización físico-geográfica de México</article-title>
+          <source></source>
           <date>
             <year>2015</year>
           </date>
-          <publisher-loc>Morelia</publisher-loc>
+          <publisher-loc>Morelia: 59 pp</publisher-loc>
           <publisher-name>Editorial CIGA-UNAM</publisher-name>
         </element-citation>
       </ref>
-      <!--
-      <ref id="ref_update3">
-        <element-citation publication-type="data">
-          <person-group person-group-type="author">
-            <name>
-              <surname></surname>
-              <given-names>CIGA</given-names>
-            </name>
-          </person-group>
-          <source>Paisajes Físico-Geográficos del estado de Michoacán a escala 1:250 000, Marco atípico (en línea)</source>
-          <date>
-            <year>2012</year>
-          </date>
-          <publisher-loc>Chiapas, México</publisher-loc>
-          <publisher-name>Centro de Investigaciones en Geografía Ambiental</publisher-name>
-        </element-citation>
-      </ref>
-
-      <ref id="ref_update4">
-        <element-citation publication-type="data">
-          <person-group person-group-type="author">
-            <name>
-              <surname></surname>
-              <given-names>CONABIO</given-names>
-            </name>
-          </person-group>
-          <source>Climas (Clasificación de Köppen, modificada por García) a escala 1:1000 000 (en línea)</source>
-          <date>
-            <year>1998a</year>
-          </date>
-          <publisher-loc>México D.F.</publisher-loc>
-          <publisher-name></publisher-name>
-        </element-citation>
-      </ref>
-      <ref id="ref_update5">
-        <element-citation publication-type="data">
-          <person-group person-group-type="author">
-            <name>
-              <surname></surname>
-              <given-names>CONABIO</given-names>
-            </name>
-          </person-group>
-          <source>Diferenciación tipológica de las regiones ecológicas de México en la modalidad de nivel 5, escala 1:250,000.</source>
-          <date>
-            <year>1998b</year>
-          </date>
-          <publisher-loc>México D.F.</publisher-loc>
-          <publisher-name>Instituto Nacional de Ecología, Instituto de Geografía-UNAM,Secretaría del Medio Ambiente y Recursos Naturales y Pesca,</publisher-name>
-        </element-citation>
-      </ref>
-
-      <ref id="ref_update6">
-        <element-citation publication-type="data">
-          <person-group person-group-type="author">
-            <name>
-              <surname></surname>
-              <given-names>CONABIO</given-names>
-            </name>
-          </person-group>
-          <source>Diferenciación tipológica de las regiones ecológicas de México en la modalidad de nivel 5, escala 1:250,000.</source>
-          <date>
-            <year>1998b</year>
-          </date>
-          <publisher-loc>México D.F.</publisher-loc>
-          <publisher-name>Instituto Nacional de Ecología, Instituto de Geografía-UNAM,Secretaría del Medio Ambiente y Recursos Naturales y Pesca,</publisher-name>
-        </element-citation>
-      </ref>
-    -->
+      
       <ref id="ref4">
         <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname></surname>
-              <given-names>Environmental System Research Institute, Inc</given-names>
+              <given-names>Environmental System Research Institute, Inc (ESRI)</given-names>
             </name>
           </person-group>
-          <source>Geographical Information System, Arc View: ver. 3.2</source>
+          <article-title>Geographical Information System, Arc View (cd-rom), ver. 3.2</article-title>
+          <source></source>
           <date>
             <year>1999</year>
           </date>
@@ -704,7 +642,8 @@
               <given-names>Environmental System Research Institute, Inc</given-names>
             </name>
           </person-group>
-          <source>Geographical Information System, Arc Map: ver. 10.1</source>
+          <article-title>Geographical Information System, Arc Map: ver. 10.1</article-title>
+          <source></source>
           <date>
             <year>2012</year>
           </date>
@@ -733,7 +672,8 @@
               <given-names>M</given-names>
             </name>
           </person-group>
-          <source>Paisajes Físico-Geográficos del estado de Puebla, México, a escala 1:250 000 marco atípico (en línea)</source>
+          <article-title>Paisajes Físico-Geográficos del estado de Puebla, México, a escala 1:250 000 marco atípico (en línea)</article-title>
+          <source></source>
           <date>
             <year>2014</year>
           </date>
@@ -750,7 +690,8 @@
               <given-names>E.</given-names>
             </name>
           </person-group>
-          <source> Climas (Clasificación de Köppen, modificada por García) a escala 1:1000 000 (en línea)</source>
+          <article-title>Climas (Clasificación de Köppen, modificada por García) a escala 1:1000 000 (en línea)</article-title>
+          <source></source>
           <date>
             <year>1997</year>
           </date>
@@ -770,12 +711,12 @@
           <date>
             <year>2006</year>
           </date>
-          <publisher-loc>México, D.F.</publisher-loc>
-          <publisher-name>Instituto de Geografía, UNAM</publisher-name>
+          <publisher-loc>México, D.F: 90 pp</publisher-loc>
+          <publisher-name>Instituto de Geografía, UNAM, Serie Libros, (6)</publisher-name>
         </element-citation>
       </ref>
       <ref id="ref9">
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Hasse</surname>
@@ -783,11 +724,12 @@
             </name>
           </person-group>
           <article-title>Theoretical and methodological foundations of landscape ecology</article-title>
-          <source>International Training Course in Landscape Ecology</source>
+          <source></source>
           <date>
             <year>1986</year>
           </date>
-          <fpage>134</fpage>
+          <publisher-loc> Leipzig, Germany: p.134</publisher-loc>
+          <publisher-name>International Training Course in Landscape Ecology, Institute of Geography and Geoecology, Academy of Science, Abstracts of lectures</publisher-name>
         </element-citation>
       </ref>
       <ref id="ref10">
@@ -798,11 +740,13 @@
               <given-names>Instituto Nacional de Estadística y Geográfica</given-names>
             </name>
           </person-group>
-          <source>Conjunto de datos vectoriales de información topográfica digital, por entidad federativa (Chiapas) a escala 1:250 000 serie IV (en línea)</source>
+          <article-title>Conjunto de datos vectoriales de información topográfica digital, por entidad federativa (Chiapas) a escala 1:250 000 serie IV (en línea)</article-title>
+          <source></source>
           <date>
             <year>2015</year>
           </date>
           <publisher-loc>Aguascalientes, Aguascalientes, México</publisher-loc>
+          <publisher-name>INEGI</publisher-name>
         </element-citation>
       </ref>
       <ref id="ref11">
@@ -813,11 +757,13 @@
               <given-names>Instituto Nacional de Estadística y Geográfica</given-names>
             </name>
           </person-group>
-          <source>Conjunto de datos vectoriales edafológicos del Continuo Nacional, a escala 1:250 000 serie II (en línea)</source>
+          <article-title>Conjunto de datos vectoriales edafológicos del Continuo Nacional, a escala 1:250 000 serie II (en línea)</article-title>
+          <source></source>
           <date>
             <year>2013</year>
           </date>
           <publisher-loc>Aguascalientes, Aguascalientes, México</publisher-loc>
+          <publisher-name>INEGI</publisher-name>
         </element-citation>
       </ref>
       <ref id="ref12">
@@ -828,11 +774,13 @@
               <given-names>Instituto Nacional de Estadística y Geográfica</given-names>
             </name>
           </person-group>
-          <source>Conjunto de datos vectoriales de uso de suelo y vegetación escala 1:250 000, serie V (en línea)</source>
+          <article-title>Conjunto de datos vectoriales de uso de suelo y vegetación escala 1:250 000, serie V (en línea)</article-title>
+          <source></source>
           <date>
             <year>2013</year>
           </date>
           <publisher-loc>Aguascalientes, Aguascalientes, México</publisher-loc>
+          <publisher-name>INEGI</publisher-name>
         </element-citation>
       </ref>
       <ref id="ref13">
@@ -843,12 +791,13 @@
               <given-names>A.G.</given-names>
             </name>
           </person-group>
-          <source>Principles of Landscape Science and Physical Geography Regionalization</source>
+          <article-title>Principles of Landscape Science and Physical Geography Regionalization</article-title>
+          <source></source>
           <date>
             <year>1973</year>
           </date>
-          <fpage>311</fpage>
-          <publisher-loc>Melbourne</publisher-loc>
+          <fpage></fpage>
+          <publisher-loc>Melbourne: 311 pp</publisher-loc>
           <publisher-name>Edit. J.S. Massey</publisher-name>
         </element-citation>
       </ref>
@@ -861,11 +810,12 @@
               <given-names>J</given-names>
             </name>
           </person-group>
-          <source>Apuntes de Geograf&#237;a de los Paisajes</source>
+          <article-title>Apuntes de Geograf&#237;a de los Paisajes</article-title>
+          <source></source>
           <date>
             <year>1984</year>
           </date>
-          <publisher-loc>La Habana, Cuba</publisher-loc>
+          <publisher-loc>La Habana, Cuba: 470 pp</publisher-loc>
           <publisher-name>Ministerio de Educación Superior</publisher-name>
         </element-citation>
       </ref>
@@ -878,28 +828,30 @@
               <given-names>J</given-names>
             </name>
           </person-group>
-          <source>Geografía de los paisajes: primera parte</source>
+          <article-title></article-title>
+          <source>Geografía de los Paisajes. Primera Parte: Paisajes Naturales</source>
           <date>
             <year>2007</year>
           </date>
-          <publisher-loc>La Habana, Cuba</publisher-loc>
+          <publisher-loc>La Habana, Cuba: 211 pp</publisher-loc>
           <publisher-name>Ministerio de Educación Superior</publisher-name>
         </element-citation>
       </ref>
       
       <ref id="ref15">
-        <element-citation publication-type="book">
+        <element-citation publication-type="data">
           <person-group person-group-type="author">
             <name>
               <surname>Ortiz</surname>
               <given-names>M. A.</given-names>
             </name>
           </person-group>
-          <source>Diferenciación tipológica de las regiones ecológicas de México en la modalidad de nivel 5, escala 1:250,000</source>
+          <article-title>Diferenciación tipológica de las regiones ecológicas de México en la modalidad de nivel 5, escala 1:250,000</article-title>
+          <source></source>
           <date>
             <year>1998</year>
           </date>
-          <publisher-loc>México D.F</publisher-loc>
+          <publisher-loc>México D.F: 122 mapas</publisher-loc>
           <publisher-name>Instituto de Geografía, Universidad Nacional Autónoma de México, Instituto Nacional de Ecología, Secretaría del Medio Ambiente y Recursos Naturales y Pesca</publisher-name>
         </element-citation>
       </ref>
@@ -912,7 +864,8 @@
               <given-names>M. A.</given-names>
             </name>
           </person-group>
-          <source>Sistema Clasificatorio del Relieve de México, escala 1:250 000, (en línea)</source>
+          <article-title>Sistema Clasificatorio del Relieve de México, escala 1:250 000, (en línea)</article-title>
+          <source></source>
           <date>
             <year>2000</year>
           </date>
@@ -941,43 +894,12 @@
           <date>
             <year>2004</year>
           </date>
-          <volume>15</volume>
+          <volume>(71)</volume>
           <issue>71</issue>
           <fpage>11</fpage>
           <lpage>22</lpage>
         </element-citation>
       </ref>
-      <!--
-      <ref id="IDb30e3845-e06d-4036-93d3-e70ceab2d668">
-      	<element-citation publication-type="bookchapter">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Priego-Santander</surname>
-              <given-names>A. G.</given-names>
-            </name>
-            <name>
-              <surname>Isunza-Vera</surname>
-              <given-names>E</given-names>
-            </name>
-            <name>
-              <surname>Luna-González</surname>
-              <given-names>N</given-names>
-            </name>
-            <name>
-              <surname>Pérez-Damian</surname>
-              <given-names>J. L.</given-names>
-            </name>
-          </person-group>
-          <article-title>Método para realizar mapa de disección vertical, Disección vertical del relieve de México a escala 1:250 000</article-title>
-          <source>Propuesta para la generación de unidades de paisaje de manera semi-automatizada. Fundamentos y método, Serie Planeación Territorial</source>
-          <date>
-            <year>2003</year>
-          </date>
-          <publisher-loc>México</publisher-loc>
-          <publisher-name>Secretaría del Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecología, Centro de Investigaciones en Geografía Ambiental, Universidad Nacional Autónoma de México</publisher-name>
-        </element-citation>
-      </ref>
-    -->
       <ref id="IDacc762ae-2ec0-4c61-b7a9-376532b2a35f">
         <element-citation publication-type="book">
           <person-group person-group-type="author">
@@ -1002,7 +924,7 @@
           <date>
             <year>2010</year>
           </date>
-          <publisher-loc>México</publisher-loc>
+          <publisher-loc>México: 104 pp</publisher-loc>
           <publisher-name>Secretaría del Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecología, Centro de Investigaciones en Geografía Ambiental, Universidad Nacional Autónoma de México</publisher-name>
         </element-citation>
       </ref>
@@ -1066,7 +988,8 @@
               <given-names>G.</given-names>
             </name>
           </person-group>
-          <source>Paisajes Físico-Geográficos de México, escala 1:500 000, Marco atípico (en línea)</source>
+          <article-title>Paisajes Físico-Geográficos de México, escala 1:500 000, Marco atípico (en línea)</article-title>
+          <source></source>
           <date>
             <year>2012</year>
           </date>
@@ -1090,7 +1013,8 @@
               <given-names>M.</given-names>
             </name>
           </person-group>
-          <source>Paisajes   Físico-Geográficos del estado de Michoacán a escala 1:250 000, Marco atípico (en línea)</source>
+          <article-title>Paisajes   Físico-Geográficos del estado de Michoacán a escala 1:250 000, Marco atípico (en línea)</article-title>
+          <source></source>
           <date>
             <year>2012</year>
           </date>
@@ -1106,11 +1030,13 @@
               <given-names>Servicio Geológico Mexicano (SGM)</given-names>
             </name>
           </person-group>
-          <source>Cartas geológico-mineras E15-10, D15-1, E15-11, E15-12, D15-3, D15-2, D15-5, escala 1:250 000</source>
+          <article-title>Cartas geológico-mineras E15-10, D15-1, E15-11, E15-12, D15-3, D15-2, D15-5, escala 1:250 000</article-title>
+          <source></source>
           <date>
             <year>2005</year>
           </date>
-          <publisher-loc>Pachuca, Hidalgo, México</publisher-loc>
+          <publisher-loc>Pachuca, Hidalgo, México: 7 mapas</publisher-loc>
+          <publisher-name>SGM</publisher-name>
         </element-citation>
       </ref>
       <ref id="ref20">
@@ -1130,7 +1056,7 @@
           <date>
             <year>2013</year>
           </date>
-          <volume>34</volume>
+          <volume>34(3)</volume>
           <issue>3</issue>
           <fpage>5</fpage>
           <lpage>8</lpage>
@@ -1151,9 +1077,9 @@
           <article-title> Los estudios de paisaje y su importancia en México, 1970-2010</article-title>
           <source>Journal of Latin American Geography</source>
           <date>
-            <year>2011</year>
+            <year>1970-2010</year>
           </date>
-          <volume>10</volume>
+          <volume>10(2)</volume>
           <issue>2</issue>
           <fpage>37</fpage>
           <lpage>63</lpage>
