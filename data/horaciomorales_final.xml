@@ -514,7 +514,6 @@
         </graphic>
       </fig>
     </sec>
-    <!--
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -531,7 +530,6 @@
       <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/mapas/moralesT/"/>
     </supplementary-material>
     </sec>
-  -->
   </body>
   <back>
     <ref-list>
