@@ -295,8 +295,10 @@
           <date>
             <year>1999</year>
           </date>
-          <volume>27</volume>
+          <volume>27(6)</volume>
           <issue>6</issue>
+          <fpage>483</fpage>
+          <lpage>486</lpage>
           <pub-id pub-id-type="doi">0.1130/0091-7613</pub-id>
         </element-citation>
       </ref>
@@ -323,10 +325,10 @@
           <article-title>Loss of a lake system in a megacity: The impact of urban expansion on seasonal meteorology in Mexico City</article-title>
           <source>J. Geophys. Res. Atmos.</source>
           <date>
-            <year>n.d.</year>
+            <year>2016</year>
           </date>
-          <volume>121</volume>
-          <issue>None</issue>
+          <volume>121(7)</volume>
+          <issue></issue>
           <pub-id pub-id-type="doi">10.1002/2015JD024102</pub-id>
         </element-citation>
       </ref>
@@ -358,10 +360,11 @@
           <date>
             <year>2002</year>
           </date>
-          <volume>40</volume>
+          <volume>40(11)</volume>
           <issue>11</issue>
           <fpage>2375</fpage>
           <lpage>2383</lpage>
+          <pub-id pub-id-type="doi">10.1109/TGRS.2002.803792</pub-id>
         </element-citation>
       </ref>
       <!--Berardino, P., Fornaro, G., Lanari, R., & Sansosti, E. (2002). A new algorithm for surface deformation monitoring based on small baseline differential SAR interferograms.  IEEE Transactions on Geoscience and Remote Sensing,  40(11), 2375-2383.-->
@@ -398,6 +401,10 @@
           <date>
             <year>2008</year>
           </date>
+          <volume>120(11–12)</volume>
+          <fpage>1556</fpage>
+          <lpage>1566</lpage>
+          <pub-id pub-id-type="doi">10.1130/B26001.1</pub-id>
         </element-citation>
       </ref>
       <!--Cabral Cano, E., Dixon, T. H., Miralles Whilhelm, F., Sanchez Zamora, O., Diaz Molina, O., Carande, R. E., 2006. Space geodetic imaging of rapid ground subsidence in Mexico City. Geological Society of America Bulletin. doi:10.1130/B26001.1.-->
@@ -426,7 +433,7 @@
           <date>
             <year>2016</year>
           </date>
-          <volume>33</volume>
+          <volume>33(1)</volume>
           <issue>1</issue>
           <fpage>122</fpage>
           <lpage>133</lpage>
@@ -450,10 +457,11 @@
           <date>
             <year>2007</year>
           </date>
-          <volume>15</volume>
+          <volume>15(8)</volume>
           <issue>8</issue>
           <fpage>1577</fpage>
           <lpage>1590</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10040-007-0194-9</pub-id>
         </element-citation>
       </ref>
       <!--Carrera Hern&#225;ndez, J. J. & Gaskin, S. J. (2007). The Basin of Mexico aquifer system: regional groundwater level dynamics and database development. Hydrogeology Journal, 15(8), 1577-1590. doi:10.1007/s10040-007-0194-9-->
@@ -482,6 +490,10 @@
           <date>
             <year>2007</year>
           </date>
+          <volume>112(B3)</volume>
+          <fpage>B03403</fpage>
+          <lpage>B03403</lpage>
+          <pub-id pub-id-type="doi">10.1029/2006JB004344</pub-id>
         </element-citation>
       </ref>
       <!--Cavali&#233;, O., Doin, M. P., Lasserre, C., & Briole, P. (2007). Ground motion measurement in the Lake Mead area, Nevada, by differential synthetic aperture radar interferometry time series analysis: Probing the lithosphere rheological structure.  Journal of Geophysical Research: Solid Earth,  112(B3). B03403. doi:10.1029/2006JB004344.-->
@@ -513,6 +525,7 @@
           <volume>140</volume>
           <fpage>94</fpage>
           <lpage>106</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.rse.2013.08.038</pub-id>
         </element-citation>
       </ref>
       <ref id="ID17be9b67-69df-44d7-93e2-98c1d1fa2499">
@@ -522,14 +535,41 @@
               <surname>Del Ventisette</surname>
               <given-names>C</given-names>
             </name>
+            <name>
+              <surname>Ciampalini</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Manunta</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Calò</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Paglia</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Ardizzone</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Guzzetti</surname>
+              <given-names>F</given-names>
+            </name>
           </person-group>
           <article-title>Exploitation of large archives of ERS and ENVISAT C-band SAR data to characterize ground deformations</article-title>
           <source>Remote Sensing</source>
           <date>
             <year>2013</year>
           </date>
-          <volume>5</volume>
+          <volume>5(8)</volume>
           <issue>8</issue>
+          <fpage>3896</fpage>
+          <lpage>3917</lpage>
+          <pub-id pub-id-type="doi">10.3390/rs5083896</pub-id>
         </element-citation>
       </ref>
       <!--Del Ventisette, C. et al. (2013), Exploitation of large archives of ERS and ENVISAT C-band SAR data to characterize ground deformations, Remote Sensing, 5 (8), 3896, doi:10.3390/rs5083896.-->
@@ -550,10 +590,11 @@
           <date>
             <year>2000</year>
           </date>
-          <volume>81</volume>
+          <volume>81(48)</volume>
           <issue>48</issue>
           <fpage>583</fpage>
           <lpage>585</lpage>
+          <pub-id pub-id-type="doi">10.1029/EO081i048p00583</pub-id>
         </element-citation>
       </ref>
       <!--Farr, T. G., & Kobrick, M. (2000). Shuttle Radar Topography Mission produces a wealth of data.  Eos, Transactions American Geophysical Union,  81(48), 583-585.-->
@@ -578,10 +619,11 @@
           <date>
             <year>2000</year>
           </date>
-          <volume>38</volume>
+          <volume>38(5)</volume>
           <issue>5</issue>
           <fpage>2202</fpage>
           <lpage>2212</lpage>
+          <pub-id pub-id-type="doi">10.1109/36.868878</pub-id>
         </element-citation>
       </ref>
       <!--Ferretti, A., Prati, C., & Rocca, F. (2000). Nonlinear subsidence rate estimation using permanent scatterers in differential SAR interferometry.  IEEE Transactions on Geoscience and Remote Sensing,  38(5), 2202-2212.-->
@@ -602,10 +644,11 @@
           <date>
             <year>2011</year>
           </date>
-          <volume>19</volume>
+          <volume>19(8)</volume>
           <issue>8</issue>
           <fpage>1459</fpage>
           <lpage>1486</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10040-011-0775</pub-id>
         </element-citation>
       </ref>
       <!--Galloway, D. L., Burbey, T. J. (2011), Review: Regional land subsidence accompanying groundwater extraction, Hydrogeology Journal, 19(8), 1459-1486, doi:10.1007/s10040-011-0775-5.-->
@@ -626,10 +669,11 @@
           <date>
             <year>2007</year>
           </date>
-          <volume>15</volume>
+          <volume>15(1)</volume>
           <issue>1</issue>
           <fpage>133</fpage>
           <lpage>154</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10040-006-0121-5</pub-id>
         </element-citation>
       </ref>
       <!--Galloway, D. L. & Hoffmann, J. (2007) The application of satellite differential SAR interferometry-derived ground displacements in hydrogeology, Hydrogeology Journal, 15(1), 133-154. doi:10.1007/s10040-006-0121-5-->
@@ -654,7 +698,7 @@
           <date>
             <year>1989</year>
           </date>
-          <volume>28</volume>
+          <volume>28(2)</volume>
           <issue>2</issue>
           <fpage>297</fpage>
           <lpage>334</lpage>
@@ -685,9 +729,10 @@
           <date>
             <year>2004</year>
           </date>
-          <volume>31</volume>
+          <volume>31(23)</volume>
           <issue>23</issue>
           <fpage>L23611</fpage>
+          <pub-id pub-id-type="doi">10.1029/2004GL021737</pub-id>
         </element-citation>
       </ref>
       <ref id="bib5">
@@ -719,10 +764,11 @@
           <date>
             <year>2009</year>
           </date>
-          <volume>69</volume>
+          <volume>69(1)</volume>
           <issue>1</issue>
           <fpage>1</fpage>
           <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jappgeo.2009.02.006</pub-id>
         </element-citation>
       </ref>
       <ref id="bib6">
@@ -754,10 +800,11 @@
           <date>
             <year>2011</year>
           </date>
-          <volume>13</volume>
+          <volume>13(1)</volume>
           <issue>1</issue>
           <fpage>1</fpage>
           <lpage>12</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jag.2010.05.009</pub-id>
         </element-citation>
       </ref>
       <ref id="ID1e9adff0-645e-4323-a90b-7aa6e89022e6">
@@ -785,8 +832,11 @@
           <date>
             <year>2004</year>
           </date>
-          <volume>85</volume>
+          <volume>85(5)</volume>
           <issue>5</issue>
+          <fpage>47</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="doi">10.1029/2004EO050004</pub-id>
         </element-citation>
       </ref>
       <!--Rosen, P. A., Hensley, S., Peltzer, G., Simons, M., 2004. Updated repeat orbit interferometry package released. EOS Transactions - American Geophysical Union 85 (5).-->
@@ -810,7 +860,8 @@
               <given-names>E</given-names>
             </name>
           </person-group>
-          <source>S&#237;ntesis geot&#233;cnica de la cuenca del Valle de M&#233;xico</source>
+          <article-title>S&#237;ntesis geot&#233;cnica de la cuenca del Valle de M&#233;xico</article-title>
+          <source></source>
           <date>
             <year>2005</year>
           </date>
@@ -836,8 +887,11 @@
           <date>
             <year>2003</year>
           </date>
-          <volume>108</volume>
+          <volume>108(B9)</volume>
           <issue>B9</issue>
+          <fpage>2416</fpage>
+          <lpage>2416</lpage>
+          <pub-id pub-id-type="doi">10.1029/2002JB002267</pub-id>
         </element-citation>
       </ref>
       <!--Schmidt, D. A., & B&#252;rgmann, R. (2003). Time&#8208;dependent land uplift and subsidence in the Santa Clara valley, California, from a large interferometric synthetic aperture radar data set.  Journal of Geophysical Research: Solid Earth,  108(B9).-->
@@ -870,10 +924,11 @@
           <date>
             <year>2003</year>
           </date>
-          <volume>41</volume>
+          <volume>41(7)</volume>
           <issue>7</issue>
           <fpage>1702</fpage>
           <lpage>1708</lpage>
+          <pub-id pub-id-type="doi">10.1109/TGRS.2003.813273</pub-id>
         </element-citation>
       </ref>
       <ref id="bib12">
@@ -889,10 +944,11 @@
           <date>
             <year>2003</year>
           </date>
-          <volume>41</volume>
+          <volume>41(4)</volume>
           <issue>4</issue>
           <fpage>753</fpage>
           <lpage>760</lpage>
+          <pub-id pub-id-type="doi">10.1109/TGRS.2003.810675</pub-id>
         </element-citation>
       </ref>
       <!--Usai, S. (2003). A least squares database approach for SAR interferometric data.  IEEE Transactions on Geoscience and Remote Sensing,  41(4), 753-760.-->
@@ -913,7 +969,7 @@
           <date>
             <year>1989</year>
           </date>
-          <volume>28</volume>
+          <volume>28(2)</volume>
           <issue>2</issue>
           <fpage>133</fpage>
           <lpage>190</lpage>
@@ -956,10 +1012,11 @@
           <date>
             <year>2012</year>
           </date>
-          <volume>5</volume>
+          <volume>5(4)</volume>
           <issue>4</issue>
           <fpage>1312</fpage>
           <lpage>1326</lpage>
+          <pub-id pub-id-type="doi">10.1109/JSTARS.2012.2191146</pub-id>
         </element-citation>
       </ref>
     </ref-list>

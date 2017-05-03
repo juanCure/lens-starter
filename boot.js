@@ -37,8 +37,8 @@ var qs = function () {
 //var documentURL= "data/horaciomorales_final.xml";
 //var documentURL= "data/couturier_final.xml";
 //var documentURL= "data/bautista_final.xml";
-//var documentURL= "data/penelope_final.xml";
-var documentURL= "data/espinoza_final.xml";
+var documentURL= "data/penelope_final.xml";
+//var documentURL= "data/espinoza_final.xml";
 //var documentURL= "data/cid_final.xml";
 //var documentURL= "data/bmj_sample.xml";
 
