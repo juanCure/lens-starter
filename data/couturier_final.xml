@@ -332,7 +332,7 @@
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.14.208/html/mapas_estaticos/Couturier/html5.html" mimetype="application/html">
+        xlink:title="local_file" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/cuitzeo1.html" mimetype="application/html">
         <object-id pub-id-type="doi">10.7554/eLife.21900.021</object-id>
         <label>Mapa estático</label>
         <caption>
@@ -342,7 +342,7 @@
             <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">http://dx.doi.org/10.7554/eLife.21900.021</ext-link>
           </p>
         </caption>
-      <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.208/html/mapas_estaticos/Couturier/html5.html"/>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/cuitzeo1.html"/>
     </supplementary-material>
     </sec>
   </body>
