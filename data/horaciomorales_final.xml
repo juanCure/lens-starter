@@ -238,7 +238,7 @@
             <tr>
               <td align="center">Localidades</td>
               <td align="center">Comunidad territorial. Igual tipo morfogenético del relieve. Homogeneidad litológica y/o del tipo de depósitos. Similares condiciones climáticas.</td>
-              <td align="center">Montañas volcánicas ligera a fuertemente diseccionadas (D>100 m/Km<sup>2</sup>sup>), formadas por andesita, en clima templado húmedo a subhúmedo.</td>
+              <td align="center">Montañas volcánicas ligera a fuertemente diseccionadas (D>100 m/Km<sup>2</sup>), formadas por andesita, en clima templado húmedo a subhúmedo.</td>
             </tr>
             <tr>
               <td align="center">Parajes Complejos</td>
@@ -510,6 +510,7 @@
           <label>Figura 1</label>
           <caption>
             <title>Unidades superiores de la RFG a las que pertenece el estado de Michoac&#225;n Fuente: Elaboraci&#243;n propia con base en Bollo et al (2015)</title>
+            <title></title>
           </caption>
         </graphic>
       </fig>
@@ -675,7 +676,7 @@
           <date>
             <year>2014</year>
           </date>
-          <publisher-loc>Morelia, Michoacán.</publisher-loc>
+          <publisher-loc>Morelia, Michoacán</publisher-loc>
           <publisher-name>CIGA-UNAM</publisher-name>
         </element-citation>
       </ref>
@@ -693,7 +694,7 @@
           <date>
             <year>1997</year>
           </date>
-          <publisher-loc>México, D.F.</publisher-loc>
+          <publisher-loc>México, D.F</publisher-loc>
           <publisher-name>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</publisher-name>
         </element-citation>
       </ref>
