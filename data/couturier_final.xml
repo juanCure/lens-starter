@@ -13,10 +13,10 @@
       <article-id pub-id-type="doi">10.22201/igg.terradigitalis.2017.1.5</article-id>
       <article-categories>
         <subj-group subj-group-type="display-channel">
-          <subject>Articulo de investigación</subject>
+          <subject>Research article</subject>
         </subj-group>
         <subj-group subj-group-type="heading">
-          <subject>Geografía</subject>
+          <subject>Geography</subject>
         </subj-group>
         <!--<subj-group subj-group-type="heading">
           <subject>Genes and Chromosomes</subject>
@@ -137,7 +137,7 @@
         </sec>        
         <sec>
           <title>Abstract</title>
-          <p>In the last decade, a methodological breakthrough has permitted the accuracy assessment of regional land use maps of highly dynamic landscapes for sub-tropical countries. This has been achieved on the basis of geostatistics and fuzzy logics, and has led to a detailed database of spatial features derived from the assessed cartography and from the verification material. However, the visualization of these features, of their comparison, and of the spatial distribution of matches and mismatches (with an enormous explanatory potential for decision making based on this cartography), had not been published yet. We present the visualization of correct and erroneous verification points, with fuzzy logic criteria, of the high taxonomy land use map of the Cuitzeo lake watershed, extracted from the 1:250:000 scale National Forest Inventory of year 2000 in Mexico.</p>
+          <p>In the last decade, a methodological breakthrough has permitted the accuracy assessment of regional land use maps of highly dynamic landscapes for sub-tropical countries. This has been achieved on the basis of geostatistics and fuzzy logics, and has led to a detailed database of spatial features derived from the assessed cartography and from the verification material. However, the visualization of these features, of their comparison, and of the spatial distribution of matches and mismatches (with an enormous explanatory potential for decision making based on this cartography), had not been published yet. We present the visualization of matches and mismatches at verification points, with fuzzy logic criteria, of the high taxonomy land use map of the Cuitzeo lake watershed, extracted from the 1:250:000 scale National Forest Inventory of year 2000 in Mexico.</p>
           <p><bold>Key words:</bold> Land use planning, vegetation cover, field abandonment, dynamic landscape, fuzzy logic, accuracy assessment.</p>
         </sec>
       </abstract>
@@ -241,7 +241,7 @@
     -->
     </sec>
     <sec reflist="yes">
-      <title>Conclusiones </title>
+      <title>Conclusión </title>
       <p>Este artículo propone un modelo cartográfico dirigido a documentar visualmente la información de fiabilidad que acompaña los mapas de usos de suelo. Esta cartografía consiste en la combinación interactiva del mapa de interés, con un material de verificación basado en un muestreo doble y una interpretación con lógica difusa. Aplicamos este modelo cartográfico al mapa de usos de suelo de alta taxonomía de la cuenca del lago de Cuitzeo, extraído de la cartografía a escala 1:250,000 del Inventario Forestal Nacional del año 2000 (IFN2000) en México. Los índices de fiabilidad y los patrones de error en clases del IFN2000, fueron registrados en forma de una matriz de confusión en <xref rid="IDbc0d9955-2c2d-46cf-8275-5b98652f064c" ref-type="bibr" id="IDe46a56f3-145f-4e7e-958f-7e58a8b56529">Couturier et al. (2008)</xref>. Aquí, el modelo permite una variedad de superposición para una apreciación visual de la fiabilidad. Explicamos el potencial explicativo del modelo en su modo “fiabilidad para el productor”, utilizando la superposición de los mini-mapas de verificación y de los puntos de verificación. Este modo permite resaltar el alto nivel de fiabilidad de las clases “agricultura de riego”, “plantación forestal”, y “asentamiento humano”, pero también una alta densidad espacial de los aciertos y errores para una mayoría de clases, lo que alerta al usuario acerca de que los valores de fiabilidad pueden contener una alta incertidumbre debido a la auto-correlación espacial. Una clase con alta densidad de puntos café para la clase “matorral sub-tropical” indica posiblemente una dificultad de interpretación de esta cobertura en las fotografías aéreas (se necesita mayor tolerancia temática para encontrar una coincidencia entre el mapa y el material de verificación).</p>
 
       <p>Estas apreciaciones, además de las matrices cuantitativas de confusión, ayudan a quienes elaboran los mapas, a buscar una mejor estrategia de producción cartográfica o de verificación cartográfica (otro sensor, otra resolución, u otro sistema clasificatorio).</p>
@@ -322,7 +322,7 @@
 
       <fig id="fig1" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/couturier/image01.png" position="float" orientation="portrait" xlink:type="simple">
-          <label>Figura 1</label>
+          <label>Lámina 1</label>
           <caption>
             <p>Visualización multi-escala de aciertos y errores de un mapa de usos de suelo: El caso de la cuenca del lago de Cuitzeo, Michoacán, México.</p>
           </caption>
@@ -349,7 +349,7 @@
   <back>
     <ref-list>
       <ref id="ID9ea4370c-66b1-4a47-93e7-a447166f5017">
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Couturier</surname>
@@ -357,35 +357,16 @@
             </name>
           </person-group>
           <article-title>Evaluaci&#243;n de errores de cartas de cobertura vegetal y usos del suelo con enfoque difuso y con la simulaci&#243;n de im&#225;genes de sat&#233;lite</article-title>
-          <source>tesis de Doctorado, UNAM/Université Paul DSabatier de Tolouse, Francia (UPS), México</source>
           <date>
             <year>2007</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-loc>Francia (UPS), México</publisher-loc>
+          <publisher-name>Tesis de Doctorado, UNAM/Université Paul DSabatier de Tolouse</publisher-name>
         </element-citation>
-        <!--
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Couturier</surname>
-              <given-names>S</given-names>
-            </name>
-          </person-group>
-          <source>Evaluaci&#243;n de errores de cartas de cobertura vegetal y usos del suelo con enfoque difuso y con la simulaci&#243;n de im&#225;genes de sat&#233;lite</source>
-          <date>
-            <year>2007</year>
-          </date>
-          <publisher-loc>M&#233;xico</publisher-loc>
-          <publisher-name>UNAM/Université Paul DSabatier de Tolouse</publisher-name>
-        </element-citation>
-      -->
       </ref>
       <!--[1] Couturier, S., 2007. Evaluaci&#243;n de errores de cartas de cobertura vegetal y usos del suelo con enfoque difuso y con la simulaci&#243;n de im&#225;genes de sat&#233;lite, tesis de Doctorado, UNAM/Universit&#233; Paul DSabatier de Tolouse, Francia (UPS), M&#233;xico.-->
       <ref id="ID1936c818-5902-4894-b506-305f8a9fe0c2">
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Couturier</surname>
@@ -393,31 +374,12 @@
             </name>
           </person-group>
           <article-title>The quality of detailed land cover maps in highly bio-diverse areas: lessons learned from the Mexican experience</article-title>
-          <source>Sustainable Forest Management – Current Research, Intech Open Access Publishing, pp. 19 - 44. ISBN 978-953-51-0621-0</source>
           <date>
             <year>2012</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-loc>pp. 19 - 44</publisher-loc>
+          <publisher-name>Sustainable Forest Management – Current Research, Intech Open Access Publishing</publisher-name>
         </element-citation>
-        <!--
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Couturier</surname>
-              <given-names>S</given-names>
-            </name>
-          </person-group>
-          <source>The quality of detailed land cover maps in highly bio-diverse areas: lessons learned from the Mexican experience</source>
-          <date>
-            <year>2012</year>
-          </date>
-          <publisher-loc></publisher-loc>
-          <publisher-name>Sustainable Forest Management &#8211; Current Research, Intech Open Access Publishing</publisher-name>
-        </element-citation>
-      -->
       </ref>
       <!--[2] Couturier, S., 2012. &#8220;The quality of detailed land cover maps in highly bio-diverse areas: lessons learned from the Mexican experience&#8221;, En: Diez, J.J. (Eds.),  Sustainable Forest Management &#8211; Current Research, Intech Open Access Publishing, pp. 19 - 44. ISBN 978-953-51-0621-0.-->
       <ref id="IDf38499ba-a1c5-4ece-ab4d-23919ff71f79">
@@ -460,6 +422,38 @@
         </element-citation>
       </ref>
       <!--[3] Couturier, S., Mas J. F., Cuevas G., Ben&#237;tez J., Vega-Guzm&#225;n A., y Coria-Tapia V., 2009. &#8220;An accuracy index with positional and thematic fuzzy bounds for land-use/ land-cover maps&#8221;.  Photogrammetric Engineering and Remote Sensing, 75 (7), 789-805. -->
+      <ref id="ID53713ba1-04db-4ac3-bad6-f7167dfdb8d6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Couturier</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mas</surname>
+              <given-names>J.-F.</given-names>
+            </name>
+            <name>
+              <surname>Vega</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tapia</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Accuracy assessment of land cover maps in sub-tropical countries: a sampling design for the Mexican National Forest Inventory map</article-title>
+          <source>Online Journal of Earth Sciences</source>
+          <date>
+            <year>2007</year>
+          </date>
+          <volume>1(3)</volume>
+          <issue>3</issue>
+          <fpage>127</fpage>
+          <lpage>135</lpage>
+        </element-citation>
+      </ref>
+      <!--[5] Couturier, S., Mas, J. F., Vega, A., y Tapia, V., 2007. &#8220;Accuracy assessment of land cover maps in sub-tropical countries: a sampling design for the Mexican National Forest Inventory map&#8221;.  Online Journal of Earth Sciences, 1(3), 127-135. ISSN: 1991-7708 .-->
       <ref id="IDbc0d9955-2c2d-46cf-8275-5b98652f064c">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -494,38 +488,6 @@
           <lpage>38</lpage>
         </element-citation>
       </ref>
-      <ref id="ID53713ba1-04db-4ac3-bad6-f7167dfdb8d6">
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Couturier</surname>
-              <given-names>S</given-names>
-            </name>
-            <name>
-              <surname>Mas</surname>
-              <given-names>J.-F.</given-names>
-            </name>
-            <name>
-              <surname>Vega</surname>
-              <given-names>A</given-names>
-            </name>
-            <name>
-              <surname>Tapia</surname>
-              <given-names>V</given-names>
-            </name>
-          </person-group>
-          <article-title>Accuracy assessment of land cover maps in sub-tropical countries: a sampling design for the Mexican National Forest Inventory map</article-title>
-          <source>Online Journal of Earth Sciences</source>
-          <date>
-            <year>2007</year>
-          </date>
-          <volume>1(3)</volume>
-          <issue>3</issue>
-          <fpage>127</fpage>
-          <lpage>135</lpage>
-        </element-citation>
-      </ref>
-      <!--[5] Couturier, S., Mas, J. F., Vega, A., y Tapia, V., 2007. &#8220;Accuracy assessment of land cover maps in sub-tropical countries: a sampling design for the Mexican National Forest Inventory map&#8221;.  Online Journal of Earth Sciences, 1(3), 127-135. ISSN: 1991-7708 .-->
       <ref id="ref_update1">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
