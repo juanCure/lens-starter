@@ -13,10 +13,10 @@
       <article-id pub-id-type="doi">10.22201/igg.terradigitalis.2017.1.8</article-id>
       <article-categories>
         <subj-group subj-group-type="display-channel">
-          <subject>Articulo de investigación</subject>
+          <subject>Research article</subject>
         </subj-group>
         <subj-group subj-group-type="heading">
-          <subject>Geografía</subject>
+          <subject>Geography</subject>
         </subj-group>
       </article-categories>
       <title-group>
@@ -124,7 +124,7 @@
       <title>Método</title>
       <p>El inicio del proceso cartográfico fue la compilación y estandarización de la información de cada componente biofísico (geología, clima, relieve, suelo y vegetación y uso del suelo). Ello implicó la homogenización de todas las bases espaciales, en cuanto a límites de la línea de costa, cuerpos de agua, zonas urbanas, etc.</p>
 
-      <p>La información insumo para la elaboración del mapa fue la siguiente:</p>
+      <p>La información insumo para la elaboración del mapa (<xref rid="fig1" ref-type="fig" id="ref_fig1">Lámina 1</xref>) fue la siguiente:</p>
 
       <list id="first_list" list-type="ordered">
         <list-item>
@@ -149,28 +149,10 @@
           <p><xref rid="ref12" ref-type="bibr" id="cite6">Conjunto de datos vectoriales de uso de suelo y vegetación escala 1:250 000, serie V del Instituto Nacional de Estadística y Geografía (2013).</xref></p>
         </list-item>
       </list>
-
-      <p>Además, se observaron experiencias anteriores sobre mapas de paisajes de sectores del territorio chiapaneco (<xref rid="ref2" ref-type="bibr" id="cite7">Bollo-Manent y Hernández-Santana, 2007</xref>), así como de otras experiencias del territorio nacional (<xref rid="ref18" ref-type="bibr" id="cite8">Ramírez-Sánchez et al., 2012</xref>; <xref rid="ref17" ref-type="bibr" id="cite9">Priego-Santander et al., 2012</xref>; <xref rid="ref6" ref-type="bibr" id="cite10">Flores-Domínguez et al., 2014</xref>).</p>
+      
+      <p>Además, se observaron experiencias anteriores sobre mapas de paisajes de sectores del territorio chiapaneco (<xref rid="ref2" ref-type="bibr" id="cite7">Bollo-Manent y Hernández-Santana, 2007</xref>), así como de otras experiencias del territorio nacional (<xref rid="IDe3d93950-b2cf-4aae-9646-ade197b350d8" ref-type="bibr" id="cite23"> Priego-Santander et al., 2004 </xref>; <xref rid="ref18" ref-type="bibr" id="cite8">Ramírez-Sánchez et al., 2012</xref>; <xref rid="ref17" ref-type="bibr" id="cite9">Priego-Santander et al., 2012</xref>; <xref rid="ref6" ref-type="bibr" id="cite10">Flores-Domínguez et al., 2014</xref>).</p>
 
       <p>Las etapas para la elaboración del mapa fueron las siguientes:</p>
-
-      <!-- list-type="ordered" -->
-      <!-- list-type="bullet" -->
-      <!--
-      <list id="mylist"> 
-        <list-item><p>A</p></list-item>
-        <list-item><p>B</p></list-item>
-        <list-item><p>C</p></list-item>
-        <list-item>
-          <p>D</p>
-          <list id="mysublist">
-            <list-item>
-              <p>E</p>
-            </list-item>
-          </list> 
-        </list-item>
-      </list>
-    -->
       <list id="second_list" list-type="ordered">
         <list-item>
           <p>Elaboración del mapa de disección vertical del relieve a escala 1: 250 000 según <xref rid="IDacc762ae-2ec0-4c61-b7a9-376532b2a35f" ref-type="bibr" id="ID3955f276-693d-4962-86eb-5302bfc9e28b">Priego-Santander et al. (2010)</xref>.</p>
@@ -238,7 +220,7 @@
             <tr>
               <td align="center">Localidades</td>
               <td align="center">Comunidad territorial. Igual tipo morfogenético del relieve. Homogeneidad litológica y/o del tipo de depósitos. Similares condiciones climáticas.</td>
-              <td align="center">Montañas volcánicas ligera a fuertemente diseccionadas (D>100 m/Km<sup>2</sup>), formadas por andesita, en clima templado húmedo a subhúmedo.</td>
+              <td align="center">Montañas volcánicas ligera a fuertemente diseccionadas (D&gt;100 m/Km<sup>2</sup>), formadas por andesita, en clima templado húmedo a subhúmedo.</td>
             </tr>
             <tr>
               <td align="center">Parajes Complejos</td>
@@ -248,7 +230,7 @@
             <tr>
               <td align="center">Parajes Simples</td>
               <td align="center">Igual situación en un elemento de una mesoforma del relieve e igual inclinación de la pendiente. Similares grupos y subgrupos de suelos. Mismo tipo de comunidades vegetales o igual tipo de aprovechamiento del suelo.</td>
-              <td align="center">Muy fuertemente inclinado (>30°), con bosque mesófilo de montaña; por partes con vegetación secundaria y pastizales inducidos sobre Acrisol húmico, Andosol ócrico y Regosol dístrico.</td>
+              <td align="center">Muy fuertemente inclinado (&gt;30°), con bosque mesófilo de montaña; por partes con vegetación secundaria y pastizales inducidos sobre Acrisol húmico, Andosol ócrico y Regosol dístrico.</td>
             </tr>
           </tbody>
         </table>
@@ -260,7 +242,7 @@
 
       <list id="third_list" list-type="ordered">
       	<list-item>
-      		<p>El enfoque empleado permitió la distinción de los paisajes físico-geográficos de Chiapas a escala 1: 250 000, donde se pudieron diferenciar cinco niveles taxonómicos incluyendo: 6 Clases, 19 Subclases, 118 Localidades, 181 Parajes Complejos y 450 Parajes Simples. El conjunto cartográfico completo con la leyenda ampliada se puede apreciar en el siguiente link: http://www.ciga.unam.mx/publicaciones/index.php/catalogo-completo/book/12-coleccionesciga/81</p>
+      		<p>El enfoque empleado permitió la distinción de los paisajes físico-geográficos de Chiapas a escala 1: 250 000, donde se pudieron diferenciar cinco niveles taxonómicos incluyendo: 6 Clases, 19 Subclases, 118 Localidades, 181 Parajes Complejos y 450 Parajes Simples. El conjunto cartográfico completo con la leyenda ampliada se puede apreciar en el siguiente link: DOI:10.22201/igg.terradigitalis.2017.1.8.65</p>
       	</list-item>
       	<list-item>
       		<p>Debido al dominio territorial que tienen los procesos tectónicos en la entidad, el factor altitudinal es quizá el más trascedente en la diferenciación de los paisajes físico-geográficos de Chiapas. Ello revela al relieve como el principal factor de diferenciación geoecológica en el territorio, seguido de la composición litológica y el clima.</p>
@@ -297,7 +279,7 @@
       <p>La investigación generó datos espaciales en formato vectorial (polígonos), esta información está contenida en un sistema de información geográfica (Arc-Map, versión 10.1) con las características que se presentan en la <xref ref-type="table" rid="tbl2">Tabla 2</xref> y <xref ref-type="table" rid="tbl3">Tabla 3</xref>.</p>
 
       <table-wrap id="tbl2" position="float">
-      <label>Tabla 2. Datos espaciales</label>
+      <label>Tabla 2. Datos espaciales.</label>
       <caption><title></title></caption>
       <table frame="box" rules="all" border="1">
         <thead>
@@ -359,7 +341,7 @@
       </table-wrap>
 
       <table-wrap id="tbl3" position="float">
-      	<label>Tabla 3. Attributes of Paraje_simpl_24-08-16</label>
+      	<label>Tabla 3. Descripción de la entidad: Tabla de atributos de los paisajes físico-geográficos.</label>
         <caption><title></title></caption>
       	<table frame="box" rules="groups">
       		<thead>
@@ -507,7 +489,7 @@
 
       <fig id="fig1" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/horacio/paisajes_de_chiapas.png" position="float" orientation="portrait" xlink:type="simple">
-          <label>Figura 1</label>
+          <label>Lámina 1</label>
           <caption>
             <title>Unidades superiores de la RFG a las que pertenece el estado de Michoac&#225;n Fuente: Elaboraci&#243;n propia con base en Bollo et al (2015)</title>
             <title></title>
@@ -515,6 +497,7 @@
         </graphic>
       </fig>
     </sec>
+    
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -531,6 +514,7 @@
       <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/mapas/moralesT/"/>
     </supplementary-material>
     </sec>
+
   </body>
   <back>
     <ref-list>
@@ -692,7 +676,7 @@
           <article-title>Climas (Clasificación de Köppen, modificada por García) a escala 1:1000 000 (en línea)</article-title>
           <source></source>
           <date>
-            <year>1997</year>
+            <year>1998</year>
           </date>
           <publisher-loc>México, D.F</publisher-loc>
           <publisher-name>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</publisher-name>
@@ -708,7 +692,7 @@
           </person-group>
           <source> Modificaciones al sistema de clasificación climática de Köppen, Quinta edición, corregida y aumentada</source>
           <date>
-            <year>2006</year>
+            <year>2004</year>
           </date>
           <publisher-loc>México, D.F: 90 pp</publisher-loc>
           <publisher-name>Instituto de Geografía, UNAM, Serie Libros, (6)</publisher-name>
@@ -836,7 +820,7 @@
           <publisher-name>Ministerio de Educación Superior</publisher-name>
         </element-citation>
       </ref>
-      
+      <!--
       <ref id="ref15">
         <element-citation publication-type="data">
           <person-group person-group-type="author">
@@ -854,7 +838,7 @@
           <publisher-name>Instituto de Geografía, Universidad Nacional Autónoma de México, Instituto Nacional de Ecología, Secretaría del Medio Ambiente y Recursos Naturales y Pesca</publisher-name>
         </element-citation>
       </ref>
-    
+      -->
       <ref id="ref16">
         <element-citation publication-type="data">
           <person-group person-group-type="author">
