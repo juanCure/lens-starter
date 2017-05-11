@@ -13,10 +13,10 @@
       <article-id pub-id-type="doi">10.22201/igg.terradigitalis.2017.1.2</article-id>
       <article-categories>
                 <subj-group subj-group-type="display-channel">
-                    <subject>Articulo de investigación</subject>
+                    <subject>Research article</subject>
                 </subj-group>
                 <subj-group subj-group-type="heading">
-                    <subject>Geografía</subject>
+                    <subject>Geography</subject>
                 </subj-group>
             </article-categories>
       <title-group>
@@ -122,7 +122,7 @@
         <p><underline>1980:</underline> Cartograf&#237;a existente de la cobertura de la tierra y su uso de suelo, a una escala 1: 250,000 de INEGI (<xref rid="ID9f0d6ab2-45d0-4163-b0d9-af6fb63adc0c" ref-type="bibr" id="ID047a2921-73be-4eab-9ac1-14f2405b7149">2006</xref>). </p>
       </disp-quote>
       <disp-quote>
-        <p><underline>1990:</underline> La interpretaci&#243;n visual se realiz&#243; sobre una imagen Landsat TM del a&#241;o 1990, desplegada en monitor de computadora a escala 1:110,000 (Burgos et al, 2010).</p>
+        <p><underline>1990:</underline> La interpretaci&#243;n visual se realiz&#243; sobre una imagen Landsat TM del a&#241;o 1990, desplegada en monitor de computadora a escala 1:110,000.</p>
       </disp-quote>
       <disp-quote>
         <p><underline>2000:</underline> Cartograf&#237;a existente de la cobertura vegetal del proyecto Inventario Forestal Nacional (IFN), a una escala 1: 250,000, realizada por el Instituto de Geograf&#237;a de la UNAM (<xref rid="IDb53542bf-aa81-4c7a-9dad-d15dbd1e5ad7" ref-type="bibr" id="IDe3edf824-6cbf-49fd-b13d-e32c97527c96">Palacio et al, 2000</xref>).</p>
@@ -334,8 +334,8 @@
           </date>
           <volume>13(1)</volume>
           <issue>1</issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <fpage>18</fpage>
+          <lpage>23</lpage>
         </element-citation>
       </ref>
       <!--Alegre, J., Lara, P., 1991, Efecto de los animales en pastoreo sobre las propiedades f&#237;sicas de los suelos en la regi&#243;n tropical h&#250;meda de Per&#250;:  Pasturas tropicales CIAT. 13(1), 18-23.-->
@@ -368,7 +368,7 @@
             </name>
           </person-group>
           <article-title>Zonificaci&#243;n agroclim&#225;tica en la regi&#243;n de infiernillo.</article-title>
-          <source>Estudio de la biodiversidad en Michoacán.. Ciudad de México: CONABIO</source>
+          <source>Estudio de la biodiversidad en Michoacán. Ciudad de México: CONABIO</source>
           <date>
             <year>2017</year>
           </date>
@@ -440,7 +440,7 @@
     -->
       </ref>
       <ref id="ID567bf827-1441-4040-b869-9c541ae4d13a">
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Comisión Nacional de Áreas Naturales Protegidas (CONANP)</surname>
@@ -448,34 +448,15 @@
             </name>
           </person-group>
           <article-title>Estudio Previo Justificativo para el establecimiento de la Reserva de la Biosfera Zicuir&#225;n Infiernillo</article-title>
-          <source><italic>Secretaría de Medio Ambiente y Recursos Naturales, México, D.F., pp. 181</italic></source>
           <date>
             <year>2006</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name>Secretaría de Medio Ambiente y Recursos Naturales</publisher-name>
+          <publisher-loc>México, D.F: pp. 181</publisher-loc>
         </element-citation>
-        <!--
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>CONANP</surname>
-              <given-names/>
-            </name>
-          </person-group>
-          <source>Estudio Previo Justificativo para el establecimiento de la Reserva de la Biosfera Zicuir&#225;n Infiernillo</source>
-          <date>
-            <year>2006</year>
-          </date>
-          <publisher-loc>M&#233;xico, D. F.</publisher-loc>
-          <publisher-name>Comisi&#243;n Nacional de &#193;reas Naturales Protegidas (CONANP)</publisher-name>
-        </element-citation>
-    -->
       </ref>
       <ref id="ref_update1">
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Comisión Nacional de Áreas Naturales Protegidas (CONANP)</surname>
@@ -483,34 +464,16 @@
             </name>
           </person-group>
           <article-title>Estudio Previo Justificativo para la modificación de la Declaratoria de la Reserva de la Biosfera “Zicuirán - Infiernillo”, en el Estado de Michoacán.</article-title>
-          <source><italic>Secretaría de Medio Ambiente y Recursos Naturales, México, D.F., 46 pp.</italic></source>
           <date>
             <year>2012</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name>Secretaría de Medio Ambiente y Recursos Naturales</publisher-name>
+          <publisher-loc>México, D.F: 46 pp</publisher-loc>
         </element-citation>
-        <!--
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>CONANP</surname>
-              <given-names/>
-            </name>
-          </person-group>
-          <source>Estudio Previo Justificativo para la modificaci&#243;n de la Declaratoria de la Reserva de la Biosfera &#8220;Zicuir&#225;n - Infiernillo&#8221;, en el Estado de Michoac&#225;</source>
-          <date>
-            <year>2012</year>
-          </date>
-          <publisher-loc>M&#233;xico, D.F.</publisher-loc>
-          <publisher-name>Secretar&#237;a de Medio Ambiente y Recursos Naturales</publisher-name>
-        </element-citation>
-    -->
       </ref>
+      <!-- ****
       <ref id="ID60cf1082-8bd1-45a0-aef6-6270157fe675">
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Comisión Nacional de Áreas Naturales Protegidas (CONANP)</surname>
@@ -518,36 +481,102 @@
             </name>
           </person-group>
           <article-title>Programa de Manejo Reserva de la Biosfera Zicuir&#225;n-Infiernillo</article-title>
-          <source><italic>Secretaría de Medio Ambiente y Recursos Naturales, México D.F., 270 pp</italic></source>
           <date>
             <year>2014</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name>Secretaría de Medio Ambiente y Recursos Naturales</publisher-name>
+          <publisher-loc>México D.F: 270pp</publisher-loc>
         </element-citation>
-        <!--
-      	<element-citation publication-type="book">
+      
+      </ref>
+    -->
+      <ref id="ID07585dff-97b2-43db-b377-645168e50ac7">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
-              <surname>Comisi&#243;n Nacional de &#193;reas Naturales Protegidas (CONANP)</surname>
+              <surname>Consejo Nacional de Población (CONAPO)</surname>
               <given-names/>
             </name>
           </person-group>
-          <source>Programa de Manejo Reserva de la Biosfera Zicuir&#225;n-Infiernillo</source>
+          <article-title>&#205;ndices de marginaci&#243;n, 2000</article-title>
           <date>
-            <year>2014</year>
+            <year>2001</year>
           </date>
-          <fpage>270</fpage>
-          <publisher-loc>M&#233;xico, D.F.</publisher-loc>
-          <publisher-name>Secretar&#237;a de Medio Ambiente y Recursos Naturales</publisher-name>
+          <publisher-name></publisher-name>
+          <publisher-loc>México, D.F</publisher-loc>
         </element-citation>
-    -->
+      </ref>
+      <!--Consejo Nacional de Poblaci&#243;n (CONAPO), 2001, &#205;ndices de marginaci&#243;n, 2000 (en l&#237;nea): M&#233;xico, D.F. http://www.conapo.gob.mx/work/models/CONAPO/indices_margina/indices/pdfs/IM2000_docprincipal.pdf (30.08.2016).-->
+      <ref id="IDdb565e74-7e99-4a10-9349-00bccef6757e">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farr</surname>
+              <given-names>T. G.</given-names>
+            </name>
+            <name>
+              <surname>Kobrick</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Shuttle radar topography mission produces a wealth of data</article-title>
+          <source><italic>Eos, Transactions American Geophysical Union</italic></source>
+          <date>
+            <year>2000</year>
+          </date>
+          <volume>81(48)</volume>
+          <issue>48</issue>
+          <fpage>583</fpage>
+          <lpage>585</lpage>
+          <pub-id pub-id-type="doi">10.1029/EO081i048p00583</pub-id>
+        </element-citation>
         <!--
-        <mixed-citation>*Comisi&#243;n Nacional de &#193;reas Naturales Protegidas (CONANP). (2014). Programa de Manejo Reserva de la Biosfera Zicuir&#225;n-Infiernillo. Secretar&#237;a de Medio Ambiente y Recursos Naturales, M&#233;xico D.F., 270 pp.</mixed-citation>
+        <mixed-citation>*Farr, T. G.,  Kobrick, M., 2000, Shuttle radar topography mission produces a wealth of data: <italic>Eos, Transactions American Geophysical Union</italic>, 81(48), 583&#8211;585. https://doi.org/10.1029/EO081i048p00583</mixed-citation>
     -->
       </ref>
+      <ref id="IDbb3e835c-20c7-4978-8753-eb99e46c510e">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoyos</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Garc&#237;a</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Torres</surname>
+              <given-names>I. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Manejo y utilizaci&#243;n de pasturas en suelos &#225;cidos de Colombia</article-title>
+          <source><italic>Fascículo 4 de la serie de capacitación en tecnología de producción de pastos. CIAT, , 120 pp</italic></source>
+          <date>
+            <year>1995</year>
+          </date>
+          <publisher-name>CIAT</publisher-name>
+          <publisher-loc>Colombia: 120 pp</publisher-loc>
+        </element-citation>
+      </ref>
+      <!--Hoyos, P., Garc&#237;a, O., Torres, M.I., 1995, Manejo y utilizaci&#243;n de pasturas en suelos &#225;cidos de Colombia. Fasc&#237;culo 4 de la serie de capacitaci&#243;n en tecnolog&#237;a de producci&#243;n de pastos. CIAT, Colombia, 120 pp.-->
+      <ref id="ID9f0d6ab2-45d0-4163-b0d9-af6fb63adc0c">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Instituto Nacional de Estadística y Geografía (INEGI)</surname>
+              <given-names/>
+            </name>
+          </person-group>
+          <article-title>II Conteo de Población y Vivienda 2005. Principales resultados por localidad 2005. Estados Unidos Mexicanos</article-title>
+          <date>
+            <year>2006</year>
+          </date>
+          <publisher-loc></publisher-loc>
+          <publisher-name></publisher-name>
+        </element-citation>
+      </ref>
+      <!--Instituto Nacional de Estad&#237;stica y Geograf&#237;a (INEGI), 2006, II Conteo de Poblaci&#243;n y Vivienda 2005. Principales resultados por localidad 2005. Estados Unidos Mexicanos.-->
       <ref id="IDb53542bf-aa81-4c7a-9dad-d15dbd1e5ad7">
       	<element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -630,176 +659,8 @@
         <mixed-citation>*Palacio-Prieto, J.L., Bocco, G., Vel&#225;zquez, A., Mas, J.F., Takaki, F., Victoria, A., Luna, L.,  G&#243;mez, G., L&#243;pez, J., Palma, M., Trejo, I., Peralta, A., Prado, J., Rodr&#237;guez,  A., Mayorga, R., Gonz&#225;lez, F., 2000, La condici&#243;n actual de los recursos forestales en M&#233;xico: resultados del Inventario Forestal Nacional 2000: <italic>Investigaciones geogr&#225;ficas</italic>, (43), 183-203.</mixed-citation>
     -->
       </ref>
-      <ref id="ID07585dff-97b2-43db-b377-645168e50ac7">
-      	<element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Consejo Nacional de Población (CONAPO)</surname>
-              <given-names/>
-            </name>
-          </person-group>
-          <article-title>&#205;ndices de marginaci&#243;n, 2000</article-title>
-          <source><italic>México, D.F</italic></source>
-          <date>
-            <year>2001</year>
-          </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
-        </element-citation>
-        <!--
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>CONAPO</surname>
-              <given-names/>
-            </name>
-          </person-group>
-          <source>&#205;ndices de marginaci&#243;n, 2000</source>
-          <date>
-            <year>2001</year>
-          </date>
-          <publisher-loc>M&#233;xico, D. F.</publisher-loc>
-          <publisher-name>Consejo Nacional de Poblaci&#243;n (CONAPO)</publisher-name>
-        </element-citation>
-    -->
-      </ref>
-      <!--Consejo Nacional de Poblaci&#243;n (CONAPO), 2001, &#205;ndices de marginaci&#243;n, 2000 (en l&#237;nea): M&#233;xico, D.F. http://www.conapo.gob.mx/work/models/CONAPO/indices_margina/indices/pdfs/IM2000_docprincipal.pdf (30.08.2016).-->
-      <ref id="IDdb565e74-7e99-4a10-9349-00bccef6757e">
-      	<element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Farr</surname>
-              <given-names>T. G.</given-names>
-            </name>
-            <name>
-              <surname>Kobrick</surname>
-              <given-names>M.</given-names>
-            </name>
-          </person-group>
-          <article-title>Shuttle radar topography mission produces a wealth of data</article-title>
-          <source><italic>Eos, Transactions American Geophysical Union</italic></source>
-          <date>
-            <year>2000</year>
-          </date>
-          <volume>81(48)</volume>
-          <issue>48</issue>
-          <fpage>583</fpage>
-          <lpage>585</lpage>
-          <pub-id pub-id-type="doi">10.1029/EO081i048p00583</pub-id>
-        </element-citation>
-        <!--
-        <mixed-citation>*Farr, T. G.,  Kobrick, M., 2000, Shuttle radar topography mission produces a wealth of data: <italic>Eos, Transactions American Geophysical Union</italic>, 81(48), 583&#8211;585. https://doi.org/10.1029/EO081i048p00583</mixed-citation>
-    -->
-      </ref>
-      <ref id="IDbb3e835c-20c7-4978-8753-eb99e46c510e">
-      	<element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Hoyos</surname>
-              <given-names>P</given-names>
-            </name>
-            <name>
-              <surname>Garc&#237;a</surname>
-              <given-names>O</given-names>
-            </name>
-            <name>
-              <surname>Torres</surname>
-              <given-names>I. M.</given-names>
-            </name>
-          </person-group>
-          <article-title>Manejo y utilizaci&#243;n de pasturas en suelos &#225;cidos de Colombia</article-title>
-          <source><italic>Fascículo 4 de la serie de capacitación en tecnología de producción de pastos. CIAT, Colombia, 120 pp</italic></source>
-          <date>
-            <year>1995</year>
-          </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
-        </element-citation>
-        <!--
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Hoyos</surname>
-              <given-names>P</given-names>
-            </name>
-            <name>
-              <surname>Garc&#237;a</surname>
-              <given-names>O</given-names>
-            </name>
-            <name>
-              <surname>Torres</surname>
-              <given-names>I. M.</given-names>
-            </name>
-          </person-group>
-          <source>Manejo y utilizaci&#243;n de pasturas en suelos &#225;cidos de Colombia</source>
-          <date>
-            <year>1995</year>
-          </date>
-          <publisher-loc>None</publisher-loc>
-          <publisher-name>CIAT</publisher-name>
-        </element-citation>
-    -->
-      </ref>
-      <!--Hoyos, P., Garc&#237;a, O., Torres, M.I., 1995, Manejo y utilizaci&#243;n de pasturas en suelos &#225;cidos de Colombia. Fasc&#237;culo 4 de la serie de capacitaci&#243;n en tecnolog&#237;a de producci&#243;n de pastos. CIAT, Colombia, 120 pp.-->
-      <ref id="ID9f0d6ab2-45d0-4163-b0d9-af6fb63adc0c">
-      	<element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Instituto Nacional de Estadística y Geografía (INEGI)</surname>
-              <given-names/>
-            </name>
-          </person-group>
-          <article-title>Manejo y utilizaci&#243;n de pasturas en suelos &#225;cidos de Colombia</article-title>
-          <source>II Conteo de Población y Vivienda 2005. Principales resultados por localidad 2005. Estados Unidos Mexicanos</source>
-          <date>
-            <year>2006</year>
-          </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
-        </element-citation>
-        <!--
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Instituto Nacional de Estadística y Geografía (INEGI)</surname>
-              <given-names/>
-            </name>
-          </person-group>
-          <source>II Conteo de Poblaci&#243;n y Vivienda 2005: Principales resultados por localidad</source>
-          <date>
-            <year>2006</year>
-          </date>
-          <publisher-loc>Aguascalientes, M&#233;xico</publisher-loc>
-          <publisher-name>Instituto Nacional de Estad&#237;stica y Geograf&#237;a (INEGI)</publisher-name>
-        </element-citation>
-    -->
-      </ref>
-      <!--Instituto Nacional de Estad&#237;stica y Geograf&#237;a (INEGI), 2006, II Conteo de Poblaci&#243;n y Vivienda 2005. Principales resultados por localidad 2005. Estados Unidos Mexicanos.-->
+      
       <ref id="ID195596cc-a8cf-4f38-aa7b-0c513c61e3eb">
-      	<element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Rzedowski</surname>
-              <given-names>J.</given-names>
-            </name>
-          </person-group>
-          <article-title>Vegetaci&#243;n de M&#233;xico</article-title>
-          <source>Editorial Limusa. México. 504 pp</source>
-          <date>
-            <year>1978</year>
-          </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
-        </element-citation>
-        <!--
       	<element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
@@ -807,14 +668,13 @@
               <given-names>J.</given-names>
             </name>
           </person-group>
-          <source>Vegetaci&#243;n de M&#233;xico</source>
+          <article-title>Vegetaci&#243;n de M&#233;xico</article-title>
           <date>
             <year>1978</year>
           </date>
-          <publisher-loc>México, D. F.</publisher-loc>
-          <publisher-name>LIMUSA</publisher-name>
+          <publisher-loc>México, D.F: 504 pp</publisher-loc>
+          <publisher-name>Editorial Limusa</publisher-name>
         </element-citation>
-    -->
         <!--
         <mixed-citation>Rzedowski, J., 1978, Vegetaci&#243;n de M&#233;xico. Editorial Limusa. M&#233;xico. 504 pp.</mixed-citation>
     -->
@@ -828,31 +688,12 @@
             </name>
           </person-group>
           <article-title>Diario oficial de la federaci&#243;n. DOF</article-title>
-          <source>México D.F</source>
           <date>
             <year>2007</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name></publisher-name>
+          <publisher-loc>México D.F</publisher-loc>
         </element-citation>
-        <!--
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Secretaría de Gobernación (SEGOB)</surname>
-              <given-names/>
-            </name>
-          </person-group>
-          <source>Diario oficial de la federaci&#243;n. DOF</source>
-          <date>
-            <year>2007</year>
-          </date>
-          <publisher-loc>None</publisher-loc>
-          <publisher-name>Secretar&#237;a de Gobernaci&#243;n (SEGOB)</publisher-name>
-        </element-citation>
-    -->
       </ref>
       <!--Secretar&#237;a de Gobernaci&#243;n (SEGOB), 2007, Diario oficial de la federaci&#243;n. DOF: 30/11/2007. (en l&#237;nea): M&#233;xico D.F. http://dof.gob.mx/nota_detalle.php?codigo=5008783&fecha=30/11/2007 (30.08.2016).-->
       <ref id="IDef495f53-1795-4b04-9a88-d9e5f83f2af2">
