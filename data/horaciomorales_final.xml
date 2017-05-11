@@ -112,7 +112,7 @@
   <body>
     <sec sec-type="intro">
       <title>Introducción</title>
-      <p>La Geografía Física Compleja analiza al paisaje o geocomplejo como un sistema territorial compuesto por elementos naturales y antropogénicos condicionados socialmente, que modifican las propiedades de los paisajes naturales originales (<xref rid="IDc80a7157-1697-4332-9610-ce47c2b23589" ref-type="bibr" id="IDd49fecaf-f94a-4596-83ee-9be1ec428df5">Mateo, 1984</xref>). Los paisajes (también conocidos como geocomplejos, geosistemas, complejos territoriales naturales o geoecosistemas) son partes de la superficie que se distinguen cualitativamente de las restantes, poseen límites naturales o antroponaturales y tienen una definida integridad cualitativa. Se pueden definir, resumidamente, como sistemas territoriales compuestos por componentes naturales y complejos de diferente rango taxonómico, formados bajo la influencia de los procesos naturales y de la actividad modificadora de la sociedad humana, que se encuentran en permanente interacción y se desarrollan históricamente (<xref rid="IDc80a7157-1697-4332-9610-ce47c2b23589" ref-type="bibr" id="IDd49fecaf-f94a-4596-83ee-9be1ec428df5">Mateo, 1984</xref> y <xref rid="ref11" ref-type="bibr" id="cite1">2007</xref>).</p>
+      <p>La Geografía Física Compleja analiza al paisaje o geocomplejo como un sistema territorial compuesto por elementos naturales y antropogénicos condicionados socialmente, que modifican las propiedades de los paisajes naturales originales (<xref rid="IDc80a7157-1697-4332-9610-ce47c2b23589" ref-type="bibr" id="IDd49fecaf-f94a-4596-83ee-9be1ec428df5">Mateo, 1984</xref>). Los paisajes (también conocidos como geocomplejos, geosistemas, complejos territoriales naturales o geoecosistemas) son partes de la superficie que se distinguen cualitativamente de las restantes, poseen límites naturales o antroponaturales y tienen una definida integridad cualitativa. Se pueden definir, resumidamente, como sistemas territoriales compuestos por componentes naturales y complejos de diferente rango taxonómico, formados bajo la influencia de los procesos naturales y de la actividad modificadora de la sociedad humana, que se encuentran en permanente interacción y se desarrollan históricamente (<xref rid="IDc80a7157-1697-4332-9610-ce47c2b23589" ref-type="bibr" id="IDd49fecaf-f94a-4596-83ee-9be1ec428df5">Mateo, 1984</xref> y <xref rid="ref14" ref-type="bibr" id="cite1">2007</xref>).</p>
 
       <p>El objetivo del presente trabajo es conocer y cartografiar la estructura y composición de los paisajes naturales del estado de Chiapas a escala 1:250 000. Construidos bajo los principios: estructuro-genético e histórico-evolutivo (<xref rid="IDc80a7157-1697-4332-9610-ce47c2b23589" ref-type="bibr" id="IDd49fecaf-f94a-4596-83ee-9be1ec428df5">Mateo, 1984</xref>), los mapas de paisajes tienen relevancia en la planificación territorial debido a que proporcionan un inventario de los recursos naturales y además, establecen una zonificación sólida que permite evaluar al territorio de manera objetiva e integral, con fines socio-económicos.</p>
       <!--
@@ -140,7 +140,7 @@
           <p><xref rid="ref16" ref-type="bibr" id="cite4">Mapa del sistema clasificatorio del relieve de México a escala 1:250 000 (Ortiz, 2000).</xref></p>
         </list-item>
         <list-item>
-          <p>Mapa de climas de la república mexicana a escala 1:1000 000 (García y Comisión Nacional para el Conocimiento  y Uso de la Biodiversidad, 1998), actualizado según los criterios de García† (2004)</p>
+          <p>Mapa de climas de la república mexicana a escala 1:1000 000 <xref rid="ref7" ref-type="bibr" id="cite25">García y Comisión Nacional para el Conocimiento  y Uso de la Biodiversidad, 1998)</xref> , actualizado según los criterios de <xref rid="ref8" ref-type="bibr" id="cite26">García† (2004)</xref> </p>
         </list-item>
         <list-item>
           <p><xref rid="ref11" ref-type="bibr" id="cite5">Conjunto de datos vectoriales edafológicos (Continuo Nacional) serie II, escala 1:250 000 del Instituto Nacional de Estadística y Geografía (2013).</xref></p>
@@ -497,7 +497,7 @@
         </graphic>
       </fig>
     </sec>
-    
+
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -714,8 +714,8 @@
           <publisher-loc> Leipzig, Germany: p.134</publisher-loc>
           <publisher-name>International Training Course in Landscape Ecology, Institute of Geography and Geoecology, Academy of Science, Abstracts of lectures</publisher-name>
         </element-citation>
-      </ref>
-      <ref id="ref10">
+      </ref>      
+      <ref id="ref12">
         <element-citation publication-type="data">
           <person-group person-group-type="author">
             <name>
@@ -723,10 +723,10 @@
               <given-names>Instituto Nacional de Estadística y Geográfica</given-names>
             </name>
           </person-group>
-          <article-title>Conjunto de datos vectoriales de información topográfica digital, por entidad federativa (Chiapas) a escala 1:250 000 serie IV (en línea)</article-title>
+          <article-title>Conjunto de datos vectoriales de uso de suelo y vegetación escala 1:250 000, serie V (en línea)</article-title>
           <source></source>
           <date>
-            <year>2015</year>
+            <year>2013a</year>
           </date>
           <publisher-loc>Aguascalientes, Aguascalientes, México</publisher-loc>
           <publisher-name>INEGI</publisher-name>
@@ -743,13 +743,13 @@
           <article-title>Conjunto de datos vectoriales edafológicos del Continuo Nacional, a escala 1:250 000 serie II (en línea)</article-title>
           <source></source>
           <date>
-            <year>2013</year>
+            <year>2013b</year>
           </date>
           <publisher-loc>Aguascalientes, Aguascalientes, México</publisher-loc>
           <publisher-name>INEGI</publisher-name>
         </element-citation>
       </ref>
-      <ref id="ref12">
+      <ref id="ref10">
         <element-citation publication-type="data">
           <person-group person-group-type="author">
             <name>
@@ -757,10 +757,10 @@
               <given-names>Instituto Nacional de Estadística y Geográfica</given-names>
             </name>
           </person-group>
-          <article-title>Conjunto de datos vectoriales de uso de suelo y vegetación escala 1:250 000, serie V (en línea)</article-title>
+          <article-title>Conjunto de datos vectoriales de información topográfica digital, por entidad federativa (Chiapas) a escala 1:250 000 serie IV (en línea)</article-title>
           <source></source>
           <date>
-            <year>2013</year>
+            <year>2015</year>
           </date>
           <publisher-loc>Aguascalientes, Aguascalientes, México</publisher-loc>
           <publisher-name>INEGI</publisher-name>
@@ -854,33 +854,6 @@
           </date>
           <publisher-loc>México D.F</publisher-loc>
           <publisher-name>Instituto Nacional de Ecología de la Secretaría de Medio Ambiente y Recursos Naturales e Instituto de Geografía de la UNAM</publisher-name>
-        </element-citation>
-      </ref>
-      <ref id="IDe3d93950-b2cf-4aae-9646-ade197b350d8">
-      	<element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Priego-Santander</surname>
-              <given-names>A. G.</given-names>
-            </name>
-            <name>
-              <surname>Morales-Iglesias</surname>
-              <given-names>R. L.</given-names>
-            </name>
-            <name>
-              <surname>Enríquez-Guadarrama</surname>
-              <given-names>C.</given-names>
-            </name>
-          </person-group>
-          <article-title>Paisajes físico-geográficos de la cuenca Lerma-Chapala</article-title>
-          <source>Gaceta Ecológica</source>
-          <date>
-            <year>2004</year>
-          </date>
-          <volume>(71)</volume>
-          <issue>71</issue>
-          <fpage>11</fpage>
-          <lpage>22</lpage>
         </element-citation>
       </ref>
       <ref id="IDacc762ae-2ec0-4c61-b7a9-376532b2a35f">
@@ -980,6 +953,33 @@
           <publisher-name>Centro de Investigaciones en Geografía Ambiental, Instituto de Geografía, Universidad Nacional Autónoma de México, Instituto de Ecología, A.C., Consultora para el Desarrollo Rural y Ordenamiento Ambiental, S.A. de C.V, Universidad Autónoma de Ciudad Juárez, Comisión Nacional para el Conocimiento y Uso de la Biodiversidad,  Universidad Autónoma de San Luís Potosí</publisher-name>
         </element-citation>
       </ref>
+      <ref id="IDe3d93950-b2cf-4aae-9646-ade197b350d8">
+      	<element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Priego-Santander</surname>
+              <given-names>A. G.</given-names>
+            </name>
+            <name>
+              <surname>Morales-Iglesias</surname>
+              <given-names>R. L.</given-names>
+            </name>
+            <name>
+              <surname>Enríquez-Guadarrama</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Paisajes físico-geográficos de la cuenca Lerma-Chapala</article-title>
+          <source>Gaceta Ecológica</source>
+          <date>
+            <year>2004</year>
+          </date>
+          <volume>(71)</volume>
+          <issue>71</issue>
+          <fpage>11</fpage>
+          <lpage>22</lpage>
+        </element-citation>
+      </ref>
       <ref id="ref18">
         <element-citation publication-type="data">
           <person-group person-group-type="author">
@@ -1005,23 +1005,6 @@
           <publisher-name>Centro de Investigaciones en Geografía Ambiental, UNAM</publisher-name>
         </element-citation>
       </ref>
-      <ref id="ref19">
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname></surname>
-              <given-names>Servicio Geológico Mexicano (SGM)</given-names>
-            </name>
-          </person-group>
-          <article-title>Cartas geológico-mineras E15-10, D15-1, E15-11, E15-12, D15-3, D15-2, D15-5, escala 1:250 000</article-title>
-          <source></source>
-          <date>
-            <year>2005</year>
-          </date>
-          <publisher-loc>Pachuca, Hidalgo, México: 7 mapas</publisher-loc>
-          <publisher-name>SGM</publisher-name>
-        </element-citation>
-      </ref>
       <ref id="ref20">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1045,6 +1028,23 @@
           <lpage>8</lpage>
         </element-citation>
       </ref>
+      <ref id="ref19">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname></surname>
+              <given-names>Servicio Geológico Mexicano (SGM)</given-names>
+            </name>
+          </person-group>
+          <article-title>Cartas geológico-mineras E15-10, D15-1, E15-11, E15-12, D15-3, D15-2, D15-5, escala 1:250 000</article-title>
+          <source></source>
+          <date>
+            <year>2005</year>
+          </date>
+          <publisher-loc>Pachuca, Hidalgo, México: 7 mapas</publisher-loc>
+          <publisher-name>SGM</publisher-name>
+        </element-citation>
+      </ref>
       <ref id="ref21">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1060,7 +1060,7 @@
           <article-title> Los estudios de paisaje y su importancia en México, 1970-2010</article-title>
           <source>Journal of Latin American Geography</source>
           <date>
-            <year>1970-2010</year>
+            <year>2011</year>
           </date>
           <volume>10(2)</volume>
           <issue>2</issue>
