@@ -13,10 +13,10 @@
       <article-id pub-id-type="doi">10.22201/igg.terradigitalis.2017.1.3.50</article-id>
       <article-categories>
         <subj-group subj-group-type="display-channel">
-          <subject>Articulo de investigación</subject>
+          <subject>Research article</subject>
         </subj-group>
         <subj-group subj-group-type="heading">
-          <subject>Geografía</subject>
+          <subject>Geography</subject>
         </subj-group>
         <!--<subj-group subj-group-type="heading">
           <subject>Genes and Chromosomes</subject>
@@ -122,10 +122,10 @@
       </sec>
       <sec>
         <title>Fault database </title>
-          <p>The database contains 150 Quaternary faults (<xref ref-type="fig" rid="fig1">Figure 1</xref>) of which 28 are Class A (Holocene), 21 are Class B (possibly-Holocene), and 101 are Class C (Pleistocene). Class A and Class B faults are listed in (<xref ref-type="table" rid="tbl1">Table 1</xref>) and (<xref ref-type="table" rid="tbl2">Table 2</xref>), respectively, together with the principal geologic parameters identified for each of the structures. A total of 25 faults are documented in the Baja California peninsula (<xref ref-type="fig" rid="fig2">Figure 2</xref>), including 19 Holocene (Class A) faults in the northern portion of the peninsula within the VallecitosSan Miguel, Agua Blanca, Cerro Prieto-Imperial, Laguna Salada and Sierra Ju&#225;rez-San Pedro M&#225;rtir fault systems. The other six faults are possibly-Holocenic (Class B) and are located in the southern part of the peninsula. A total of 42 structures are documented in northern Mexico (Figure 3a) in the southern part of the Basin and Range province within the states of Chihuahua, Sonora and Durango. </p>
+          <p>The database contains 150 Quaternary faults (<xref ref-type="fig" rid="plate1">Plate 1</xref>) of which 28 are Class A (Holocene), 21 are Class B (possibly-Holocene), and 101 are Class C (Pleistocene). Class A and Class B faults are listed in (<xref ref-type="table" rid="tbl1">Table 1</xref>) and (<xref ref-type="table" rid="tbl2">Table 2</xref>), respectively, together with the principal geologic parameters identified for each of the structures. A total of 25 faults are documented in the Baja California peninsula (<xref ref-type="fig" rid="fig1">Figure 1</xref>), including 19 Holocene (Class A) faults in the northern portion of the peninsula within the VallecitosSan Miguel, Agua Blanca, Cerro Prieto-Imperial, Laguna Salada and Sierra Ju&#225;rez-San Pedro M&#225;rtir fault systems. The other six faults are possibly-Holocenic (Class B) and are located in the southern part of the peninsula. A total of 42 structures are documented in northern Mexico (<xref ref-type="fig" rid="fig2">Figure 2a</xref>) in the southern part of the Basin and Range province within the states of Chihuahua, Sonora and Durango. </p>
           <p>Four of these have known Holocene faulting (Class A) and one has possible Holocene displacement </p>
 
-          <p>(Class B). The structures consist of normal faults that are distributed within the Bavispe, the Camargo Volcanic Field, the Durango Volcanic Field, and the Northern Chihuahua Margin fault systems. A total of 80 Quaternary structures are documented along the TMVB (<xref ref-type="fig" rid="fig3">Figure 3b</xref>) in central Mexico. </p>
+          <p>(Class B). The structures consist of normal faults that are distributed within the Bavispe, the Camargo Volcanic Field, the Durango Volcanic Field, and the Northern Chihuahua Margin fault systems. A total of 80 Quaternary structures are documented along the TMVB (<xref ref-type="fig" rid="fig2">Figure 2b</xref>) in central Mexico. </p>
         
           <p>Faults are grouped into five geographic regions that include the Acambay-Graben, the Tenango, the Chapala-Tula, the Tepic-Zacoalco, and the Aljibes-Mezquital fault systems. Most of the faults show a preferential E-W orientation except for the Tepic-Zacoalco fault system, which is oriented NW-SE. Holocene (Class A) faults are located in the Acambay Graben and Tenango regions, and the TepicZacoalco and Aljibes-Mezquital fault systems contain several Class B possibly-Holocene faults. Only one fault structure has been documented in southern Mexico: the left-lateral, strike-slip Class B (possibly-Holocenic) Concordia fault in the state of Chiapas. </p>
       </sec>
@@ -815,33 +815,33 @@ rid="TF1"></xref></th>
           </table>
         </table-wrap>
 
-      </sec>
-      <sec>
-      <fig id="fig1" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image1.png" position="float" orientation="portrait" xlink:type="simple">
+        <fig id="fig1" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image2.png" position="float" orientation="portrait" xlink:type="simple">
           <label>Figure 1</label>
           <caption>
-            <p>Figure 1. Quaternary faults included in the GIS database. </p>
+            <p>Figure 1. Fault systems in Baja California. a) Class A faults within the Vallecitos-San Miguel, Agua Blanca, Cerro Prieto-Imperial, Laguna Salada and Sierra Juarez-San Pedro Martir fault systems. Inset shows central portion of Laguna Salada fault system. b) Class B faults in southern Baja California including the Loreto, Carrizal, El Saltito, San Juan de los Planes, La Gata and San Jose del Cabo faults. </p>
           </caption>
         </graphic>
       </fig>
       <fig id="fig2" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image2.png" position="float" orientation="portrait" xlink:type="simple">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image3.png" position="float" orientation="portrait" xlink:type="simple">
           <label>Figure 2</label>
           <caption>
-            <p>Figure 2. Fault systems in Baja California. a) Class A faults within the Vallecitos-San Miguel, Agua Blanca, Cerro Prieto-Imperial, Laguna Salada and Sierra Juarez-San Pedro Martir fault systems. Inset shows central portion of Laguna Salada fault system. b) Class B faults in southern Baja California including the Loreto, Carrizal, El Saltito, San Juan de los Planes, La Gata and San Jose del Cabo faults. </p>
+            <p>Figure 2. a) Northern Mexico fault systems including the Class A faults of Pitaycachi, Teras and Otates near Bavispe, and La Amargosa in northern Chihuahua. b) Fault systems of the TransMexican Volcanic Belt including the Class A faults in the Acambay and Tenango regions. </p>
           </caption>
         </graphic>
       </fig>
-      <fig id="fig1" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image3.png" position="float" orientation="portrait" xlink:type="simple">
-          <label>Figure 3</label>
+      <fig id="plate1" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image1.png" position="float" orientation="portrait" xlink:type="simple">
+          <label>Plate 1</label>
           <caption>
-            <p>Figure 3. a) Northern Mexico fault systems including the Class A faults of Pitaycachi, Teras and Otates near Bavispe, and La Amargosa in northern Chihuahua. b) Fault systems of the TransMexican Volcanic Belt including the Class A faults in the Acambay and Tenango regions. </p>
+            <p>Plate 1. Quaternary faults included in the GIS database. </p>
           </caption>
         </graphic>
       </fig>
-  	</sec>
+
+      </sec>
+  
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -862,7 +862,7 @@ rid="TF1"></xref></th>
   <back>
     <ref-list>
     	<ref>
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Aguirre-Díaz</surname>
@@ -870,14 +870,11 @@ rid="TF1"></xref></th>
             </name>
           </person-group>
           <article-title>The Amealco caldera, Querétaro, Mexico: Geology, geochronology, geochemistry, and comparison with other silicic centers of the Mexican volcanic belt</article-title>
-          <source>Austin, U.S.A., University of Texas, PhD Thesis, </source>
           <date>
             <year>1993</year>
           </date>
-          <volume>401 pp</volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name>University of Texas, PhD Thesis</publisher-name>
+          <publisher-loc>Austin, U.S.A: 401pp</publisher-loc>
         </element-citation>
       </ref>
       <ref>
@@ -1056,10 +1053,10 @@ rid="TF1"></xref></th>
             <year>2015</year>
           </date>
           <source>Centro de Geociencias, Guias de Excursiones Geológicas de México</source>
-          <volume>1, 90 pp</volume>
+          <volume>1</volume>
           <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <fpage>90</fpage>
+          <lpage>90</lpage>
         </element-citation>
         <!-- <mixed-citation>Aranda-G&#243;mez, J. J., Henry, C. D., Ferrari, L., McDowell, F. W. and Valencia-Moreno, M., 2015, La evoluci&#243;n volcanotect&#243;nica del noroeste de M&#233;xico durante el Cenozoico: Una secci&#243;n a lo largo de la autopista MEX 40D a trav&#233;s del campo volc&#225;nico de la Sierra Madre Occidental y datos acerca del magmatismo asociado a la extensi&#243;n en la parte meridional de las provincias tect&#243;nicas de Cuencas y Sierras y del Golfo de California. Centro de Geociencias, Guias de Excursiones Geol&#243;gicas de M&#233;xico, no. 1, 90 pp. http://www.geociencias.unam.mx/geociencias/desarrollo/aranda_etal_gegm01.pdf </mixed-citation> -->
       </ref>
@@ -1143,10 +1140,10 @@ rid="TF1"></xref></th>
             <year>1903</year>
           </date>
           <source>Parergones del Instituto Geologico</source>
-          <volume>1(1), 25 pp</volume>
+          <volume>1(1)</volume>
           <issue>1</issue>
           <fpage>25</fpage>
-          <lpage></lpage>
+          <lpage>25</lpage>
         </element-citation>
         <!-- <mixed-citation>B&#246;se, E., 1903, Informe sobre los temblores de Zanatepec a fines de septiembre de 1902 y sobre el estado actual del volcan de Tacana, Vol. 1, Parergones del Instituto Geologico, 25 pp. </mixed-citation> -->
       </ref>
@@ -1212,7 +1209,7 @@ rid="TF1"></xref></th>
         <!-- <mixed-citation>Bush, M.M., Arrowsmith, J., Umhoefer, P.J., Coyan, J.A., Maloney, S.J., and Mart&#237;nez-Gut&#237;errez, G., 2011, Geometry and evolution of rift-margin, normal-fault&#8211;bounded basins from gravity and geology, La Paz&#8211; Los Cabos region, Baja California Sur, Mexico, Lithosphere 3, pp. 110-127 </mixed-citation> -->
       </ref>
       <ref>
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Cid-Villegas</surname>
@@ -1223,9 +1220,8 @@ rid="TF1"></xref></th>
           <date>
             <year>2015</year>
           </date>
-          <source>Juriquilla, México, Universidad Nacional Autónoma de México, Centro de Geociencias, M.Sc. Thesis</source>
-          <volume>182 pp</volume>
-          <fpage>182</fpage>
+          <publisher-name>Universidad Nacional Autónoma de México, Centro de Geociencias, M.Sc. Thesis</publisher-name>
+          <publisher-loc>Juriquilla, México: 182pp</publisher-loc>
         </element-citation>
         <!-- <mixed-citation>Cid-Villegas, G., 2015, Aplicacion de sistemas de informacion geografica en la documentacion de fallas cuaternarias en Mexico, M.Sc. Thesis, Universidad Nacional Autonoma de Mexico, 182 pp. </mixed-citation> -->
       </ref>
@@ -1275,7 +1271,7 @@ rid="TF1"></xref></th>
         </element-citation>
       </ref>
       <ref id="ID868f96b5-6182-497b-9939-71dece262369">
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Collins</surname>
@@ -1290,13 +1286,13 @@ rid="TF1"></xref></th>
           <date>
             <year>1993</year>
           </date>
-          <source>Technical report to Texas Low-Level Radioactive Waste Disposal Authority under Contract IAC(92-93)-0910,  74 pp</source>
-          <fpage>74</fpage>
+          <publisher-name>Technical report to Texas Low-Level Radioactive Waste Disposal Authority under Contract IAC(92-93)-0910</publisher-name>
+          <publisher-loc>74 pp</publisher-loc>
         </element-citation>
         <!-- <mixed-citation>Collins, E.W. and Raney, J.A., 1993, Late Cenozoic faults of the region surrounding the Eagle Flat study area, northwestern trans-Pecos Texas: Technical report to Texas Low-Level Radioactive Waste Disposal Authority, under Contract IAC(92-93)-0910, 74 pp.</mixed-citation> -->
       </ref>
       <ref>
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Collins</surname>
@@ -1323,10 +1319,8 @@ rid="TF1"></xref></th>
           <date>
             <year>1996</year>
           </date>
-          <source>U.S. Geological Survey, Open-File Report 96-002, 74 pp</source>
-          <volume></volume>
-          <fpage>74</fpage>
-          <lpage></lpage>
+          <publisher-name>Geological Survey, Open-File Report 96-002</publisher-name>
+          <publisher-loc>U.S: 74 pp</publisher-loc>
         </element-citation>
       </ref>
       <ref>
@@ -1547,6 +1541,7 @@ rid="TF1"></xref></th>
           <source>Journal of Geophysical Research</source>
           <volume>107(B10)</volume>
           <fpage>2226</fpage>
+          <lpage>2226</lpage>
           <pub-id pub-id-type="doi">10.1029/2000JB000099</pub-id>
         </element-citation>
       </ref>
@@ -1566,7 +1561,7 @@ rid="TF1"></xref></th>
           <date>
             <year>1995</year>
           </date>
-          <source>Geological Society of America Bulletin</source>
+          <source>Geology</source>
           <volume>23</volume>
           <issue></issue>
           <fpage>751</fpage>
@@ -1790,7 +1785,7 @@ rid="TF1"></xref></th>
           </person-group>
           <article-title>Mapas anuales de sismicidad para la region fronteriza de ambas Californias</article-title>
           <date>
-            <year>1996</year>
+            <year>1998</year>
           </date>
           <source>GEOS Union Geofisica Mexicana</source>
           <volume>18(2)</volume>
@@ -1844,9 +1839,9 @@ rid="TF1"></xref></th>
             <year>1975</year>
           </date>
           <source>Geological Society of America, Memoir</source>
-          <volume>140, p. 170</volume>
-          <fpage></fpage>
-          <lpage></lpage>
+          <volume>140</volume>
+          <fpage>170</fpage>
+          <lpage>170</lpage>
         </element-citation>
         <!-- <mixed-citation>Gastil, R.G., Phillips, R., and Allison, E., 1975, Reconnaissance geology of the state of Baja California, Geological Society of America, Memoir 140, p. 170 </mixed-citation> -->
       </ref>
@@ -1961,9 +1956,9 @@ rid="TF1"></xref></th>
             <year>1984</year>
           </date>
           <source>Geological Society of America Abstracts with Programs</source>
-          <volume>16, p. 530</volume>
+          <volume>16</volume>
           <fpage>530</fpage>
-          <lpage></lpage>
+          <lpage>530</lpage>
         </element-citation>
       </ref>
       <ref>
@@ -2024,7 +2019,7 @@ rid="TF1"></xref></th>
         </element-citation>
       </ref>
       <ref>
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="data">
           <person-group person-group-type="author">
             <name>
               <surname>Henry</surname>
@@ -2043,10 +2038,8 @@ rid="TF1"></xref></th>
           <date>
             <year>1985</year>
           </date>
-          <source>The University of Texas at Austin, Bureau of Economic Geology, Miscellaneous Map 36, 1 sheet</source>
-          <volume></volume>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name>The University of Texas at Austin</publisher-name>
+          <publisher-loc>Bureau of Economic Geology, Miscellaneous Map 36, 1 sheet</publisher-loc>
         </element-citation>
       </ref>
       <ref>
@@ -2084,7 +2077,7 @@ rid="TF1"></xref></th>
         </element-citation>
       </ref>
       <ref id="ID189ab17f-c073-443a-abe4-79a32f6f0777">
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Lacan</surname>
@@ -2119,8 +2112,8 @@ rid="TF1"></xref></th>
           <date>
             <year>2013</year>
           </date>
-          <source>Aachen, Germany, 4 pp</source>
-          <fpage>4</fpage>
+          <publisher-name>Paleoseismology, Active Tectonics and Archeoseismology (PATA)</publisher-name>
+          <publisher-loc>Aachen, Germany: 4 pp</publisher-loc>
         </element-citation>
         <!-- <mixed-citation>Lacan, P., Ortu&#241;o, M., Pera, H., Baize, H., Audin, L., Aguirre, G. and Z&#250;&#241;iga, F.R., 2013, Upper Pleistocene to Holocene earthquakes recorded at the western termination of the Venta de Bravo Fault System, Acambay Graben (Central Mexico), In 4th International INQUA Meeting on Paleoseismology, Active Tectonics and Archeoseismology (PATA), Aachen, Germany, 4 pp. </mixed-citation> -->
       </ref>
@@ -2240,8 +2233,8 @@ rid="TF1"></xref></th>
           <date>
             <year>2009</year>
           </date>
-          <source>Flagstaff, Arizona USA, Northern Arizona University, M.Sc. thesis, 196 pp</source>
-          <fpage></fpage>
+          <publisher-name>M.Sc. thesis, Northern Arizona University</publisher-name>
+          <publisher-loc>Flagstaff, Arizona USA: 196 pp</publisher-loc>
         </element-citation>
         <!-- <mixed-citation>Maloney, S. J., 2009, Late Quaternary faulting history of the Northern El Carrizal Fault, Baja California Sur, Mexico, M.Sc. thesis, Northern Arizona University, 208 pp. </mixed-citation> -->
       </ref>
@@ -2378,12 +2371,12 @@ rid="TF1"></xref></th>
               <given-names>D.</given-names>
             </name>
           </person-group>
-          <article-title>Study of the Concordia fault system near Jeric&#243;, Chiapas, M&#233;xico, M. Sc. Thesis</article-title>
+          <article-title>Study of the Concordia fault system near Jeric&#243;, Chiapas, M&#233;xico</article-title>
           <date>
             <year>1983</year>
           </date>
-          <source>University of Texas - Arlington, M.Sc. Thesis, 148 pp</source>
-          <fpage>148</fpage>
+          <publisher-name>M. Sc. Thesis</publisher-name>
+          <publisher-loc>University of Texas - Arlington: 148 pp</publisher-loc>
         </element-citation>
         <!-- <mixed-citation>Movarec, D., 1983, Study of the Concordia fault system near Jeric&#243;, Chiapas, M&#233;xico, M. Sc. Thesis, University of Texas - Arlington, 148 pp. </mixed-citation> -->
       </ref>
@@ -2434,7 +2427,7 @@ rid="TF1"></xref></th>
         </element-citation>
       </ref>
       <ref>
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Nakata</surname>
@@ -2453,11 +2446,8 @@ rid="TF1"></xref></th>
           <date>
             <year>1982</year>
           </date>
-          <source>U.S. Geological Survey, Open-File Report 82-579</source>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name>Geological Survey, Open-File Report</publisher-name>
+          <publisher-loc>U.S: 82-579 </publisher-loc>
         </element-citation>
       </ref>
       <ref>
@@ -2540,13 +2530,14 @@ rid="TF1"></xref></th>
           </date>
           <source>Tectonics</source>
           <volume>25</volume>
-          <fpage>21</fpage>
+          <fpage>4012</fpage>
+          <lpage>4012</lpage>
           <pub-id pub-id-type="doi">10.1029/2005TC001877</pub-id>
         </element-citation>
         <!-- <mixed-citation>Norini, G., Groppelli, G., Lagmay, A. M. F., and Capra, L., 2006, Recent left-oblique slip faulting in the central eastern Trans-Mexican Volcanic Belt: Seismic hazard and geodynamic implications, Tectonics 25, TC 4012, pp. 21 </mixed-citation> -->
       </ref>
       <ref>
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="thesis">
           <person-group person-group-type="author">
             <name>
               <surname>Noyola-Medrano</surname>
@@ -2557,9 +2548,8 @@ rid="TF1"></xref></th>
           <date>
             <year>1995</year>
           </date>
-          <source>San Luis Potosí, México, Universidad Autónoma de San Luis Potosí, Facultad de Ingeniería, B.Sc Thesis, 99 pp</source>
-          <volume></volume>
-          <fpage></fpage>
+          <publisher-name>B.Sc Thesis, Universidad Autónoma de San Luis Potosí, Facultad de Ingeniería</publisher-name>
+          <publisher-loc>San Luis Potosí, México: 99 pp</publisher-loc>
           <!--<pub-id pub-id-type="doi">10.1029/2005TC001877</pub-id>-->
         </element-citation>
       </ref>
@@ -2745,7 +2735,7 @@ rid="TF1"></xref></th>
         <!-- <mixed-citation>Pacheco, J.F., Mortera-Guti&#233;rrez, C.A., Delgado, H., Singh, S.K., Valenzuela, R.W., Shapiro, N.M., Santoyo, M.A., Hurtado, A., Barr&#243;n, R., and Guti&#233;rez-Moguel, E., 1999, Tectonic significance of an earthquake sequence in the Zacoalco half-graben, Jalisco, Mexico, Journal of South American Earth Sciences 12, pp. 557-565. </mixed-citation> -->
       </ref>
       <ref>
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="data">
           <person-group person-group-type="author">
             <name>
               <surname>Pasquaré</surname>
@@ -2772,10 +2762,8 @@ rid="TF1"></xref></th>
           <date>
             <year>1991</year>
           </date>
-          <source>Geological Society of America, Map and Chart Series MCH072, 21 pp</source>
-          <volume></volume>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name>Geological Society of America, Map and Chart Series MCH072</publisher-name>
+          <publisher-loc>21 pp</publisher-loc>
         </element-citation>
       </ref>
       <ref>
@@ -2860,8 +2848,8 @@ rid="TF1"></xref></th>
           <date>
             <year>1987</year>
           </date>
-          <source>U.S. Geological Survey Final Technical Report for contract No. 14-08-0001-22012, 122 pp</source>
-          <fpage>122</fpage>
+          <publisher-name>Geological Survey Final Technical Report for contract No. 14-08-0001-22012</publisher-name>
+          <publisher-loc>U.S. , 122 pp</publisher-loc>
         </element-citation>
         <!-- <mixed-citation>Rockwell, K. T., Hatch, E.M., and Schug, L.D., 1987, Late Quaternary rates Agua Blanca and borderland faults, Final Technical Report USGS, contract No. 14-08-0001-22012, 122 pp. </mixed-citation> -->
       </ref>
@@ -2921,7 +2909,7 @@ rid="TF1"></xref></th>
         <!-- <mixed-citation>Rosas-Elguera, J., Ferrari, L., Gardu&#241;o, V.H, and Urrutia-Fucugauchi, J.,1996, Continental boundaries of the Jalisco block and the their influence in the Pliocene-Quaternary kinematics of western Mexico, Geology 24, no. 10, pp. 921-924. </mixed-citation> -->
       </ref>
       <ref>
-      	<element-citation publication-type="journal">
+      	<element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Seager</surname>
@@ -2936,10 +2924,8 @@ rid="TF1"></xref></th>
           <date>
             <year>1994</year>
           </date>
-          <source>New Mexico Bureau of Mines and Mineral Resources, Bulletin 113, 32 pp</source>
-          <volume></volume>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-name>New Mexico Bureau of Mines and Mineral Resources, Bulletin 113</publisher-name>
+          <publisher-loc>32 pp</publisher-loc>
         </element-citation>
       </ref>
       <ref>
@@ -2956,7 +2942,7 @@ rid="TF1"></xref></th>
           </person-group>
           <article-title>San Miguel, Baja California Norte earthquakes of February 1956</article-title>
           <date>
-            <year>1958</year>
+            <year>1956</year>
           </date>
           <source>Bulletin of the Seismological Society of America</source>
           <volume>48(2)</volume>
@@ -3269,7 +3255,7 @@ rid="TF1"></xref></th>
           </person-group>
           <article-title>The Acambay graben&#8212;Active intraarc extension in the Trans-Mexican volcanic belt, Mexico</article-title>
           <date>
-            <year>1995</year>
+            <year>1995a</year>
           </date>
           <source>Tectonics</source>
           <volume>14(6)</volume>
