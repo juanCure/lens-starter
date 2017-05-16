@@ -20,7 +20,7 @@
                 </subj-group>
             </article-categories>
       <title-group>
-        <article-title>Conservación e  intensidad de uso de la tierra en la reserva de la biósfera Zicuirán-Infiernillo, Michoacán</article-title>
+        <article-title>Conservación e  intensidad de uso de la tierra en la reserva de la biósfera Zicuirán-Infiernillo, Michoacán / Preservation and intensity of land-use in the biosphere reserve of Zicuiran-Infiernillo, Michoacan</article-title>
       </title-group>
       <contrib-group>
                 <contrib contrib-type="author">
@@ -164,9 +164,10 @@
       <!-- Esta tabla la tuve que modificar manualmente para corregirla, 
       Ya que la generada por meTypeset no era del todo correcta -->
       <table-wrap specific-use="rules" id="ID162bb51c-7d37-4951-96c0-8e6129bc5e88" position="float" orientation="portrait">
-        <label>Tabla 1</label>
+        <label>Tabla 1 / Table 1</label>
         <caption>
-          <p>Zonas al interior de la Reserva de la Bi&#243;sfera Zicuir&#225;n Infiernillo con su intensidad de uso</p>
+          <p><bold>Tabla 1:</bold> Zonas al interior de la Reserva de la Biósfera Zicuirán Infiernillo con su intensidad de uso</p>
+          <p><bold>Table 1:</bold> Land use intensity of the zones inside the Biosphere Reserve Zicuirán-Infiernillo</p>
         </caption>
         <table>
         	<thead>
