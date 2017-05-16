@@ -20,7 +20,7 @@
         </subj-group>
       </article-categories>
       <title-group>
-        <article-title>Cumulated subsidence maps of Mexico city</article-title>
+        <article-title>Cumulated subsidence maps of Mexico city / Mapas de la subsidencia acumulada en la Ciudad de México</article-title>
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
@@ -185,17 +185,19 @@
 
         <fig id="fig1" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/penelope/figura1_penelope.png" position="float" orientation="portrait" xlink:type="simple">
-          <label>Plate 1</label>
+          <label>Plate 1 / Figura 1</label>
           <caption>
-            <p> Cumulated subsidence map for date 20070316, i.e. total cumulated subsidence for the time span between 20021122 and 20070316 (4.3 years). Cumulated subsidence areas showing negative and zero magnitudes are represented by color gray. The color scale repeats every 0.5 m. Each color contour represent an  area with the same cumulated subsidence. Maximum cumulated subsidence occurs in the Nezahualcoyotl (1.66m) and Tlahuac (1.33m) zones, represented with red triangles N y T, respectively.</p>
+            <p><bold>Plate 1:</bold> Cumulated subsidence map for date 20070316, i.e. total cumulated subsidence for the time span between 20021122 and 20070316 (4.3 years). Cumulated subsidence areas showing negative and zero magnitudes are represented by color gray. The color scale repeats every 0.5 m. Each color contour represent an  area with the same cumulated subsidence. Maximum cumulated subsidence occurs in the Nezahualcoyotl (1.66m) and Tlahuac (1.33m) zones, represented with red triangles N y T, respectively.</p>
+            <p><bold>Lámina 1:</bold> Mapa de la subsidencia acumulada para la fecha 20070316, esto es, subsidencia total acumulada en el periodo comprendido entre 20021122 y 20070316 (4 años con 4 meses). Las áreas con subsidencia acumulada negativa o igual a cero están representadas con el color gris. La escala de color se repite cada 0.5 m. Cada curva o contorno de color, representa un área con la misma subsidencia acumulada (curva de isodeformación). La máxima subsidencia acumulada ocurre en las zonas de Nezahualcóyotl (1.66 m) y Tláhuac (1.33 m), representadas con los triángulos rojos N y T, respectivamente</p>
           </caption>
         </graphic>
       </fig>
 
       <table-wrap id="tbl1" position="float">
-      <label>Table 1. Cumulated subsidence raster dates</label>
+      <label>Table 1 / Tabla 1</label>
       <caption>
-      <p>Dates of the 38 processed images, also labeling the obtained 38 cumulated subsidence matrices. The first date, 20021122 (yyyymmdd), represents the reference date, thus its cumulated deformation equals zero all over the matrix.</p>
+        <p><bold>Table 1:</bold> Dates of the 38 processed images, also labeling the 38 cumulated subsidence rasters. The first date, 20021122 (yyyymmdd), represents the reference date, thus its cumulated deformation equals zero all over the raster.</p>
+        <p><bold>Tabla 1:</bold> Fechas de las 38 imágenes procesadas, las cuales etiquetan los 38 rasters de subsidencia acumulada. La primera fecha, 20021122 (aaaammdd), representa la fecha de referencia, por lo que su deformación acumulada es cero en todo el ráster</p>
       </caption>
       <table frame="box" rules="all" border="1" cellpadding="5">
         <thead>
