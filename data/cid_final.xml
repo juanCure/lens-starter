@@ -23,7 +23,7 @@
         </subj-group>-->
       </article-categories>
       <title-group>
-        <article-title>Mexico Quaternary Fault Database</article-title>
+        <article-title>Mexico Quaternary Fault Database / Base de datos de fallas cuaternarias de México</article-title>
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
@@ -142,9 +142,11 @@
           <p>This work is based on an unpublished collection of Quaternary faults compiled as part of the International Lithosphere Program Task Group II-2 with the participation of M. Suter, J. Aranda-Gomez, J. Perez-Venzor, F. Ortega-Gutierrez, J. Roldan-Quintana, E. Centeno-Garcia, T. Calmus, W. Bandy, H. Delgado-Granados, O. Quintero-Legorreta, M. Machette, P. Pearthree, L. Mayer, K. Mueller, D. Schug, M. Hatch, R. Dart, and L. Bradley. Additional information on known geologic structures was provided by K. Haller, R. Zuñiga, J. M. Gomez, and M. Guzman. We also benefitted from fruitful discussions with P. Lacan and M. Ortuño. Suggestions by A. Nieto guided the configuration of the database, and valuable comments were provided by C. Gonzalez and an anonymous reviewer. We also thank P. Lopez and J. Carrera for their assistance in the selection and implementation of the GIS software. Support for this work was provided by graduate-study grants from CONACYT and from UNAM PAPIIT Project IN104013.</p>
 
           <table-wrap id="tbl1" position="float">
-          <label>Table 1. Class A (Holocene) Faults</label>
+          <label>Table 1 / Tabla 1</label>
           <caption>
-          <p>Principal References: 1 Cruz-Castillo, 2002; 2 Fletcher et al., 2014; 3 Diaz-Torres et al., 2012;  4 Suter y Contreras, 2002; 5 Collins y Raney, 1993; 6 Langridge et al., 2013; 7 Ortuño et al., 2012; 8 Langridge et al., 2000; 9 Suter et al., 1992; 10 Sunye-Puchol et al., 2015; 11 Norini et al., 2006 </p>
+            <p><bold>Table 1: </bold>Class A (Holocene) Faults</p>
+            <p><bold>Tabla 1: </bold> Fallas Clase A (Holoceno)</p>
+            <p>Principal References: 1 Cruz-Castillo, 2002; 2 Fletcher et al., 2014; 3 Diaz-Torres et al., 2012;  4 Suter y Contreras, 2002; 5 Collins y Raney, 1993; 6 Langridge et al., 2013; 7 Ortuño et al., 2012; 8 Langridge et al., 2000; 9 Suter et al., 1992; 10 Sunye-Puchol et al., 2015; 11 Norini et al., 2006 </p>
           </caption>
           <table frame="box" rules="all" border="1">
           	<thead>
@@ -450,9 +452,11 @@ rid="TF1"></xref></th>
       </table-wrap>
 
       <table-wrap id="tbl2" position="float" orientation="portrait">
-          <label>Table 2. Class B (possibly-Holocene) Faults</label>
+          <label>Table 2 / Tabla 2</label>
           <caption>
-          <p> Principal References: 1 Coyan et al., 2013; 2 Dorsey et al., 1994; 3 Maloney, 2009; 4 Collins y Raney, 1993; 5 Pacheco et al., 1999; 6 Nuñez-Cornu et al., 2002;  7 Moore et al., 1994; 8 Suter et al., 1995b; 9 Guzman-Speziale, 2010  </p>
+            <p><bold>Table 2: </bold> Class B (possibly-Holocene) Faults</p>
+            <p><bold>Tabla 2: </bold> Fallas Clase B (posiblemente Holoceno)</p>
+            <p> Principal References: 1 Coyan et al., 2013; 2 Dorsey et al., 1994; 3 Maloney, 2009; 4 Collins y Raney, 1993; 5 Pacheco et al., 1999; 6 Nuñez-Cornu et al., 2002;  7 Moore et al., 1994; 8 Suter et al., 1995b; 9 Guzman-Speziale, 2010  </p>
           </caption>
           <table frame="box" rules="all" borer="1">
           	<thead>
@@ -817,29 +821,31 @@ rid="TF1"></xref></th>
 
         <fig id="fig1" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image2.png" position="float" orientation="portrait" xlink:type="simple">
-          <label>Figure 1</label>
+          <label>Figure 1 / Figura 1</label>
           <caption>
-            <p>Figure 1. Fault systems in Baja California. a) Class A faults within the Vallecitos-San Miguel, Agua Blanca, Cerro Prieto-Imperial, Laguna Salada and Sierra Juarez-San Pedro Martir fault systems. Inset shows central portion of Laguna Salada fault system. b) Class B faults in southern Baja California including the Loreto, Carrizal, El Saltito, San Juan de los Planes, La Gata and San Jose del Cabo faults. </p>
+            <p><bold>Figure 1: </bold> Fault systems in Baja California. a) Class A faults within the Vallecitos-San Miguel, Agua Blanca, Cerro Prieto-Imperial, Laguna Salada and Sierra Juarez-San Pedro Martir fault systems. Inset shows central portion of Laguna Salada fault system. b) Class B faults in southern Baja California including the Loreto, Carrizal, El Saltito, San Juan de los Planes, La Gata and San Jose del Cabo faults. </p>
+            <p><bold>Figura 1: </bold> Sistemas de falla en la península de Baja California. a) Fallas Tipo A de los sistemas de falla Vallecitos-San Miguel, Agua Blanca, Cerro Prieto-Imperial, Laguna Salada y Sierra Juárez-San Pedro Mártir. El recuadro muestra la parte central del sistema de fallas de Laguna Salada. b) Fallas Tipo B en el sur de Baja California incluyendo las fallas Loreto, Carrizal, El Saltito, San Juan de los Planes, La Gata y San José del Cabo. Las estrellas muestran sismos corticales posiblemente asociados a fallas cuaternarias.</p>
           </caption>
         </graphic>
       </fig>
       <fig id="fig2" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image3.png" position="float" orientation="portrait" xlink:type="simple">
-          <label>Figure 2</label>
+          <label>Figure 2 / Figura 2</label>
           <caption>
-            <p>Figure 2. a) Northern Mexico fault systems including the Class A faults of Pitaycachi, Teras and Otates near Bavispe, and La Amargosa in northern Chihuahua. b) Fault systems of the TransMexican Volcanic Belt including the Class A faults in the Acambay and Tenango regions. </p>
+            <p><bold>Figure 2.</bold>  a) Northern Mexico fault systems including the Class A faults of Pitaycachi, Teras and Otates near Bavispe, and La Amargosa in northern Chihuahua. b) Fault systems of the TransMexican Volcanic Belt including the Class A faults in the Acambay and Tenango regions. </p>
+            <p><bold>Figura 2.</bold> a) Sistemas de falla en el norte de México incluyendo las fallas Tipo A de Pitaycachi, Teras y Otates en Bavispe, y La Amargosa, en el norte de Chihuahua. b) Sistemas de falla de la Faja Volcanica TransMexicana incluyendo las fallas Tipo A en las zonas de Acambay y Tenango. Las estrellas muestran sismos corticales posiblemente asociados a fallas cuaternarias.</p>
           </caption>
         </graphic>
       </fig>
       <fig id="plate1" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/cid/image1.png" position="float" orientation="portrait" xlink:type="simple">
-          <label>Plate 1</label>
+          <label>Plate 1 / Lámina</label>
           <caption>
-            <p>Plate 1. Quaternary faults included in the GIS database. </p>
+            <p><bold>Plate 1. </bold> Quaternary faults included in the GIS database. </p>
+            <p><bold>Lámina 1. </bold> Fallas cuaternarias incluídas en la base de datos del Sistema de Información Geográfica.</p>
           </caption>
         </graphic>
       </fig>
-
       </sec>
   
     <sec sec-type="supplementary-material">
