@@ -23,7 +23,7 @@
         </subj-group>-->
       </article-categories>
       <title-group>
-        <article-title>Visualización multi-escala de aciertos y errores de un mapa de usos de suelo: el caso de la cuenca del lago de Cuitzeo Michoacán, México</article-title>
+        <article-title>Visualización multi-escala de aciertos y errores de un mapa de usos de suelo: el caso de la cuenca del lago de Cuitzeo Michoacán, México / A multi-scale visualization of accuracies and inaccuracies of a land use map: the case of the Cuitzeo lake basin, Michoacan, Mexico.</article-title>
       </title-group>
       <contrib-group>
         <contrib contrib-type="author" corresp="yes">
@@ -258,13 +258,11 @@
       <p>La información de mayor valor agregado derivada de la investigación, la constituyen datos espaciales en formato vectorial (polígonos y puntos). La información está contenida en un sistema de información geográfica (QGIS, versión 2.14.3) con las siguientes características (ver <xref ref-type="table" rid="tbl1">Tabla 1</xref>): </p>
 
       <table-wrap id="tbl1" position="float">
-      <label>Tabla 1. Datos espaciales</label>
-      <!--
+      <label>Tabla 1 / Table 1</label>
       <caption>
-      <title> </title>
-      <p></p>
+        <p><bold>Tabla 1:</bold> Datos espaciales</p>
+        <p><bold>Table 1:</bold>  Spatial data</p>
       </caption>
-      -->
       <table frame="box" rules="all" border="1">
         <thead>
           <tr><th rowspan="1" colspan="2" align="center">Información de los datos espaciales</th></tr>
@@ -322,9 +320,10 @@
 
       <fig id="fig1" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/couturier/image01.png" position="float" orientation="portrait" xlink:type="simple">
-          <label>Lámina 1</label>
+          <label>Lámina 1 / Plate 1</label>
           <caption>
-            <p>Visualización multi-escala de aciertos y errores de un mapa de usos de suelo: El caso de la cuenca del lago de Cuitzeo, Michoacán, México.</p>
+            <p><bold>Lámina 1: </bold> Visualización multi-escala de aciertos y errores de un mapa de usos de suelo: El caso de la cuenca del lago de Cuitzeo, Michoacán, México.</p>
+            <p><bold>Plate 1: </bold> Multi-scale visualization of correct and erroneous verification points of the landuse map of the Cuitzeo lake watershed in Michoacan, Mexico.</p>
           </caption>
         </graphic>
       </fig>
