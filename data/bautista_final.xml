@@ -23,43 +23,43 @@
         <article-title>Conservación e  intensidad de uso de la tierra en la reserva de la biósfera Zicuirán-Infiernillo, Michoacán / Preservation and intensity of land-use in the biosphere reserve of Zicuiran-Infiernillo, Michoacan</article-title>
       </title-group>
       <contrib-group>
-                <contrib contrib-type="author">
-                    <name>
-                        <surname>Ihl</surname>
-                        <given-names>Thomas</given-names>
-                    </name>
-                    <xref ref-type="aff" rid="thomas"/>
-                </contrib>
-                <contrib contrib-type="author">
-                    <name>
-                        <surname>Bautista</surname>
-                        <given-names>Francisco</given-names>
-                    </name>
-                    <xref ref-type="aff" rid="bautista"/>
-                    <xref ref-type="corresp" rid="cor1">*</xref>
-                </contrib>
-                <contrib contrib-type="author">
-                    <name>
-                        <surname>Mendoza</surname>
-                        <given-names>Manuel</given-names>
-                    </name>
-                    <xref ref-type="aff" rid="mendoza"/>
-                </contrib>
-                <aff id="thomas">
-                    <institution>Universidad Marrin Lutero Halle-Wittenberg, Departamento de Ciencias de la Tierra y Geogrofia, Alemania</institution>
-                </aff>
-                <aff id="bautista">
-                    <institution>Centro de Jnvestigaciones  en Geografia Ambiental,  Universidad Nacional Autonoma de Mexico, México</institution>
-                </aff>
-                <aff id="mendoza">
-                    <institution>Centro de Jnvestigaciones  en Geografia Ambiental,  Universidad Nacional Autonoma de Mexico, México</institution>
-                </aff>
-            </contrib-group>
-            <author-notes>
-            <corresp id="cor1">
-              <email>leptosol@ciga.unam.mx</email>;
-            </corresp>
-          </author-notes>
+        <contrib contrib-type="author">
+            <name>
+                <surname>Ihl</surname>
+                <given-names>Thomas</given-names>
+            </name>
+            <xref ref-type="aff" rid="thomas"/>
+        </contrib>
+        <contrib contrib-type="author">
+            <name>
+                <surname>Bautista</surname>
+                <given-names>Francisco</given-names>
+            </name>
+            <xref ref-type="aff" rid="bautista"/>
+            <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+            <name>
+                <surname>Mendoza</surname>
+                <given-names>Manuel</given-names>
+            </name>
+            <xref ref-type="aff" rid="mendoza"/>
+        </contrib>
+        <aff id="thomas">
+            <institution>Universidad Marrin Lutero Halle-Wittenberg, Departamento de Ciencias de la Tierra y Geogrofia, Alemania</institution>
+        </aff>
+        <aff id="bautista">
+            <institution>Centro de Jnvestigaciones  en Geografia Ambiental,  Universidad Nacional Autonoma de Mexico, México</institution>
+        </aff>
+        <aff id="mendoza">
+            <institution>Centro de Jnvestigaciones  en Geografia Ambiental,  Universidad Nacional Autonoma de Mexico, México</institution>
+        </aff>
+    </contrib-group>
+    <author-notes>
+    <corresp id="cor1">
+      <email>leptosol@ciga.unam.mx</email>;
+    </corresp>
+  </author-notes>
       <pub-date date-type="pub" publication-format="electronic">
         <day>04</day>
         <month>04</month>
