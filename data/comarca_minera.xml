@@ -669,14 +669,14 @@
         <!-- <mixed-citation>Carcavilla, L., L&#243;pez-Mart&#237;nez, J., Dur&#225;n, J.J., 2007, Patrimonio geol&#243;gico y geodiversidad: investigaci&#243;n, conservaci&#243;n, gesti&#243;n y relaci&#243;n con los espacios naturales protegidos: Instituto Geol&#243;gico y Minero de Espa&#241;a, Serie Cuadernos del Museo Geominero, n&#186; 7, Madrid, 360 pp.</mixed-citation> -->
       </ref>
       <ref id="ID83050223-36fd-4a74-934c-b0685d2c8f70">
-        <element-citation publication-type="book">
+        <element-citation publication-type="book" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
           <person-group person-group-type="author">
             <name>
               <surname>Colorado Geological Survey (CGS)</surname>
               <given-names/>
             </name>
           </person-group>
-          <article-title>Geologic Mapping (en línea)</article-title>
+          <article-title>Geologic Mapping (en línea), disponible en <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping/" ext-link-type="uri" xlink:type="simple">http://coloradogeologicalsurvey.org/geologic-mapping/</ext-link>, consultado en diciembre de 2016.</article-title>
           <date>
             <year>2016</year>
           </date>
@@ -693,7 +693,7 @@
               <given-names/>
             </name>
           </person-group>
-          <article-title>Reservas de la Biosfera (en l&#237;nea)</article-title>
+          <article-title>Reservas de la Biosfera (en l&#237;nea), disponible en  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.conanp.gob.mx/que_hacemos/reservas_biosfera.php" ext-link-type="uri" xlink:type="simple">http://www.conanp.gob.mx/que_hacemos/reservas_biosfera.php</ext-link>, consultado en diciembre de 2016</article-title>
           <date>
             <year>2010</year>
           </date>
@@ -710,7 +710,7 @@
               <given-names/>
             </name>
           </person-group>
-          <article-title>Parques Nacionales (en l&#237;nea)</article-title>
+          <article-title>Parques Nacionales (en l&#237;nea), disponible en  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.conanp.gob.mx/que_hacemos/parques_nacionales.php" ext-link-type="uri" xlink:type="simple">http://www.conanp.gob.mx/que_hacemos/parques_nacionales.php</ext-link>, consultado en diciembre de 2016</article-title>
           <date>
             <year>2012</year>
           </date>
@@ -983,7 +983,7 @@
               <given-names/>
             </name>
           </person-group>
-          <article-title>Global Geoparks Network (en l&#237;nea)</article-title>
+          <article-title>Global Geoparks Network (en l&#237;nea), disponible en  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.globalgeopark.org" ext-link-type="uri" xlink:type="simple">http://www.globalgeopark.org</ext-link>, consultado en mayo de 2017</article-title>
           <date>
             <year>2017</year>
           </date>
@@ -1116,7 +1116,7 @@
               <given-names/>
             </name>
           </person-group>
-          <article-title>Inventario Espa&#241;ol de Lugares de Inter&#233;s Geol&#243;gico (IELIG)</article-title>
+          <article-title>Inventario Espa&#241;ol de Lugares de Inter&#233;s Geol&#243;gico (IELIG) (en l&#237;nea), disponible en  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://info.igme.es/ielig" ext-link-type="uri" xlink:type="simple">http://info.igme.es/ielig</ext-link>, consultado en diciembre de 2016</article-title>
           <date>
             <year>2016</year>
           </date>
@@ -1133,7 +1133,7 @@
               <given-names/>
             </name>
           </person-group>
-          <article-title>Cartograf&#237;a del IGME, (en l&#237;nea)</article-title>
+          <article-title>Cartograf&#237;a del IGME (en l&#237;nea), disponible en  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://info.igme.es/cartografiadigital" ext-link-type="uri" xlink:type="simple">http://info.igme.es/cartografiadigital</ext-link>, consultado en diciembre de 2016</article-title>
           <date>
             <year>2016</year>
           </date>
@@ -1183,7 +1183,7 @@
               <given-names/>
             </name>
           </person-group>
-          <article-title>IUGS - Geoheritage Task Group (GTG)</article-title>
+          <article-title>IUGS - Geoheritage Task Group (GTG) (en l&#237;nea), disponible en  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://geoheritage-iugs.mnhn.fr/" ext-link-type="uri" xlink:type="simple">http://geoheritage-iugs.mnhn.fr</ext-link>, consultado en diciembre de 2016</article-title>
           <date>
             <year>2016</year>
           </date>
@@ -1463,7 +1463,7 @@
               <given-names/>
             </name>
           </person-group>
-          <article-title>T&#228;vlingen Geologiskt Arv (Concurso de Patrimonio Geol&#243;gico, en sueco)</article-title>
+          <article-title>T&#228;vlingen Geologiskt Arv (Concurso de Patrimonio Geol&#243;gico, en sueco) (en l&#237;nea), disponible en  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sgu.se/evenemang/genomforda-evenemang/tavlingen-geologiskt-arv" ext-link-type="uri" xlink:type="simple">http://www.sgu.se/evenemang/genomforda-evenemang/tavlingen-geologiskt-arv</ext-link>, consultado en diciembre de 2016</article-title>
           <date>
             <year>2016</year>
           </date>
@@ -1516,7 +1516,7 @@
               <given-names/>
             </name>
           </person-group>
-          <article-title>UNESCO Global Geoparks</article-title>
+          <article-title>UNESCO Global Geoparks (en l&#237;nea),  disponible en <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.unesco.org/new/en/natural-sciences/environment/earth-sciences/unesco-global-geoparks">http://www.unesco.org/new/en/natural-sciences/environment/earth-sciences/unesco-global-geoparks</ext-link>, consultado en mayo de 2017</article-title>
           <date>
             <year>2017</year>
           </date>
