@@ -51,3 +51,9 @@
 .breadcrumbs {
     min-height: 60px;
 }
+
+/* Justificando el texto del panel izquierdo el que contiene el texto del artículo */
+
+.surface.content .nodes > .content-node {
+    text-align: justify;
+}
