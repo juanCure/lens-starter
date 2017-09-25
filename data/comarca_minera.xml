@@ -103,16 +103,16 @@
           <xref ref-type="aff" rid="aff4"/>
         </contrib>
         <aff id="aff1">
-          <institution>Instituto de Geofísica, Universidad Nacional Autónoma de México</institution>
+          <institution>Instituto de Geofísica, Universidad Nacional Autónoma de México, Del. Coyoacán, 04510, Ciudad de México</institution>
         </aff>
         <aff id="aff2">
-          <institution>Coordinación de Vinculación Institucional, Universidad Nacional Autónoma de México</institution>
+          <institution>Coordinación de Vinculación Institucional, Universidad Nacional Autónoma de México, Del. Coyoacán, 04510, Ciudad de México</institution>
         </aff>
         <aff id="aff3">
-          <institution>Instituto de Geología, Universidad Nacional Autónoma de México</institution>
+          <institution>Instituto de Geología, Universidad Nacional Autónoma de México, Del. Coyoacán, 04510, Ciudad de México</institution>
         </aff>
         <aff id="aff4">
-          <institution>Departamento de Geologia, Universidad Autónoma de Barcelona</institution>
+          <institution>Departament de Geologia, Universitat Autònoma de Barcelona, 08193, Barcelona, España</institution>
         </aff>
       </contrib-group>
       <author-notes>
@@ -128,7 +128,7 @@
       <history>
         <date date-type="received">
           <day>09</day>
-          <month>06</month>
+          <month>01</month>
           <year>2017</year>
         </date>
         <date date-type="accepted">
@@ -147,7 +147,7 @@
           <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
         </license>
       </permissions>
-      <self-uri>https://www.martineve.com/</self-uri>
+      <self-uri></self-uri>
       <abstract>
         <sec>
         <title>Resumen</title>
@@ -1002,7 +1002,7 @@
             </name>
           </person-group>
           <article-title>Geodiversity: Valuing and Conserving Abiotic Nature</article-title>
-          <source>2nd Edition, Wiley-Blackwell</source>
+          <source>2nd Edition, Wiley-Blackwell, 508 pp</source>
           <date>
             <year>2004</year>
           </date>
