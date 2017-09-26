@@ -920,8 +920,8 @@
               <given-names>A.R.</given-names>
             </name>
             <name>
-              <surname>Fries, Jr.</surname>
-              <given-names>C.</given-names>
+              <surname>Fries</surname>
+              <given-names>C. Jr.</given-names>
             </name>
             <name>
               <surname>Segerstrom</surname>
@@ -937,7 +937,7 @@
             </name>
           </person-group>
           <article-title>Geolog&#237;a y yacimientos minerales del Distrito de Pachuca-Real del Monte, Estado de Hidalgo, M&#233;xico: Ciudad de M&#233;xico, M&#233;xico</article-title>
-          <source>Consejo de Recursos Naturales no Renovables, Publicaci&#243;n 5 E, 223 pp</source>
+          <source>Consejo de Recursos Naturales no Renovables, Publicaci&#243;n 5 E, 223 pp.</source>
           <date>
             <year>1963</year>
           </date>
@@ -1026,7 +1026,7 @@
             </name>
           </person-group>
           <article-title>Spatial Planning and Resilience Following Disasters: International and Comparative Perspectives</article-title>
-          <source>Bristol, Reino Unido, Policy Press</source>
+          <source>Bristol, Reino Unido, Policy Press, 360 pp.</source>
           <date>
             <year>2016</year>
           </date>
@@ -1042,7 +1042,7 @@
             </name>
           </person-group>
           <article-title>Alejandro de Humboldt en M&#233;xico</article-title>
-          <source>Secretar&#237;a de Hacienda y Cr&#233;dito P&#250;blico, Instituto Nacional de Antropolog&#237;a e Historia, Instituto Goethe, M&#233;xico</source>
+          <source>Secretar&#237;a de Hacienda y Cr&#233;dito P&#250;blico, Instituto Nacional de Antropolog&#237;a e Historia, Instituto Goethe, M&#233;xico, 217 pp.</source>
           <date>
             <year>1997</year>
           </date>
@@ -1165,7 +1165,7 @@
       </ref>
       <!--Instituto Nacional de Estad&#237;stica y Geograf&#237;a (INEGI), 2007, Carta Topogr&#225;fica F14-11, Hoja Pachuca de Soto, Escala 1:250,000.-->
       <ref id="ref_agregada_manualmente">
-        <element-citation publication-type="book">
+        <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
               <surname>Instituto Nacional de Estad&#237;stica y Geograf&#237;a (INEGI)</surname>
@@ -1173,11 +1173,12 @@
             </name>
           </person-group>
           <article-title>Anuario estadístico y geográfico de Hidalgo, México</article-title>
+          <source>INEGI, 583 p.</source>
           <date>
             <year>2013</year>
           </date>
-          <publisher-loc>583p</publisher-loc>
-          <publisher-name>INEGI</publisher-name>
+          <!-- <publisher-loc>583p</publisher-loc>
+          <publisher-name>INEGI</publisher-name> -->
         </element-citation>
       </ref>
       <ref id="ID0ec5fc28-fad8-46a5-9266-da7729ebfb3e">
@@ -1251,7 +1252,7 @@
         <!-- <mixed-citation>Mckee, E.H., Dreier, J.E., Noble, D.C., 1992, Early Miocene hydrothermal activity at Pachuca-Real del Monte, Mexico; an example of space-time association of volcanism and epithermal Ag-Au vein mineralization: Economic Geology, 87, 1635&#8210;1637.</mixed-citation> -->
       </ref>
       <ref id="ID24e42aad-f330-41cd-9bcf-a7589817496f">
-        <element-citation publication-type="book">
+        <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
               <surname>Mendoza-Rosales</surname>
@@ -1259,12 +1260,10 @@
             </name>
           </person-group>
           <article-title>Estructura del sector Saja (Cabalgadura El Doctor) estados de Hidalgo y Quer&#233;taro</article-title>
-          <source>Tesis Profesional</source>
+          <source>Facultad de Ingenier&#237;a, UNAM, Tesis Profesional, 64 pp.</source>
           <date>
             <year>1990</year>
           </date>
-          <publisher-loc>México D.F, 64pp</publisher-loc>
-          <publisher-name>Facultad de Ingenier&#237;a, UNAM</publisher-name>
         </element-citation>
         <!-- <mixed-citation>Mendoza-Rosales, C.C., 1990, Estructura del sector Saja (Cabalgadura El Doctor) estados de Hidalgo y Quer&#233;taro: Facultad de Ingenier&#237;a, UNAM, Tesis Profesional, 64 pp.</mixed-citation> -->
       </ref>
@@ -1277,14 +1276,10 @@
             </name>
           </person-group>
           <article-title>The Geology of the Mexican Republic</article-title>
-          <source>American Association of Petroleum Geologists. Studies in Geology</source>
+          <source>American Association of Petroleum Geologists. Studies in Geology, 39, 160pp.</source>
           <date>
             <year>1994</year>
           </date>
-          <volume>39</volume>
-          <issue></issue>
-          <fpage>160</fpage>
-          <lpage></lpage>
         </element-citation>
         <!-- <mixed-citation>Mor&#225;n-Zenteno, D., 1994, The Geology of the Mexican Republic: American Association of Petroleum Geologists. Studies in Geology, 39, 160 pp.</mixed-citation> -->
       </ref>
@@ -1337,7 +1332,7 @@
             </name>
           </person-group>
           <article-title>En pos de la plata. Episodios Mineros en la Historia Hidalguense</article-title>
-          <source>Pachuca, Hidalgo, Colecci&#243;n Hidalguense, Direcci&#243;n General de Publicaciones e Impresos del Gobierno del Estado de Hidalgo</source>
+          <source>Pachuca, Hidalgo, Colecci&#243;n Hidalguense, Direcci&#243;n General de Publicaciones e Impresos del Gobierno del Estado de Hidalgo, 446 pp.</source>
           <date>
             <year>1987</year>
           </date>
@@ -1439,7 +1434,7 @@
             <year>2008</year>
           </date>
           <volume>3</volume>
-          <issue>None</issue>
+          <issue></issue>
           <fpage>5</fpage>
           <lpage>24</lpage>
         </element-citation>
@@ -1497,7 +1492,7 @@
       </ref>
       <!--Sveriges geologiska unders&#246;kning (SGU), 2016, T&#228;vlingen Geologiskt Arv (Concurso de Patrimonio Geol&#243;gico, en sueco), disponible en < http://www.sgu.se/evenemang/genomforda-evenemang/tavlingen-geologiskt-arv>, consultado en diciembre de 2016. -->
       <ref id="ID93c9b8b7-ffe0-47b8-aaa2-fae6c2d51340">
-        <element-citation publication-type="book">
+        <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
               <surname>Soller</surname>
@@ -1509,13 +1504,13 @@
           <date>
             <year>2004</year>
           </date>
-          <publisher-loc></publisher-loc>
-          <publisher-name></publisher-name>
+          <fpage>128</fpage>
+          <lpage>130 pp.</lpage>
         </element-citation>
         <!-- <mixed-citation>Soller, D.R., 2004, Introduction to Geologic Mapping. McGraw-Hill Yearbook of Science &amp; Technology, pp. 128&#8210;130.</mixed-citation> -->
       </ref>
       <ref id="IDdd9d56ee-1b31-4fa6-ae8f-884075e69b40">
-        <element-citation publication-type="book">
+        <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
               <surname>Sureda</surname>
@@ -1523,12 +1518,10 @@
             </name>
           </person-group>
           <article-title>Historia de la Mineralog&#237;a. Serie Correlaci&#243;n Geol&#243;gica, 23 (ISSN on-line 1666- 9479)</article-title>
-          <source></source>
+          <source>Universidad Nacional de Tucum&#225;n, Argentina, 189 pp.</source>
           <date>
             <year>2008</year>
           </date>
-          <publisher-loc>Argentina, 189pp</publisher-loc>
-          <publisher-name>Universidad Nacional de Tucum&#225;n</publisher-name>
         </element-citation>
         <!-- <mixed-citation>Sureda, R.J., 2008, Historia de la Mineralog&#237;a. Serie Correlaci&#243;n Geol&#243;gica, 23 (ISSN on-line 1666- 9479), Universidad Nacional de Tucum&#225;n, Argentina, 189 pp.</mixed-citation> -->
       </ref>
