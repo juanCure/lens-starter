@@ -560,20 +560,14 @@
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.14.88/openlayers3/mapaComarcaMineraOL/index.html"
+        xlink:title="local_file" xlink:href="http://132.248.14.208/html/mapas_estaticos/numero2/comarcaMinera/html5forpc.html"
         mimetype="application/html">
       <object-id pub-id-type="doi"></object-id>
-        <label>Mapa Interactivo</label>
+        <label>Mapa Estático</label>
         <caption>
-          <title>Mapa interactivo de la comarca minera</title>
-          <!--
-          <p>
-            <bold>DOI:</bold>
-            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">http://dx.doi.org/10.7554/eLife.21900.021</ext-link>
-          </p>
-      -->
+          <title>Mapa estático de la comarca minera</title>
         </caption>
-      <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.88/openlayers3/mapaComarcaMineraOL/index.html"/>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.208/html/mapas_estaticos/numero2/comarcaMinera/html5forpc.html"/>
       </supplementary-material>
     </sec>
   </body>
