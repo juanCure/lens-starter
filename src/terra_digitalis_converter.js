@@ -40,12 +40,12 @@ TerraDigitalisConverter.Prototype = function() {
     	}
 
     	node.breadcrumbs = [
-    		{name: "Terra Digitalis", url: "http://132.248.14.208/html/ojs/index.php/terra_digitalis", image: "http://132.248.14.208/html/terra_digitalis/images/terra_digitalis_logo.png"},
- 			{name: dispChannel, url: "http://132.248.14.208/html/ojs/index.php/terra_digitalis"}   		
+    		{name: "Terra Digitalis", url: "http://terradigitalis.igg.unam.mx/ojs3/index.php/terra_digitalis", image: "http://terradigitalis.igg.unam.mx/terra_digitalis_logo.png"},
+ 			{name: dispChannel, url: "http://terradigitalis.igg.unam.mx/ojs3/index.php/terra_digitalis"}   		
     	];
 
     	if(category)
-    		node.breadcrumbs.push({name: category, url: "http://132.248.14.208/html/ojs/index.php/terra_digitalis"});
+    		node.breadcrumbs.push({name: category, url: "http://terradigitalis.igg.unam.mx/ojs3/index.php/terra_digitalis"});
 
  	};
  	 /*This function extract the supplementary data from xml file
